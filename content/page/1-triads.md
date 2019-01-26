@@ -106,3 +106,5 @@ Notice that when moving up the neck to the next inversion, each "voice" in the t
 {{% /details %}}
 
 It's certainly worthwhile to also drill with diminished and augmented triads, but these are used so much less frequently that it's perfectly okay to only work on Major and minor triads for now.
+
+Next, let's look at the [triad shapes on different strings]({{< ref "/page/triads-2-dropstrings.md" >}})

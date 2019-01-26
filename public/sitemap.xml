@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lessons.doiwalters.com/page/triads-2-dropstrings/</loc>
+    <lastmod>2019-01-25T19:48:05-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lessons.doiwalters.com/page/1-triads/</loc>
+    <lastmod>2019-01-25T16:48:14-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lessons.doiwalters.com/post/2019-01-20-practice/</loc>
     <lastmod>2019-01-20T14:48:47-08:00</lastmod>
   </url>
@@ -69,7 +79,7 @@
   
   <url>
     <loc>https://lessons.doiwalters.com/</loc>
-    <lastmod>2019-01-20T14:48:47-08:00</lastmod>
+    <lastmod>2019-01-25T19:48:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,7 +89,7 @@
   
   <url>
     <loc>https://lessons.doiwalters.com/page/</loc>
-    <lastmod>2019-01-16T22:08:46-08:00</lastmod>
+    <lastmod>2019-01-25T19:48:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +125,13 @@
   
   <url>
     <loc>https://lessons.doiwalters.com/tags/theory/</loc>
-    <lastmod>2019-01-06T16:39:18-08:00</lastmod>
+    <lastmod>2019-01-25T19:48:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lessons.doiwalters.com/tags/triads/</loc>
+    <lastmod>2019-01-25T19:48:05-08:00</lastmod>
     <priority>0</priority>
   </url>
   
