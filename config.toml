@@ -89,6 +89,11 @@ pygmentsCodefencesGuessSyntax = true
     name = "Learning the fretboard"
     url = "/page/1-just-12-notes"
     weight = 1
+[[menu.main]]
+    parent = "resources"
+    name = "Triads"
+    url = "/page/1-triads"
+    weight = 2
 #
 #[[menu.main]]
 #    parent = "samples"
