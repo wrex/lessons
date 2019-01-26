@@ -7,6 +7,11 @@ tags: [theory,triads]
 draft: false
 ---
 
+This is part 1 of a 2-part series on triads:
+
+1. Triad Introduction (this page)
+2. [Triads on other strings]({{< ref "/page/triads-2-dropstrings.md" >}})
+
 Chords are just multiple notes played simultaneously. Technically, you can have two-note chords (AKA [dyads](https://en.wikipedia.org/wiki/Dyad_(music))) but most people consider three-note chords (called "triads") to be the simplest possible place to start making real chord harmonies.
 
 Triads are formed by "stacking" intervals of a minor or major 3rd on top of each other. Since there are two internal intervals between three notes, and because each interval can be either major or minor, there are logically four types of triads (minor+minor, minor+major, major+minor, and major+major).
