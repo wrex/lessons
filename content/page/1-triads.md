@@ -44,7 +44,7 @@ Here is how to play the C Major and C minor triads on the top three strings:
 {{< figure src="/img/neck-diagrams/c-minor-GBE-root.png" title="C minor triad, root inversion" width="33%" >}}
 </div>
 
-The are other ways of playing the three notes that comprise a C Major besides the root inversion.
+There are other ways of playing the three notes that comprise a C Major besides the root inversion.
 
 There are, of course, six permutations of the three notes in the C Major triad: CEG, EGC, GCE, CGE, ECG, and GEC. the first three are called "close voicings" because the notes are as close together as possible. The others are called "spread voicings" or "drop chord voicings" because one of the notes (voices) is moved to a different octave and is no longer as close as possible to the others.
 
