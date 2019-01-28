@@ -109,7 +109,7 @@ Because of this uneven spacing, the sound/feeling of playing note sequences *cha
 
 If we start with C, there is a whole step to D, another whole step to E, a half step to F, whole steps from G to B, then another half step to begin another sequence starting with a higher C. This ordering of tone intervals (W W h W W W h) has a characteristic sound or feel that today we call "major" or "Ionian mode" if we're feeling fancy. It has a vaguely happy sound.
 
-If instead, we start with A, though, the intervals become W h W W W h W with a characteristic feel we call "minor" or "Aeolian mode". Again, this sounds vaguely sad to most people.
+If instead, we start with A, though, the intervals become W h W W h W W with a characteristic feel we call "minor" or "Aeolian mode". Again, this sounds vaguely sad to most people.
 
 If you start with G, you're in "Mixolydian mode" (great for soloing over the blues today, but I'm unsure if any Gregorian blues survive).
 
