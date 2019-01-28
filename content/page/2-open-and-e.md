@@ -124,27 +124,69 @@ You may think some of these exercises are completely unnecessary, and you may ev
 
 Do it! No matter how stupid you feel.
 
-## The sixth string
+## Natural notes on the sixth string
 
-Now that you've got the open strings (and 12th fret) down, let’s learn the seven natural notes on string six. Here’s the complete diagram:
+Now that you've got the open strings (and 12th fret) down, let’s learn the seven natural notes on string six.
+
+First, let's explain what we mean by "natural notes". Like many things with music theory, it's often easier to see things on a piano keyboard than a guitar's fretboard. Here's a diagram of a grand piano:
+
+<br/>
+<div class="text-center">
+  {{< figure src="/img/88-keys-no-notes.png" title="Grand piano keyboard" >}}
+</div>
+
+A grand piano has 88 keys: 52 white ones and 36 black. As you likely already know, the pitches produced by each key get higher as you move further to the right.
+
+On a piano, the white keys are the "natural notes." Although there are physically 52 white keys on a grand piano, there are really only 12 natural notes repeated multiple times:
+
+<br/>
+<div class="text-center">
+  {{< figure src="/img/88-keys.png" title="Grand piano keyboard with note names" >}}
+</div>
+
+Notice that there are 8 keys labeled "C," for example. The red one in the middle is called "middle C," surprisingly enough.
+
+[It's worth knowing that a grand piano can produce more pitches than a six-string guitar. It produces pitches both lower and higher.]
+
+Each of the black keys has two names (technically, even more, but we'll ignore double flats and double sharps for now). The black key that lies between each C and D key, for example can be called "C&sharp;" ("C sharp") or "D&flat;" ("D flat"). The black key between each G and A can similarly be called G&sharp; or A&flat;.
+
+The natural notes are named with the first seven letters of the alphabet: A through G.
+
+There are only seven notes in each "octave," then the pattern begins again. The leftmost white key produces the note A, and every eighth white key to its right is also an A.
+
+If you look carefully, you'll see that there are seven white keys (natural notes) and five black keys (sharps and flats) for a total of twelve keys in every octave. This is true regardless of which note you start the octave on (A to A, B to B, ..., or G to G). In all of western music, there are only twelve notes!
+
+**Notice the pattern of the black keys**.
+
+For reasons we'll get into later, it's most useful to look at octaves that begin on the note C. If you play twelve consecutive notes starting on a C, play every white or black key as you move to the right, and stop on the note B, you'll have played 12 notes in total.
+
+Most importantly, **there was a black key between every pair of white keys, except between B & C, and between E & F.** Remember this! This fact that two pairs of notes are separated by a smaller interval is the foundation of "diatonic harmony" (and, indeed, **all** western music).
+
+Every note is separated by a "whole tone" (white *and* black key) except B/C and E/F which are only separated by a "semitone" (no black key). You simply *must* remember this.
+
+Okay, back to the guitar.
+
+Here are the natural notes on the sixth string of a guitar:
 
 <div class="text-center">
   {{< figure src="/img/neck-diagrams/e6-string.png" title="Natural notes on the 6th string" >}}
 </div>
 
-These notes also happen to map to the white keys on a piano. The red C is notated on the staff as "middle C" on sheet music for guitar, but produces a pitch exactly one octave lower than middle C on a piano.
+These are the same seven notes as the white keys on a piano.
+
+[The red C on the fretboard is notated on sheet music for guitar as "middle C", but produces a pitch exactly one octave *lower* than middle C played on a piano. This can be a little confusing, but it makes reading music for guitar a whole lot easier. Without this convention, almost everything you might play would have to be notated with [ledger lines](https://en.wikipedia.org/wiki/Ledger_line).]
 
 We’re going to work our way up to memorizing all of these notes incrementally in this section. (Even if this looks somewhat intimidating, it shouldn't take you more than one practice session to **KNOW** (or at least almost **KNOW**) these notes.
 
 Before we tackle learning the notes between the two we already know (the E’s on the open string and fret 12) examine the spacing between each of the labeled notes (the natural notes).
 
-Almost all the notes have two frets (also called a "whole step") between them. The only exceptions are between note E and F, and between B and C (with only one fret, or a half step between these pairs of notes). This is important: half steps between B/C and E/F, whole steps everywhere else. Remember this!
+Exactly the same as a piano, almost all the notes have two frets (also called a "whole step") between them. The only exceptions are between note E and F, and between B and C (with only one fret, or a half step, between these pairs of notes).
 
 The seven natural notes A-G are also known as the C Major scale or "C Ionian" (which is why the C notes in the diagram are red — C is the root note of the corresponding scale).
 
 If we start from the root C, the pattern of whole steps and half steps is W W h W W W h before we get back to the root again. That is, C to D is a whole step (W), D to E another whole step (W), E to F is only a half step (h), then back to a whole step from F to G, etc.
 
-The diagram stops at fret 15, but the pattern continues indefinitely. Imagine that the diagram is infinitely long, or that fret fifteen wraps back onto fret 3.
+The diagram stops at fret 15, but the pattern continues indefinitely. Imagine that the diagram is infinitely long, or that fret 15 wraps back onto fret 3.
 
 <p></p>
 {{% details "Exercise 4: Major Scale Intervals (click to expand)" %}}
