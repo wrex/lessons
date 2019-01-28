@@ -276,7 +276,7 @@ Totally made up band discussion:
 
 **Bass**: You want me to hit the 9? <span class="text-info">(Translation: Shall I play an E?)</span>
 
-**Guitar**: Nah, I'll put it on top. Groove on the m3. <span class="text-info">(Translation: Emphasize the note F instead.)</span>
+**Guitar**: Nah, I'll put it on top. Groove on the minor three. <span class="text-info">(Translation: Emphasize the note F instead.)</span>
 
 **Drummer**: You're both rushing, tighten up. <span class="text-info">(Translation: I'm ready for a beer.)</span>
 
