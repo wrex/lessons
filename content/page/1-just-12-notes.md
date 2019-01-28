@@ -162,7 +162,7 @@ Anyway, the point is that we've ended up with 12 unique notes (and only 12 uniqu
 
 We can start a scale "rooted" on any of these 12 notes, not just the seven natural notes (The Bb Major scale really is a thing, for example). Each of these 12 scales contains just seven notes, and seven different sounds (or modes) depending which of the seven notes you start on.
 
-### Whats in a name? Note names, scale degrees and intervals
+### What's in a name? Note names, scale degrees and intervals
 
 The **names** of notes are absolute. They never change, no matter what scale, melody, or chord you're playing. C is always called C. A D is always called D (and can always be found two frets higher than any C on the fretboard).
 
@@ -266,7 +266,7 @@ C Major contains the **notes** C D E F G A B but it also contains seven basic **
 
 So the chord F (Major) for example, is called the IV chord, and the note F is the 4th degree of the scale.
 
-By convention, we use roman numerals for chords and digits for notes, and lower case roman letters for minor chords. This helps considerably in written material, but it can be amazingly difficult to hear the difference in spoken words! It's up to you to figure out if people are talking about chords or notes.
+By convention, we use upper case roman numerals (I, IV, etc.) for major chords, lower case roman numerals (ii, vi) for minor chords, and Arabic numerals (1, 3, 5, etc.) for notes/intervals/scale-degrees. This helps considerably in written material, but it can be amazingly difficult to hear the difference in spoken words! It's up to you to figure out if people are talking about chords or notes.
 
 Totally made up band discussion:
 
