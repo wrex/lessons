@@ -194,7 +194,7 @@ The diagram stops at fret 15, but the pattern continues indefinitely. Imagine th
 
 <p>Memorize this pattern: Whole, whole, half, whole, whole, whole, half. <p>
 
-<p>Recite the "whole whole half whole whole whole half" sequence until you can repeat it in your sleep. <strong>All</strong> of western music derives from this one pattern! Literally recite the sequence out loud for a few minutes ("whole whole half whole whole whole half whole whole half ...")</p>
+<p>Recite the "whole whole half whole whole whole half" sequence until you can repeat it in your sleep. <strong>All</strong> of western music derives from this one pattern! Literally recite the sequence out loud several times ("whole whole half whole whole whole half whole whole half ...")</p>
 
 <p>For the natural notes, the pattern starts with C: C (W) D (W) E (h) F (W) G (W) A (W) B (h) C .... This is the C Major scale. There is a whole step between every pair of notes except B/C and E/F. Remember this!</p>
 
@@ -230,7 +230,7 @@ Like the open string and the 12th fret (where things repeat) the fifth fret is a
 
 1. The fifth fret is almost halfway between the nut and the 12th fret. No matter where your hand is, you’re going to be close to the nut, the 5th fret, or the 12th fret. If you **KNOW** the notes at these locations, figuring out the rest is easier until you **KNOW** them as well.
 
-2. The open 6th string is E and the note at the fifth fret is A. The open *5th* string is also an A. The interval from E up to A is known as an interval of a "perfect fourth" (because it’s four scale notes between E and A inclusive: EFGA — four notes). A guitar in standard tuning has the strings tuned in fourths (with one exception that we’ll get to later). E to A is a fourth. A to D is a fourth. D to G is a fourth. B to E is a fourth. Being able to find fourths *along* a string as well as *between* string pairs is extremely useful as we’ll see.
+2. The A note at the fifth fret is the same as the open *5th* string note. The interval from E up to A is known as an interval of a "perfect fourth" (because it’s four scale notes between E and A inclusive: EFGA — four notes). A guitar in standard tuning has the strings tuned in fourths (with one exception that we’ll get to later). E to A is a fourth. A to D is a fourth. D to G is a fourth. B to E is a fourth. Being able to find fourths *along* a string as well as *between* string pairs is extremely useful as we’ll see.
 
 3. Because the guitar is (mostly) tuned in fourths, the notes at the fifth fret can be used to tune the next higher string. One way to tune the open 5th string (the note A) by ear is to play the 6th string at the 5th fret, then twist the tuning knob on the 5th string until it produces the same note. [I'll cover more tuning tricks and patterns in a separate blog post.]
 
@@ -260,7 +260,7 @@ What note comes after E? (F, of course, just a half step up from E).
 
 What note comes before A? (That would be G, down a *whole* step or two frets.)
 
-If answering either of those questions took even a moment's hesitation, you should go back and repeat some of the earlier drills. Things get harder as we go forward. The more you solidify the easy stuff in your head, the easier things will go later. Baby steps. Do **not** feel obligated to complete this entire lesson in a day &mdash; take as long as it needs.
+If answering either of those questions took even a moment's hesitation, you should go back and repeat some of the earlier drills. Things get harder as we go forward. The more you solidify the easy stuff in your head, the easier things will go later. Baby steps. Do **not** feel obligated to complete this entire lesson in a day &mdash; take as long as you need.
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/e6-EFGA.png" title="E, F, G, and A on string 6" >}}
@@ -353,14 +353,18 @@ This means that everything you've learned on string 6 is immediately applicable 
   <p>The following two sequences are particularly useful:</p>
   <p>
     <ul>
-      <li><p>Mostly-Fourths: B E A D G C F B E A D G C F B E A .... Try not to always start on a different note, not always with B, but always follow the same order. [I call this sequence "mostly fourths" because it skips over any sharp/flat notes: a fourth up from F is Bb, not B (F to B is a M3). We are focusing on learning the natural notes in these exercises, and leaving sharps and flats to dead reckoning from an adjacent natural note.]</p></li>
+      <li><p>Mostly-Fourths: B E A D G C F B E A D G C F B E A .... Try not to always start on a different note, not always with B, but always follow the same order. [I call this sequence "mostly fourths" because it skips over any sharp/flat notes: a fourth up from F is Bb, not B (F to B is a M3). We are focusing on learning the natural notes in these exercises. It's okay to use dead reckoning from an adjacent natural note to find the sharps and flats.]</p></li>
       <li><p>Thirds: C E G, B D F, A C E, G B D, F A C, E G B, D F A. Repeat.</p></li>
     </ul>
   </p>
 
-  <p>The mostly-fourths sequence of natural notes is BEADGCF. Practice saying it out loud in order, over and over. Memorize the sequence using whatever mnemonic tricks work, but try to use that sequence for practicing as often as possible — it's far better than alphabetic order, forward or backward. I remember the sequence as the word "bead" followed by the initialism for "greatest common factor" (GCF). Meaningless, but it works for me. It also contains the order of the open strings (except, of course, for the B string).</p>
+  <p>The mostly-fourths sequence of natural notes is BEADGCF. Practice saying it out loud in order, over and over. Memorize the sequence using whatever mnemonic tricks work, but try to use that sequence for practicing as often as possible — it's far better than alphabetic order. I remember the sequence as the word "bead" followed by the initialism for "greatest common factor" (GCF). Meaningless, but it works for me. It also contains the order of the open strings (except, of course, for the B string).</p>
 
-  <p>You should know that full "cycle of fourths" goes through all 12 notes, not just the seven natural notes. The full cycle of fourths is B E A D G C F Bb Eb Ab Db Gb, then it starts over again with B.</p>
+  <p>You should know that the full "cycle of fourths" goes through all 12 notes, not just the seven natural notes. The full cycle of fourths is B E A D G C F B&flat; E&flat; A&flat; D&flat; G&flat;, then it starts over again with B.</p>
+
+  <p>
+    Just like you needed to learn the alphabet backwards (GFEDCBA) you should practice the "mostly fourths" sequence backward, too: FCGDAEB. When you go backward like this, you are actually going in intervals of a perfect fifth (no longer fourths). Knowing this sequence is particularly handy when reading sheet music.
+  </p>
 
   <p>The thirds sequence is FACEGBDF. Memorize this, too. Practice saying it in order. Then practice saying it in strings of three: C E G, B D F, A C E, G B D, F A C, E G B, D F A, then starting over with C E G. Each group of three notes is called a <em>triad</em>. You'll be spending a lot of time with them in the future, but for now just use them as a source for patterns.</p>
 
@@ -374,7 +378,7 @@ This means that everything you've learned on string 6 is immediately applicable 
 
 ### Practicing with actual songs
 
-You can make a surprising amount of actual music with just the notes in that last diagram. In addition to simple melodies on the high E string, you can also play **chords** that have the root on the 5th string.
+You can make a surprising amount of actual music with just the notes in that last diagram. In addition to simple melodies on the high E string, you can also play **chords** that have the root on the 6th string.
 
 The simplest of all chords are so-called "power chords" or 5-chords. Here's an A5 power chord, for example, that has the root on the 6th string (the hollow dot is optional, you can also mute that string if you want):
 
@@ -387,35 +391,35 @@ You already **KNOW** that the fifth fret of the low E string is the note A. Play
 {{% details "Exercise 9: Smoke on the Water (click to expand)" %}}
 <div class="bg-info">
 
-<p>The first song kids of my generation learned was often Smoke on the Water by Deep Purple. The song was written in G minor, but we can transpose the main riff to the key of A so that there are fewer flatted notes.
+<p>The first song kids of my generation learned was often Smoke on the Water by Deep Purple. The song was written in G minor, but we can transpose the main riff to the key of Am so that there are fewer flatted notes.
 The main riff in Am is as follows:</p>
 
 <div class="text-center">
 {{< figure src="/img/smoke-slash.png" title="Smoke on the Water (riff in Am)" >}}
 </div>
 
-<p>If, by some miracle, you've never heard the riff, and you don't yet know how to read rhythm notation, it sounds like [this in Gm](/audio/smoke-on-the-water-Gm.mp3) Using power chords rooted on the sixth string isn't the easiest way to play the riff, but it's not all that hard (it helps to play extremely slowly at first).</p>
+<p>If, by some miracle, you've never heard the riff, and you don't yet know how to read rhythm notation, it sounds like <a href="/audio/smoke-on-the-water-Gm.mp3">this in Gm</a>. Using power chords rooted on the sixth string isn't the easiest way to play the riff, but it's not all that hard (it helps to play extremely slowly at first).</p>
 
-That one brief Eb, of course, is just one fret below E, so you find it at the 11th fret, the rest you already **KNOW**.
+<p>That one brief Eb, of course, is just one fret below E, so you find it at the 11th fret, the rest you already <strong>KNOW</strong>.</p>
 
-If you want to play along with an actual band, YouTube, or the audio file I linked to above, you must move everything down two frets to transpose everything to Gm.
+<p>If you want to play along with an actual band, YouTube, or the audio file I linked to above, you must move everything down two frets to transpose everything to Gm.</p>
 
-Either way, the exercise is to play this riff while naming the root notes you're playing: "A, C, Dee ... A, C, Eb-dee ....".
+<p>Either way, the exercise is to play this riff while naming the root notes you're playing: "A, C, Dee ... A, C, Eb-dee ....".</p>
 
-Crank it up and have fun, but remember the purpose of the exercise is to cement the location of the notes into your brain and fingers. It's not for ear training or technique. The idea is to **find those notes** on the fretboard using the chord names above (A5, C5, D5, ...).
+<p>Crank it up and have fun, but remember the purpose of the exercise is to cement the location of the notes into your brain and fingers. It's not for ear training or technique. The idea is to <strong>find those notes</strong> on the fretboard using the chord names above (A5, C5, D5, ...).</p>
 
-That's why I've not included the tablature in this section. If you really can't figure it out for some reason, [here is the tab in Gm](/img/smoke-tab.png). The tab is in Gm, but if you shift it up to Am there will be fewer flatted notes to contend with (you'll be playing the notes you've already learned except for that brief Eb).
+<p>That's why I've not included the tablature in this section. If you really can't figure it out for some reason, <a href="/img/smoke-tab.png">here is the tab in Gm</a>. The tab is in Gm, but if you shift it up to Am there will be fewer flatted notes to contend with (you'll be playing the notes you've already learned except for that brief Eb).</p>
 
 </div>
 {{% /details %}}
 
 Power chords have some nice characteristics:
 
-Power chords are neither major nor minor, so you can play them over (almost) **any** chord that shares the same root.
+* Power chords are neither major nor minor, so you can play them over (almost) **any** chord that shares the same root.
 
-If a song uses the chord progression  G / C  / D, you can play G5 / C5 / D5. If it's C / Am / Dm / G7 / C, you can play C5 / A5 / D5 / G5 / C5. If the chart says Em7#9 you can probably get away with just playing E5 (and let someone else in the band take care of all those other notes).
+* If a song uses the chord progression  G / C  / D, you can play G5 / C5 / D5. If it's C / Am / Dm / G7 / C, you can play C5 / A5 / D5 / G5 / C5. If the chart says Em7#9 you can probably get away with just playing E5 (and let someone else in the band take care of all those other notes).
 
-[The only exception is [altered chords](https://en.wikipedia.org/wiki/Altered_chord) where the fifth is flattened or sharpened, by the way. So if you see a chord with a name like Dm7b5, or anything with "-/+/b/#" next to the number 5, a power chord may not sound that great over it.]
+[The only time you can't substitute a power chord is with [altered chords](https://en.wikipedia.org/wiki/Altered_chord) where the fifth is flattened or sharpened. So if you see a chord with a name like Dm7&flat;5, or anything with "-/+/&flat;/&sharp;" next to the number 5, a power chord may not sound that great over it.]
 
 Because any note you play on a guitar includes the fifth of that note as an overtone already, playing a note+fifth (a power chord) is basically just playing a "fatter" version of the original note. This means it sounds **great** with as much distortion as you want to throw at it. You don't have to worry about the nasty discordant sound you can get when you distort more complicated chords.
 
@@ -444,7 +448,7 @@ You say:   /  D      D       D       D /  D    D         D     A /
 
   <p>Now repeat the exercise, but this time actually play the power-chord as you say the name. Try to play in time, changing chords right on the downbeat of each chord change. You'll likely find it important to think ahead and plan for the next change.</p>
 
-  <p>Understand that this is intended to be <strong>practice</strong>, not <strong>playing</strong>. Don't worry about making it sound great (heavy-metal-ish power chords over classic country probably won't!). Also try not to lose focus or start goofing around with other songs/melodies you're reminded of. We are drilling to be able to find notes quickly and in time. We want to test that we truly **KNOW** the locations, not to have fun making music (at least not yet). Practice should be disciplined and structured.</p>
+  <p>Understand that this is intended to be <strong>practice</strong>, not <strong>playing</strong>. Don't worry about making it sound great (heavy-metal-ish power chords over classic country probably won't!). Also try not to lose focus or start goofing around with other songs/melodies you're reminded of. We are drilling to be able to find notes quickly and in time. We want to test that we truly <strong>KNOW</strong> the locations, not to have fun making music (at least not yet). Practice should be disciplined and structured.</p>
 
   <p>If you're playing a song with very few chord changes per measure, practice playing the same chord multiple times within each measure, right on the downbeat. See if you can make each change in time to keep up the rhythm. For example, with Cold, Cold Heart, the chords are:</p>
 
