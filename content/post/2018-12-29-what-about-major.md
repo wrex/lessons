@@ -60,7 +60,7 @@ Regardless, we need to practice the major pentatonic scale in **exactly** the sa
 
 5. Next practice fixed scale pattern sequences over the connected shapes. First just linearly ascend and descend the connected scale shapes. Then play sequences of three, then sequences of four, and finally every other note ("thirds").
 
-6. Next it's time to explore the same two "extra" notes, the b3 and the b5. Over major chords, you'll probably find that the b5 just sounds wrong. You'll probably only ever want to use the b5 as a very brief approach note to get to the p5 or M6. The b3 over major chords is interesting, though. As we discussed, it kinda works. Over major chords, the b3 becomes the "blue" note, just like the b5 is the blue note over minor chords. You probably don't want to hang out on it *too* long, but that minor over major sound is definitely a big part of the blues. Spend some time making lines using the b3 over major chords, it's worth the effort. In particular, try "tweeking" the M2 just a little sharp with a bend. Bending the M2 a little sharp over a major chord feels every bit as "bluesy" and sweet as tweeking the p4 over a minor chord (or at least it does to me).
+6. Next it's time to explore the same two "extra" notes, the b3 and the b5. Over major chords, you'll probably find that the b5 just sounds wrong. You'll probably only ever want to use the b5 as a very brief approach note to get to the p5 or M6. The b3 over major chords is interesting, though. As we discussed, it kinda works. Over major chords, the b3 becomes the "blue" note, just like the b5 is the blue note over minor chords. You probably don't want to hang out on it *too* long, but that minor over major sound is definitely a big part of the blues. Spend some time making lines using the b3 over major chords, it's worth the effort. In particular, try "tweaking" the M2 just a little sharp with a bend. Bending the M2 a little sharp over a major chord feels every bit as "bluesy" and sweet as tweaking the p4 over a minor chord (or at least it does to me).
 
 After all this ridiculously thorough exploration into just two scales (plus "extras") you're about to get an enormous payoff:
 
@@ -76,7 +76,7 @@ Major and Minor sound **completely, utterly different**. But for every major sca
 
 To me, this was an absolute epiphany. I hope whoever reads this feels the same way.
 
-On a purely practical level, this drastically reduces the number of shapes and movements your fingers need to make. Major and minor (and as we'll see, other "modes") follow the same shapes on the fretboard. Train your fingers to find major notes and they also know where to find minor notes (you just need to shift your hand and, uh, flip your brain to revisualize things).
+On a purely practical level, this drastically reduces the number of shapes and movements your fingers need to make. Major and minor (and as we'll see, other "modes") follow the same shapes on the fretboard. Train your fingers to find major notes and they also know where to find minor notes (you just need to shift your hand and, uh, flip your brain to re-visualize things).
 
 Let's provide a visual example of what I mean. Here's the A Major Pentatonic scale everywhere on the fretboard again (this time with note names rather than scale degrees):
 

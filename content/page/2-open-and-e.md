@@ -44,7 +44,7 @@ We number the strings starting from 1, the thinnest string closest to the floor,
 
 Terminology can get confusing, so this site always uses terms like "up," "down," "higher," "lower," *etc.* relative to **pitch** and not relative to physical topology.
 
-That is, the 6th string is **lower** than the 1st string, even though it's physically farther from the floor. Similarly, a note played at the 5th fret is "lower down the neck" than one played at the 12th fret of the same string, even though proper form has one holding the headstock physically higher than the bridge of the instrument. To play on a lower string means to move your hand further from the floor. To play higher up the neck moves your left hand closer to your right.
+That is, the 6th string is **lower** than the 1st string, even though it's physically farther from the floor. Similarly, a note played at the 5th fret is "lower down the neck" than one played at the 12th fret of the same string. This is true ven though proper form has one holding the headstock physically higher than the bridge of the instrument. To play on a lower string means to move your hand further from the floor. To play higher up the neck moves your left hand closer to your right.
 
 From low to high (6th to 1st strings) the strings are tuned to the notes E, A, D, G, B, and E. You simply have to memorize this, there is no shortcut. The E produced by the open 1st string is two octaves higher than the one produced on the open 6th string.
 
@@ -103,7 +103,7 @@ Do it!
 
 Keep drilling until you have absolutely no "mental friction" or delays. Most people **KNOW** the open notes within just five or ten minutes or so of practice, but don't hesitate to take as long as necessary.
 
-You may think some of these exercies are completely unnecessary, and you may even be right, but it's an extremely bad habit to think you can perform something on the guitar without actually doing it. You may be surprised. You're also programming your brain by associating sounds and fretting locations with note names. Lastly, it's important to spend at least a little time **practicing things you can do easily**. It's easy to become demotivated if you only practice things you **can't** do! (Within moderation, of course, the once you can perform an exercise effortlessly, it's time to move on.)
+You may think some of these exercises are completely unnecessary, and you may even be right, but it's an extremely bad habit to think you can perform something on the guitar without actually doing it. You may be surprised. You're also programming your brain by associating sounds and fretting locations with note names. Lastly, it's important to spend at least a little time **practicing things you can do easily**. It's easy to become demotivated if you only practice things you **can't** do! (Within moderation, of course, the once you can perform an exercise effortlessly, it's time to move on.)
 
 <p></p>
 {{% details "Exercise 3: Reciting the C Major scale (click to expand)" %}}
@@ -162,7 +162,7 @@ The diagram stops at fret 15, but the pattern continues indefinitely. Imagine th
 
 <p>Practice saying any random note from the seven and answering how large the interval is up and down to the adjacent notes.</p>
 
-<p>Now make it harder and think about the intervals between non-adjacent notes. An interval of of two whole steps is called a "major third." The interval of one and a half whole steps (three frets) is called a "minor third." What are the intervals between these pairs of notes:</p>
+<p>Now make it harder and think about the intervals between non-adjacent notes. An interval of two whole steps is called a "major third." The interval of one and a half whole steps (three frets) is called a "minor third." What are the intervals between these pairs of notes:</p>
 
 <ul>
   <li>A up to C?</li>
@@ -251,7 +251,7 @@ We've spent an awful lot of time already just drilling with a few note locations
 
 It's like learning your way around a new city. At first you may only know a few landmarks (say your favorite coffee shop, your apartment, and where you work). If someone asks to meet you at any of these locations, you don't need any further directions: you know exactly where to go. This is *pilotage*.
 
-*Dead reckoning* is when you use tools like a a compass and some way to measure distances to navigate from a known location. It's the difference between "meet me at Starbucks" and "take the third left down the street from Starbucks, and meet me at the brown bulding on the right at the end of the block."
+*Dead reckoning* is when you use tools like a a compass and some way to measure distances to navigate from a known location. It's the difference between "meet me at Starbucks" and "take the third left down the street from Starbucks, and meet me at the brown building on the right at the end of the block."
 
 Eventually, we want to know all the natural notes everywhere on the neck by **pilotage**. We want to just know where they are without much thought. This will take quite a while, though. We'll use dead reckoning in the interim and just find notes relative to ones we already **KNOW**. But you simply must **KNOW** at least a few landmarks to get started.
 
@@ -322,7 +322,7 @@ This means that everything you've learned on string 6 is immediately applicable 
 
   <p>The thirds sequence is FACEGBDF. Memorize this, too. Practice saying it in order. Then practice saying it in strings of three: C E G, B D F, A C E, G B D, F A C, E G B, D F A, then starting over with C E G. Each group of three notes is called a <em>triad</em>. You'll be spending a lot of time with them in the future, but for now just use them as a source for patterns.</p>
 
-  <p>If you've ever learned how to read music on a treble clef in sheet music, these sequences should look familar. FACE (the word "face") are the notes on the open spaces between the lines of the clef. EGBDF ("every good boy does fine") are the notes on each line. It will prove incredibly valuable later to know the three notes in each three-note triad, so try to practice this way as often as possible.</p>
+  <p>If you've ever learned how to read music on a treble clef in sheet music, these sequences should look familiar. FACE (the word "face") are the notes on the open spaces between the lines of the clef. EGBDF ("every good boy does fine") are the notes on each line. It will prove incredibly valuable later to know the three notes in each three-note triad, so try to practice this way as often as possible.</p>
 
   <p>Using these sequences during your practice sessions is a great way to kill two birds with one stone. You're memorizing two important sequences, as well as mixing up the order of whatever you're practicing.</p>
 

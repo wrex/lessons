@@ -42,7 +42,7 @@ There's a great line in one of the comments to Andrew's video:
 
 The red note labeled "R" is the root, or the note "A". Notice how the root note is at the "heel" of the frying pan shape. Remember this, it'll come in handy as we move this shape around for other chords.
 
-That diagram labels each note with it's function relative to the A minor triad (chord). The function of a note changes every time the underlying chord changes, but every note also has a fixed name that never changes. Here's the exact same diagram, but using note names rather than its function:
+That diagram labels each note with its function relative to the A minor triad (chord). The function of a note changes every time the underlying chord changes, but every note also has a fixed name that never changes. Here's the exact same diagram, but using note names rather than its function:
 
 {{< figure src="/img/neck-diagrams/frying-pan-by-note.png" title="The Frying Pan shape with note names" width="100%" >}}
 
@@ -50,7 +50,7 @@ As I hope you can see, the note A is also known as the root of Am, C is the flat
 
 **Music is made from sounds, not names, not shapes**. Geez that sounds obvious, but people *often* lose sight (err, hearing) of this as they study the instrument.
 
-The primary purpose of this post is to get you to start **hearing** the quality of each of these indivdual notes over different chords.
+The primary purpose of this post is to get you to start **hearing** the quality of each of these individual notes over different chords.
 
 ## Try it!
 
@@ -62,9 +62,9 @@ The simplest (albeit potentially boring) thing is to just record yourself slowly
 
 Better (if less likely) is to find a *very* good (and possibly somewhat slow) friend who's willing to just play an Am over and over and over for hours while you experiment.
 
-Best is an app like [iReal Pro](https://irealpro.com) that let's you loop a single chord or progression of multiple chords as many times as you want (with any given tempo, multiple styles, and continually varied inversions/arpeggiation). If you're interested in learning how to solo, that app is a godsend — the forums provide freely downloadable charts for thousands of songs. Nobody will mistake the sound for a real band, but a real band is unlikely to be willing to loop the same changes umpteen hundred times in a row or slow down the tempo to a snail's crawl.
+Best is an app like [iReal Pro](https://irealpro.com) that lets you loop a single chord or progression of multiple chords as many times as you want (with any given tempo, multiple styles, and continually varied inversions/arpeggiation). If you're interested in learning how to solo, that app is a godsend — the forums provide freely downloadable charts for thousands of songs. Nobody will mistake the sound for a real band, but a real band is unlikely to be willing to loop the same changes umpteen hundred times in a row or slow down the tempo to a snail's crawl.
 
-Also sometimes useful are free backing tracks on YouTube (just search for "backing track in Am," for example) but beware that most of these contain chord *progressions* with *multiple* chords, and don't always indicate what chord is playing at any given moment. It's up to you to figure out what chords you're soloing over.
+Also sometimes useful are free backing tracks on YouTube (just search for "backing track in Am," for example) but beware that most of these contain chord *progressions* with *multiple* chords, and don't always indicate what chord is playing at any given moment. It's up to you to figure out which chords you're soloing over.
 
 Whatever you choose, start your accompaniment and slowly play each note in the shape. Really listen to how each note sounds, how it makes *feels* and *tastes*. Try to turn off your brain, just listen and feel (but make sure you only play those five notes for now). It's important to do this with accompaniment: you're training your ear more than your hands, and context is everything. An A (the root note) will sound quite different over other chords than an Am (it sounds terrible over some chords) but it will sound *great* over an Am (though eventually it will get pretty boring, too much of anything gets annoying).
 
@@ -80,7 +80,7 @@ This should be a pretty fun exercise by this point.
 
 For me, it was the first time I felt like I was actually soloing. This is because I was playing with **intent**, actually targeting sounds I could hear in my head, *before* I played them. It's incredibly satisfying when you finally break through from mindless noodling to actually creating *lines* and musical *expressions* or *phrases*.
 
-At this point you'll probably just be making a few random words or phrases, and not complete sentences or stories, because we've'intentionally limited ourselves to just five specific notes. Still, it's sobering just how many cool words and phrases you can create even with this severely limited pallette. Pro's can express an awful lot with even fewer notes for surprisingly long periods of time.
+At this point you'll probably just be making a few random words or phrases, and not complete sentences or stories, because we've intentionally limited ourselves to just five specific notes. Still, it's sobering just how many cool words and phrases you can create even with this severely limited palette. Pro's can express an awful lot with even fewer notes for surprisingly long periods of time.
 
 Eventually, you'll probably find yourself repeating the same few patterns and lines, most likely using quick runs up and down the scale in order to get where you want to go.
 

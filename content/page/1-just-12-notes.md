@@ -39,7 +39,7 @@ Seriously, even small children that have only been learning piano for a few week
 
 Music comprises just three things: rhythm, melody (individual notes spaced out in time), and harmony (notes played together). Notes are literally two-thirds of music.
 
-Thinking in terms of fingering and shapes isn't all bad. Shapes make it much, much easier to play in, or transpose to, different keys &mdash; something that can be quite difficult on other instruments. A guitarist is *much* more likely to play in a horn player's natural key (F or Bb, typically) than for the horn player to play in E, A, D or G (convenient keys for guitar).
+Thinking in terms of fingering and shapes isn't all bad. Shapes make it much, much easier to play in (or transpose to) different keys. This is something that can be quite difficult on other instruments. A guitarist is *much* more likely to play in a horn player's natural key (like F or Bb) than for a horn player to play in E, A, D or G (convenient keys for the guitar).
 
 But while shapes can be a useful device to help you memorize and find notes/scales/chords, you shouldn’t think of them as an end in themselves.
 
@@ -95,7 +95,7 @@ What follows is an over-simplified, highly condensed, and likely wrong history, 
 
 In the earliest days of Western music (think Gregorian Chants) there were just seven notes. They were eventually named A, B, C, D, E, F, and G, but they could have been named John, Paul, George, Ringo, Larry, Moe, and Curly. They were just *names*.
 
-Each note had it's own pitch or tone, and each note in the sequence had a pitch that was higher than the prior one. The note B had a slightly higher pitch than A, and G was almost, but not quite, double the pitch of A.
+Each note had its own pitch or tone, and each note in the sequence had a pitch that was higher than the prior one. The note B had a slightly higher pitch than A, and G was almost, but not quite, double the pitch of A.
 
 Today, if you *exactly* double (or halve) the pitch of any given note, the resultant tone still keeps the same name. The tone produced at 440 Hz is called "A" but so are the tones at 880 Hz, 220 Hz, and 1760 Hz. They are all just the note "A". (Look up "equal temperament" if you're curious about why this wasn't always true.)
 
@@ -105,7 +105,7 @@ The seven notes produce successively higher pitches, and repeated indefinitely: 
 
 This uneven spacing of seven notes eventually became known as a "diatonic" scale. It was called "diatonic" ("two tones") because the distance between any two consecutive notes was either a whole step (a "tone") or a half step (a "semitone"). There were two types of tone intervals, hence "diatonic".
 
-Because of this uneven spacing, the sound/feeling of playing note sequences *changes* depending on which note you start from. This is particularly true when playing harmonies (two or more notes played at the same time) but is also true with melodies (individual notes played sequentially in time). Playing every other note starging from A sounds vaguely sad, but playing every other note starting on C sounds somewhat happy, for example.
+Because of this uneven spacing, the sound/feeling of playing note sequences *changes* depending on which note you start from. This is particularly true when playing harmonies (two or more notes played at the same time) but is also true with melodies (individual notes played sequentially in time). Playing every other note starting from A sounds vaguely sad, but playing every other note starting on C sounds somewhat happy, for example.
 
 If we start with C, there is a whole step to D, another whole step to E, a half step to F, whole steps from G to B, then another half step to begin another sequence starting with a higher C. This ordering of tone intervals (W W h W W W h) has a characteristic sound or feel that today we call "major" or "Ionian mode" if we're feeling fancy. It has a vaguely happy sound.
 
@@ -176,7 +176,7 @@ What follows confuses everyone when they first start studying music. It's not ne
 
 There are other ways to refer to notes that are *relative* to some other note, not absolute. These other names *change* depending on context (what the name is relative **to**).
 
-Besides the actual note names, another way to refer to notes is by their *scale degree*. Scale degrees are numbered *relative* to some note (known as the "root" of the scale). **Scale degrees change depending on which note is considered the root of the scale**.
+Another way to refer to notes is by their *scale degree*. Scale degrees are numbered *relative* to some note (known as the "root" of the scale). **Scale degrees change depending on which note is considered the root of the scale**.
 
 A scale is just a collection of notes. The collection of the seven natural notes (A, B, C, D, E, F, and G) has several different names as we've seen: C Major, A Minor, D Dorian, G Mixolydian, *etc*. Each of these scales (or modes) shares the same notes, and the **names of those notes never change**, but the scale degree of a given note does. G is the 5th scale degree of C Major, but the 7th scale degree of A minor.
 

@@ -56,7 +56,7 @@ The three close voicings for C Major are:
 
 * CEG (root inversion)
 
-* EGC (1st inverion)
+* EGC (1st inversion)
 
 * GCE (2nd inversion)
 

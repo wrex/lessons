@@ -98,7 +98,7 @@ The pattern is still the same though. It's still the good ole C Major scale, wit
 
   <p>We can, of course find the F using two-step dead reckoning: e.g start at the D landmark, find E, then move one fret higher. Go ahead and play the F after you find it. See where it sits. Visualize the note name "F" hovering over the fretboard at that location, and, as always, say the note name as you play it.</p>
 
-  <p>Two steps are two too many! As we disccussed, it's useful to really focus and try to <strong>KNOW</strong> these "hard" notes as quickly as possible. We want to turn them into landmarks even <em>before</em> any "one-step" notes.</p>
+  <p>Two steps are two too many! As we discussed, it's useful to really focus and try to <strong>KNOW</strong> these "hard" notes as quickly as possible. We want to turn them into landmarks even <em>before</em> any "one-step" notes.</p>
 
   <p>Next we work through our familiar drills:</p>
   <p>

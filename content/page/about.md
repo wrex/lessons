@@ -17,7 +17,7 @@ Engineers *want* the theory. They *like* words, diagrams, and concepts! If you w
 
 The hardest lesson about music for me personally seems obvious to normal people (non-engineers) but was contrary to all of my previous experiences with learning: Merely *understanding* something, just being able to answer a question or reason about something was almost useless! The sheer depth of understanding required, and the *degree* of drilling and repetition required *after* reaching the point of understanding utterly shocked me. **Practice wasn't just for improving manual dexterity, it was also for deep learning and internalizing.** This was utterly new to me.
 
-I distinctly remember thinking, "I'll just learn theory first, then I can take my time practicing technique once I understand everything." I wasn't too keen on practicing any given thing before I understood all the *whys* (I suppose I was worried that I'd waste time practicing unneccessary things). I naively under-appreciated the *degree* to which I needed to understand each underlying concept.
+I distinctly remember thinking, "I'll just learn theory first, then I can take my time practicing technique once I understand everything." I wasn't too keen on practicing any given thing before I understood all the *whys* (I suppose I was worried that I'd waste time practicing unnecessary things). I naively under-appreciated the *degree* to which I needed to understand each underlying concept.
 
 I didn't understand that practice wasn't just for technique!
 
@@ -25,7 +25,9 @@ As an example, I clearly remember one of my first instructors (a jazz guitarist)
 
 Eventually, the penny dropped: rough understanding is just the *start* of the process, not the end.
 
-It's not enough to know how triads are formed. You want to internalize the idea to a *profound* degree. You want to instantly, effortlessly, almost without thought just **KNOW** that a C Major is the notes C, E, and G. That they are a minor third stacked on top of a major third. That three different close-voicings for C exist, here, here, and here on *each* ajacent set of three strings. You want to be able to know *instantly* where the C, the E, the G is within each of those 20 or so positions on the neck. That they interconnect like *this*. Then you want to repeat all this for the other three triad types (minor, diminished, and augmented).
+It's not enough to know how triads are formed. You want to internalize the idea to a *profound* degree. You want to instantly, effortlessly, almost without thought just **KNOW** that a C Major is the notes C, E, and G. That they are a minor third stacked on top of a major third. That three different close-voicings for C exist: here, here, and here on this set of three strings. That three close voiced triad shapes exist on *each* set of three strings.
+
+You want to be able to know *instantly* where the C, the E, the G is within each of those 20 or so positions on the neck. That they interconnect like *this*. Then you want to repeat all this for the other three triad types (minor, diminished, and augmented).
 
 You want to know all those triads as well as you recognize your families faces. You want to be able execute all of this *in time* without pause. Only then will you really know your triads.
 

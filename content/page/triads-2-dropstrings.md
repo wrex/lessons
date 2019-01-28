@@ -48,7 +48,7 @@ Note that we have a root inversion on both the lowest set of three strings and t
 {{% details "Exercise 3: Octave drop shapes 1, descending" %}}
 <div class="bg-info">
   <p>
-    Work through the circle of fourths, finding all major chords on all sets of 3 adjacent strings.
+    Work through the circle of fourths, finding all major chords on all sets of three adjacent strings.
   </p>
   <p>
     Start with B Major in root position on the the G/B/E strings. Then drop an octave onto D/G/B, then A/D/G, then E/A/D.

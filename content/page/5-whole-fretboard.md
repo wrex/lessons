@@ -22,7 +22,7 @@ This diagram of all the natural notes should look considerably less intimidating
 
 We've already drilled extensively on the outside E strings and the A strings, but we still need to learn the remaining notes on the D, G, and B strings.
 
-Following our philosophy of always doing the hardest things first, let's first focus in on the B string. We can get to the D and G strings using octave shapes from the outside strings, but it would take two steps to get to notes on the B string with octave shapes. The D and G strings can be reached with octave shapes from above or below in one step, but the B string requires two, so let's tackle it directly.
+Following our philosophy of always doing the hardest thing first, let's first focus on the B string. We can get to the D and G strings using octave shapes from the outside strings, but it would take two steps to get to notes on the B string with octave shapes. The D and G strings can be reached with octave shapes from above or below in one step, but the B string requires two, so let's tackle it directly.
 
 Exactly as we did with string 5, we first perform a set of focused exercises just on just the 2nd string:
 
@@ -72,7 +72,7 @@ Here's a diagram of what I consider the most critical "landmark" notes: open str
 {{< figure src="/img/neck-diagrams/landmark-notes.png" title="The most critical landmark notes" >}}
 </div>
 
-These are by far the most critical landmarks. Spend a lot of time with the next drill. Repeat the drill for several days or weeks until its automatic. Really hammer these notes home.
+These are by far the most critical landmarks. Spend a lot of time with the next drill. Repeat the drill for several days (or weeks) until its automatic. Really hammer these notes home.
 
 The sooner you really and truly **KNOW** these eighteen notes (the sooner you can pilot to these landmarks effortlessly) the sooner you'll be able to find *any* note on the fretboard. Navigating via dead reckoning in just one scale step up or down from a known landmark can be pretty quick and easy. If you **KNOW** these landmark notes, that's the hardest you'll ever have to work to find a note.
 
