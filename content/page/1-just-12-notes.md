@@ -284,7 +284,7 @@ Believe it or not, all of this will eventually become second nature.
 
 ### We really only need to learn seven notes, not 12
 
-Eventually, we want to **KNOW** thee locations for all 12 notes, everywhere on the fretboard. What makes it difficult is that the guitar can produce the *same* note in *multiple* locations (On my 24 fret electric guitar, for example, I can play an E in *thirteen* different locations!!).
+Eventually, we want to **KNOW** the locations for all 12 notes, everywhere on the fretboard. What makes it difficult is that the guitar can produce the *same* note in *multiple* locations (On my 24 fret electric guitar, for example, I can play an E in *thirteen* different locations!!).
 
 Fortunately, it's enough just to learn the locations of the seven natural notes. The "between" notes (the "sharps and flats") will always be one fret lower or higher. If you know where to find the note F, for example, and someone asks you to play an F#, you'll find an F and just move your finger one fret higher.
 
