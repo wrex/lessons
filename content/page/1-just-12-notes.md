@@ -176,7 +176,9 @@ What follows confuses everyone when they first start studying music. It's not ne
 
 There are other ways to refer to notes that are *relative* to some other note, not absolute. These other names *change* depending on context (what the name is relative **to**).
 
-Another way to refer to notes is by their *scale degree*. Scale degrees are numbered *relative* to some note (known as the "root" of the scale). **Scale degrees change depending on which note is considered the root of the scale**.
+One example of this are what are called *scale degrees*. Scale degrees are numbered *relative* to some note (known as the "root" of the scale). **Scale degrees change depending on which note is considered the root of the scale**.
+
+The C Major scale, for example, comprises the seven notes C, D, E, F, G, A, and B in that order. C is the root note and 1st scale degree. D is the second scale degree, E the 3rd, etc. If someone says "play the flat five" they are telling you to play G&flat; ("the 5" or the 5th scale degree, flattened by one semitone).
 
 A scale is just a collection of notes. The collection of the seven natural notes (A, B, C, D, E, F, and G) has several different names as we've seen: C Major, A Minor, D Dorian, G Mixolydian, *etc*. Each of these scales (or modes) shares the same notes, and the **names of those notes never change**, but the scale degree of a given note does. G is the 5th scale degree of C Major, but the 7th scale degree of A minor.
 
