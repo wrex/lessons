@@ -44,7 +44,7 @@ We number the strings starting from 1, the thinnest string closest to the floor,
 
 Terminology can get confusing, so this site always uses terms like "up," "down," "higher," "lower," *etc.* relative to **pitch** and not relative to physical topology.
 
-That is, the 6th string is **lower** than the 1st string, even though it's physically farther from the floor. Similarly, a note played at the 5th fret is "lower down the neck" than one played at the 12th fret of the same string. This is true ven though proper form has one holding the headstock physically higher than the bridge of the instrument. To play on a lower string means to move your hand further from the floor. To play higher up the neck moves your left hand closer to your right.
+That is, the 6th string is **lower** than the 1st string, even though it's physically farther from the floor. Similarly, a note played at the 5th fret is "lower down the neck" than one played at the 12th fret of the same string. This is true even though proper form has one holding the headstock physically higher than the bridge of the instrument. To play on a lower string means to move your hand further from the floor. To play higher up the neck moves your left hand closer to your right.
 
 From low to high (6th to 1st strings) the strings are tuned to the notes E, A, D, G, B, and E. You simply have to memorize this, there is no shortcut. The E produced by the open 1st string is two octaves higher than the one produced on the open 6th string.
 
@@ -72,12 +72,12 @@ From low to high (6th to 1st strings) the strings are tuned to the notes E, A, D
 
 <p>Out loud, every time.</p>
 
-<p>You probably think this is overkill by now, and that no further drilling is required. Well, there is no better way to prove it to yourself than with a <strong>metronome</strong>. Try setting a metronome to a slow tempo, say 60 BPM, then repeating the previous sequences with one pluck on each beat. Quickly mute each note after you play it, but still saying the note names out loud. If you're at all human, you've probably discovered you didn't know the notes quite as well as you thought.</p>
+<p>You probably think this is overkill by now, and that no further drilling is required. Well, there is no better way to prove it to yourself than with a <strong>metronome</strong>. Try setting a metronome to a slow tempo, say 60 BPM, then repeating the previous sequences with one pluck on each beat. Quickly mute each note after you play it, but still say the note names out loud. If you're at all human, you've probably discovered you didn't know the notes quite as well as you thought.</p>
 
 <p>60 BPM is now easy? Make it harder again by gradually increasing the tempo. Once you can perform the exercise at, say, 100 BPM you can be confident that you truly <strong>KNOW</strong> the open string notes.
 </p>
 
-<p>Make sure you practice thinking in both directions, too: from string to name, and from note name to string. That is, sometimes practice plucking a string at random, then naming the note. Other times pick a note from EADGBE at random, then pluck the corresponding string.</p>
+<p>Make sure you practice thinking in both directions, too: from string to name, and from note name to string. That is, sometimes practice plucking a string at random, then naming the note. Other times say a note from EADGBE at random, then pluck the corresponding string.</p>
 </div>
 {{% /details %}}
 
@@ -103,7 +103,7 @@ Do it!
 
 Keep drilling until you have absolutely no "mental friction" or delays. Most people **KNOW** the open notes within just five or ten minutes or so of practice, but don't hesitate to take as long as necessary.
 
-You may think some of these exercises are completely unnecessary, and you may even be right, but it's an extremely bad habit to think you can perform something on the guitar without actually doing it. You may be surprised. You're also programming your brain by associating sounds and fretting locations with note names. Lastly, it's important to spend at least a little time **practicing things you can do easily**. It's easy to become demotivated if you only practice things you **can't** do! (Within moderation, of course, the once you can perform an exercise effortlessly, it's time to move on.)
+You may think some of these exercises are completely unnecessary, and you may even be right, but it's an extremely bad habit to think you can perform something on the guitar without actually doing it. You may be surprised. You're also programming your brain by associating sounds and fretting locations with note names. Lastly, it's important to spend at least a little time **practicing things you can do easily**. It's easy to become demotivated if you only practice things you **can't** do! (Within moderation, of course, once you can perform an exercise effortlessly, it's time to move on.)
 
 <p></p>
 {{% details "Exercise 3: Reciting the C Major scale (click to expand)" %}}
