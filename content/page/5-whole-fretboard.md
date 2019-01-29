@@ -46,7 +46,7 @@ Exactly as we did with string 5, we first perform a set of focused exercises jus
   <p>
     <ul>
       <li><p>Work through the mostly-fourths sequence. Find, play, and say each note in as many places as you can reach on string 2.</p></li>
-      <li> <p>Work through the notes in all the triads, finding each note in as many locations on string 2 as you can.</p> </li>
+      <li> <p>Work through the notes in all the natural note triads, finding each note in as many locations on string 2 as you can.</p> </li>
     </ul>
   </p>
 </div>
@@ -62,9 +62,9 @@ If you're like most people, though, even with all the drilling we've done so far
 
 We've not yet spent any focused time on the innermost strings, the D and G strings, but we already know a couple notes on them (open strings and fifth fret). Let's add just one more landmark to each of those strings.
 
-Unlike the B string, *all* of the notes on the D and G strings can be reached in one step with octave shapes (that's why we focused on the B string first). Try to figure out which note on the D and G strings is more than one scale degree away from the three locations we already know (open, 5th fret, 12th fret). We want to turn *those* into landmarks as quickly as possible, before the last few remaining notes. (If you haven't figured it out already, those notes are B on the D string, and E on the G string.)
+Unlike the B string, *all* of the notes on the D and G strings can be reached in one step with octave shapes (that's why we focused on the B string first). Try to figure out which note on the D and G strings is *more* than one scale degree away from the three locations we already know (open string, 5th fret, 12th fret). We want to turn *those* into landmarks as quickly as possible, before the last few remaining notes. (If you haven't figured it out already, those notes are B on the D string, and E on the G string.)
 
-Remember, we have two ways to navigate from landmarks to other notes: moving up or down a few frets along the same string from notes we already **KNOW**, and using octave shapes from **KNOWN** notes on different strings. It's incredibly helpful to have at least three **KNOWN** notes fairly spread out on each string as quickly as possible. They make it easy to find the intervening notes without resorting to octave shapes.
+Remember, we have two ways to navigate from landmarks to other notes: moving up or down a few frets along the same string from notes we already **KNOW**, and using octave shapes from different strings. It's incredibly helpful to have at least three **KNOWN** notes fairly spread out on each string as quickly as possible. They make it easy to find the intervening notes without resorting to octave shapes.
 
 Here's a diagram of what I consider the most critical "landmark" notes: open string, fifth fret, 12th fret, and "two-step" notes. If you really and truly **KNOW** these eighteen notes (three per string) you will never be more than one scale step away from finding any note on any string:
 
@@ -80,22 +80,35 @@ The sooner you really and truly **KNOW** these eighteen notes (the sooner you ca
 {{% details "Exercise 17: Landmark note drills" %}}
 <div class="bg-info">
   <p>
-    Work your way across the open strings, low to high, naming them as you go: E A D G B E.
+    Use a metronome for both of these drills. Set it to a low tempo, say 60 BPM and play each note for four beats (whole notes). When four beats becomes easy, start changing notes every two beats. When you can successfully play and name every landmark note on every beat, you can be confident you have it down.
   </p>
 
-  <p>Next work down the notes on the fifth fret: A E C G D A.</p>
+  <h4>Drill #1: Across the strings</h4>
+  <ol>
 
-  <p>Now up across the "two-step" notes: C F B E G C. Name them as you play them, of course.</p>
+    <li>
+      Work your way across the open strings, low to high, naming them as you go: E A D G B E.
+    </li>
 
-  <p>Lastly, work down the notes at the 12th fret: E B G D A E.</p>
+    <li>Next, work down the notes on the fifth fret: A E C G D A.</li>
 
-  <p>Now reverse the direction: up the 12th fret, down the two-step notes, up the 5th fret, and down the open strings.</p>
+    <li>Now up across the "two-step" notes: C F B E G C. Name them as you play them, of course.</li>
 
-  <p>Next, play and name the landmark notes on each string, working low string to high: EACE ADFA DGBD GCEG BEGB EACE.</p>
+    <li>Next, work down the notes at the 12th fret: E B G D A E.</li>
 
-  <p>Reverse that, too: high note to low note, high string to low. ECAE BGEB GECG DBGD AFDA ECAE.</p>
+    <li>Finally, reverse the direction and play back down the strings: up the 12th fret, down the two-step notes, up the 5th fret, and down the open strings.</li>
 
-  <p>Finally, test yourself by randomly playing any of these notes and verifying you can name it instantly and effortlessly.</p>
+  </ol>
+
+  <h4>Drill #2: Along the strings</h4>
+  <ol>
+
+    <li>Play and name the landmark notes on each string, working low string and low note to high: EACE ADFA DGBD GCEG BEGB EACE.</li>
+
+    <li>Now reverse direction: high note to low note, high string to low. ECAE BGEB GECG DBGD AFDA ECAE.</li>
+
+    <li>Finally, test yourself by randomly playing any of these notes and verifying you can name it instantly and effortlessly.</li>
+  </ol>
 </div>
 {{% /details %}}
 
@@ -120,70 +133,78 @@ You can quit practicing these exercises when you "**KNOW** the fretboard" as wel
 <p></p>
 {{% details "Exercise 18: Mostly-fourths across the whole neck" %}}
 <div class="bg-info">
-
+  <p>
+    By now you should know this drill well: First find the note B on each string, then the note E, and so on. Play each note in as many places on each string as you can reach.
+  </p>
+  <p>
+    Alternate ascending the strings (starting with the low E, then A, etc.) with descending (starting on the high E string).
+  </p>
+  <p>
+    While we are mostly interested in <strong>KNOWING</strong> the natural notes, it's an excellent idea to practice the entire twelve note circle of fourths as well as the "mostly fourths" sequence of natural notes. That is, instead of looping back to B after finding all the F's, start finding all the B&flat; notes. The full circle of fourths sequence is: B E A D G C F B&flat; E&flat; A&flat; D&flat; G&flat; (then repeat).
+  </p>
 </div>
 {{% /details %}}
 
 <p></p>
-{{% details "Exercise 19: Triad notes across the whole neck" %}}
+{{% details "Exercise 19: Natural triads across the whole neck" %}}
 <div class="bg-info">
-
+  <p>
+    This one should be familiar as well. This time the sequence of notes we'll look for is CEG, BDF, ACE, GBD, FAC, EGB, DFA (then repeat). First find all the C's, then all the E's, etc.
+  </p>
+  <p>
+    Again, practice going down the strings as well as up. Use the metronome!
+  </p>
+  <p>
+    For extra credit, try finding the notes on adjacent strings. For example, find C on the low E string, then E on the A string, then G on the D string. Play each group of three notes together as a chord. Then find BDF on the next set of three strings, etc.
+  </p>
+  <p>
+    We will study these root position triads in later lessons, but it's excellent mental exercise to figure out the shapes using note names. You'll be doing a lot of this kind of thing as you progress.
+  </p>
 </div>
 {{% /details %}}
 
 <p></p>
 {{% details "Exercise 20: One octave C Major scales: 2 adjacent strings" %}}
 <div class="bg-info">
-
+  <p>
+    Since we've already learned all the natural note locations on each string, it's trivial to play the C Major scale along any given string: just play each natural note in order. You'll hear the major scale quality (do re mi fa so la ti do) most clearly if you start and end on the note C.
+  </p>
+  <p>
+    To ensure we start low on the neck, let's start the exercise on the B string. First play the C major scale (CDEFGABC) along the B string: 1st fret, 3rd fret, etc., until you reach the C at the 13th fret.
+  </p>
+  <p>
+    Now practice stopping on the B string at any note you like and finding the next note on the E string, then continuing. For example, If you play the first four notes (CDEF) on the B string, the scale you play will look like this:
+  </p>
+  <div class="text-center">
+  {{< figure src="/img/neck-diagrams/2-string-scale.png" title="2-string major scale example" >}}
+  </div>
+  <p>
+    First play two notes (C and D) on the B string, then the remainder on the E string. Then three notes, then four, etc. Notice the pattern that emerges when you reach up a whole step or a half step onto the next string.
+  </p>
+  <p>
+    Use whatever fingering feels comfortable. This is not a technique exercise.
+  </p>
+  <p>
+    Now repeat the exercise on every other string pair (not necessarily in order). The goal is to learn the notes, of course, but knowing these patterns/shapes for playing the major scale will also prove helpful later.
+  </p>
 </div>
 {{% /details %}}
 
 <p></p>
-{{% details "Exercise 21: One octave C Major scales: 3 adjacent strings" %}}
+{{% details "Exercise 21: C Major scales: 3+ adjacent strings" %}}
 <div class="bg-info">
-
-</div>
-{{% /details %}}
-
-<p></p>
-{{% details "Exercise 22: Two octave C Major scales" %}}
-<div class="bg-info">
-<p>starting with different fingers</p>
-</div>
-{{% /details %}}
-
-<p></p>
-{{% details "Exercise 23: Modal practice" %}}
-<div class="bg-info">
-<p></p>
-</div>
-{{% /details %}}
-
-<p></p>
-{{% details "Exercise 24: Major triad practice" %}}
-<div class="bg-info">
-<p></p>
-</div>
-{{% /details %}}
-
-<p></p>
-{{% details "Exercise 25: Minor triad practice" %}}
-<div class="bg-info">
-<p></p>
-</div>
-{{% /details %}}
-
-<p></p>
-{{% details "Exercise 26: Diminished triad practice" %}}
-<div class="bg-info">
-<p></p>
-</div>
-{{% /details %}}
-
-<p></p>
-{{% details "Exercise 27: Augmented triad practice" %}}
-<div class="bg-info">
-<p></p>
+  <p>
+    This is just a riff on exercise 20. Instead of just shifting between strings once, we are going to play the Major scale over three or more strings (you can continue for more than one octave).
+  </p>
+  <p>
+    Practice finding, say, the note F on any given string, playing one or two more notes (say G and A) on that string, then shifting to the next string for a few more notes (say B, C, D), then shift to the next string, etc.
+  </p>
+  <p>
+    Because we are playing consecutive notes in exercises 20 and 21, we are never moving more than one or two semitones from a previous note. Unfortunately, this makes it easy to start thinking in terms of shapes. Try to force yourself to think and see the notes, though.
+  </p>
+  <p>
+    As always, test yourself with a metronome. You can, of course, descend through the scale as well as ascend.
+  </p>
 </div>
 {{% /details %}}
 
