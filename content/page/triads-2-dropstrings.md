@@ -65,7 +65,7 @@ Note that we have a root inversion on both the lowest set of three strings and t
 </div>
 {{% /details %}}
 
-We want to train ourselves to visualize all four of these triad shapes (on each adjacent set of three strings) as a single entity. They are four different triad shapes, but we want to visualize how they all connect.
+In addition to practicing octave drops, we also want to be able to visualize all four of these triad shapes (on each adjacent set of three strings) as a single entity. There are four different triad shapes, but we want to visualize how they all connect.
 
 One way to accomplish this is by playing a six string arpeggio that connects all four shapes:
 
@@ -81,4 +81,66 @@ The arpeggio [sounds like this](/audio/cmaj-1-6strings.mp3).
   <p>
     Play arpeggio 1 above several times, with a metronome, until you are 100% confident in the shapes. Repeat for other chords as required (ideally working through the entire circle of fourths).
   </p>
+</div>
+{{% /details %}}
+
+We can use the exact same "octave drop" technique for any triad type (major, minor, diminished, or augmented) and any inversion. Before we explore minor/dim/aug triads, though, let's look at the next two inversions of a minor triad.
+
+The root position dropped all the way down to the note C at the 8th fret of the low E string. The 1st inversion of C Major on the top strings is also at the 8th fret. Let's drop it across the strings:
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/c-major-DGB-root.png" title="C Major triad, root inversion, D/G/B" width="33%" >}}
+</div>
+
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/c-major-ADG-2nd.png" title="C Major triad, 2nd inversion, A/D/G" width="33%" >}}
+</div>
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/c-major-EAD-1st.png" title="C Major triad, 1st inversion, E/A/D" width="33%" >}}
+</div>
+
+<br/>
+{{% details "Exercise 5: Octave drop shapes 2, descending" %}}
+<div class="bg-info">
+  <p>
+    Work through the circle of fourths, finding all major chords on all sets of three adjacent strings.
+  </p>
+  <p>
+    Start with B Major 1st inversion on the the G/B/E strings. Then drop an octave onto D/G/B, then A/D/G, then E/A/D.
+  </p>
+  <p>
+    Next proceed through E Major, A Major, D Major, ..., all the way through G&flat; Major.
+  </p>
+  <p>
+    Play each triad as a chord (all voices sounding simultaneously) and as an arpeggio (one note sounded after another, lowest pitch to highest).
+  </p>
+  <p>
+    Next, repeat the exercise, but this time start from the lowest course of three strings to the highest. Root position triad on E/A/D, then 1st inversion on A/D/G, then 2nd inversion on D/G/B, and finally, root inversion on G/B/E.
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 6: 6-string arpeggio 2" %}}
+<div class="bg-info">
+  <p>
+    Play the same arpeggio pattern as exercise 4, but using the second set of shapes. Use a metronome and repeat until you are 100% confident in the shapes. Repeat for other chords as required (ideally working through the entire circle of fourths).
+  </p>
+</div>
+{{% /details %}}
+
+Now let's finish the Major triad shapes by moving the E we dropped to the 6th string over to the 1st string, and starting with the 2nd inversion shape:
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/c-major-DGB-1st.png" title="C Major triad, 1st inversion, D/G/B" width="33%" >}}
+</div>
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/c-major-ADG-root.png" title="C Major triad, root inversion, A/D/G" width="33%" >}}
+</div>
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/c-major-EAD-2nd.png" title="C Major triad, 2nd inversion, E/A/D" width="33%" >}}
 </div>
