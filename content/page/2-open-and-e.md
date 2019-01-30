@@ -109,7 +109,7 @@ It may seem like incredible overkill to go through all this for something you pr
 
 Do it!
 
-Keep drilling until you have absolutely no "mental friction" or delays. Most people **KNOW** the open notes within just five or ten minutes or so of practice, but don't hesitate to take as long as necessary.
+Keep drilling until you have absolutely no "mental friction" or delays. Most people **KNOW** the open notes within a single practice session, but don't hesitate to take as long as necessary.
 
 You may think some of these exercises are completely unnecessary, and you may even be right, but it's an extremely bad habit to think you can perform something on the guitar without actually doing it. You may be surprised. You're also programming your brain by associating sounds and fretting locations with note names. Lastly, it's important to spend at least a little time **practicing things you can do easily**. It's easy to become demotivated if you only practice things you **can't** do! (Within moderation, of course, once you can perform an exercise effortlessly, it's time to move on.)
 
