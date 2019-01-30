@@ -7,7 +7,7 @@ tags: [theory,triads]
 draft: false
 ---
 
-This is part 1 of a 2-part series on triads:
+This is part 1 of a multipart series on triads:
 
 1. Triad Introduction (this page)
 2. [Triads on other strings]({{< ref "/page/triads-2-dropstrings.md" >}})
