@@ -162,15 +162,15 @@ The natural notes are named with the first seven letters of the alphabet: A thro
 
 There are only seven notes in each "octave," then the pattern begins again. The leftmost white key produces the note A, and every eighth white key to its right is also an A.
 
-If you look carefully, you'll see that there are seven white keys (natural notes) and five black keys (sharps and flats) for a total of twelve keys in every octave. This is true regardless of which note you start the octave on (A to A, B to B, ..., or G to G). In all of western music, there are only twelve notes!
+If you look carefully, you'll see that there are seven white keys (natural notes) and five black keys (sharps and flats) for a total of twelve notes in every octave. This is true regardless of which note you start the octave on (A to A, B to B, ..., or G to G). In all of western music, there are only twelve notes!
 
 **Notice the pattern of the black keys**.
 
-For reasons we'll get into later, it's most useful to look at octaves that begin on the note C. If you play twelve consecutive notes starting on a C, play every white or black key as you move to the right, and stop on the note B, you'll have played 12 notes in total.
+For reasons we'll get into later, it's most useful to look at octaves that begin on the note C. If you play twelve consecutive keys (white or black) starting with any C, you'll end up on the note B.
 
-Most importantly, **there was a black key between every pair of white keys, except between B & C, and between E & F.** Remember this! This fact that two pairs of notes are separated by a smaller interval is the foundation of "diatonic harmony" (and, indeed, **all** western music).
+Most importantly, **there was a black key between every pair of white keys, except between B & C, and between E & F.** Remember this! This fact that two pairs of natural notes are separated by a smaller interval than the rest is the foundation of "diatonic harmony" (and, indeed, **all** western music).
 
-Every note is separated by a "whole tone" (white *and* black key) except B/C and E/F which are only separated by a "semitone" (no black key). You simply *must* remember this.
+B/C and E/F which are separated by a "semitone" (no intervening black key). All the rest are separated by a "whole tone" (two semitones: a white *and* a black key). You simply *must* remember this.
 
 Okay, back to the guitar.
 
@@ -188,7 +188,7 @@ We’re going to work our way up to memorizing all of these notes incrementally 
 
 Before we tackle learning the notes between the two we already know (the E’s on the open string and fret 12) examine the spacing between each of the labeled notes (the natural notes).
 
-Exactly the same as a piano, almost all the notes have two frets (also called a "whole step") between them. The only exceptions are between note E and F, and between B and C (with only one fret, or a half step, between these pairs of notes).
+Exactly the same as a piano, almost all the notes have two frets (a "whole tone") between them. The only exceptions are between note E and F, and between B and C (with only one fret, a semitone or "half step," between these pairs of notes).
 
 The seven natural notes A-G are also known as the C Major scale or "C Ionian" (which is why the C notes in the diagram are red — C is the root note of the corresponding scale).
 
