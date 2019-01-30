@@ -30,13 +30,21 @@ Before you begin, be sure to **tune your guitar** every single time you attempt 
 
 It's important to begin training your brain to hear notes in tune. Every time you practice without tuning up, you risk programming your brain with bad information.
 
-Come back to this page and repeat any or all of these exercises as many times as you feel is necessary. Repeat until you are confident you truly **KNOW** the notes.
+## Fair warning
 
-Feel free to read through all of this before attempting the exercises, but merely reading an exercise is very different from performing it. All of the exercises should be repeated multiple times.
+Even though this page barely scratches the surface of the subject (just one string!) it is **not realistically possible** to perform all of the exercises on this page completely in a single session (nor is it expected).
 
-I've given little indication of how long each exercise should take or how many times you should repeat it before moving on. Only you will know when you've truly mastered an exercise. It's pretty normal to get through strings 6 and string 1 in the first day, but you may still find yourself coming back to those exercises occasionally.
+My intent with these exercises and drills is to give you a few ideas regarding **how** to practice. The exercises provide a glimpse into just how thoroughly you need to learn the simplest things. Music is all about profound complexity created from simple concepts &mdash; it's nearly impossible to consider complex ideas if the simple stuff takes even trivial effort (especially when trying to keep a beat!).
 
-The goal is **not** to get through all of this as quickly as possible, it's to truly **KNOW** the fretboard.
+Please read through this page (including all the exercises in their entirety) **in a single session**, before even picking up the guitar. Then decide which of the exercises you have the energy to attempt on the first day (and how thoroughly). You are expected to come back to this stuff in subsequent practice sessions, even after you've moved onto other things.
+
+Realize, however, that merely reading an exercise is very different from performing it.
+
+The intent is for you to pick and choose from the exercises/drills that seem most useful to you at the moment, then come back to the remainder in subsequent practice session as you feel the need.
+
+I've given little indication of how long each exercise should take, how thoroughly you should attempt it, or how many times you should repeat it before moving on.
+
+Only you will know how much time and energy you have to spend in a session. Only you will know when you've truly mastered an exercise. Whether this takes 20 minutes (beyond unlikely) or months (slightly less unlikely) depends on the individual.
 
 ## Open strings
 
