@@ -7,14 +7,14 @@ tags: [theory,triads]
 draft: false
 ---
 
-This is part 2 of a 2-part series on triads:
+This is part 2 of a multipart series on triads:
 
-1. [Triad Introduction]({{< ref "/page/1-triads.md" >}})
-2. Triads on other strings (this page)
+1. [Triad introduction and triads on G/B/E]({{< ref "/page/1-triads.md" >}})
+2. Triads on other strings using octave drops (this page)
 
-Triads exist on more than just the top three strings, of course. The shapes change slightly on each different course of three strings because of the way the guitar is tuned.
+Triads exist on more than just the top three strings, of course. The shapes change slightly on each different set of three strings because of the way the guitar is tuned.
 
-The best way to learn these additional shapes is using what Josh at [Fretboard Anatomy](https://fretboard-anatomy.com) calls "Octave Drop Chord Building." Basically, we use [familiar octave shapes]({{< ref "/page/4-octave-shapes.md" >}}) to drop the highest pitched note in a triad shape we already know one octave (and three strings) lower.
+An excellent way to learn these additional shapes is using what Josh at [Fretboard Anatomy](https://fretboard-anatomy.com) calls "Octave Drop Chord Building." Basically, we use [familiar octave shapes]({{< ref "/page/4-octave-shapes.md" >}}) to drop the highest pitched note in a triad shape we already know one octave (and three strings) lower.
 
 Starting with the root inversion C Major triad we already know:
 

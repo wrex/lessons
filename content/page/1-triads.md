@@ -1,5 +1,5 @@
 ---
-title: "Triads"
+title: "Triads on G/B/E"
 author: "Rex Walters"
 date: 2019-01-25T16:48:14-08:00
 subtitle: "Three note chords"
@@ -9,14 +9,12 @@ draft: false
 
 This is part 1 of a multipart series on triads:
 
-1. Triad Introduction (this page)
-2. [Triads on other strings]({{< ref "/page/triads-2-dropstrings.md" >}})
+1. Triad introduction and triads on G/B/E (this page)
+2. [Triads on other strings using octave drops]({{< ref "/page/triads-2-dropstrings.md" >}})
 
-Chords are just multiple notes played simultaneously. Technically, you can have two-note chords (AKA [dyads](https://en.wikipedia.org/wiki/Dyad_(music))) but most people consider three-note chords (called "triads") to be the simplest possible place to start making real chord harmonies.
+Chords are just multiple notes played simultaneously. Technically, you can have two-note chords (AKA [dyads](https://en.wikipedia.org/wiki/Dyad_(music))) but most people consider three-note chords (called "triads") to be the simplest possible place to start making real chord harmonies. The four triad types form the "atoms" of western harmony.
 
-Triads are formed by "stacking" intervals of a minor or major 3rd on top of each other. Since there are two internal intervals between three notes, and because each interval can be either major or minor, there are logically four types of triads (minor+minor, minor+major, major+minor, and major+major).
-
-The four types of triads, in order of importance, are called:
+Triads are formed by "stacking" intervals of a 3rd (major or minor) on top of each other. Since there are two internal intervals between three notes, and because each interval can be either major or minor, there are logically four types of triads:
 
 1. Major: root + M3 + p5 (a major 3rd between the first two notes, and a minor 3rd interval between the next two)
 
@@ -26,9 +24,9 @@ The four types of triads, in order of importance, are called:
 
 4. Augmented: root + M3 + &sharp;5 (two major third intervals stacked on top of each other)
 
-The first two (major and minor triads) are by far the most common and useful for making music. You should definitely learn them first.
+The first two (major and minor triads) are by far the most common and most useful for playing songs. You should definitely learn them first.
 
-The C Major triad comprises the notes C, E, and G. It's a minor 3rd stacked on top of a Major 3rd. The M3 interval between C and E is what gives the chord its "happy" sound.
+The C Major triad comprises the notes C, E, and G (skipping the intervening notes: **C** *d* **E** *f* **G**). It's a minor 3rd stacked on top of a major 3rd. The M3 interval between C and E is what gives the chord its "happy" sound.
 
 The C minor triad comprises the notes C, E&flat;, and G. This time the minor 3rd between the first two notes is what gives it the "sad" or "poignant" quality.
 
@@ -68,17 +66,19 @@ On the top three strings of the fretboard, they look like this:
 {{< figure src="/img/neck-diagrams/C-Major-Inversions.png" title="C Major triads, all close-voiced inversions on G/B/E" >}}
 </div>
 
-Notice that when moving up the neck to the next inversion, each "voice" in the triad (lowest, middle, or highest pitch) moves up to the next higher note. C (root) moves to E (M3), E moves to G (p5), and G moves to C (root). CEG &rarr; EGC. The same thing going from first to second inversion: EGC &rarr; GCE. And again when repeating the next higher root inversion (at frets 15-17 if you can reach): GCE &rarr; CEG.
+Notice that when moving up the neck to the next inversion, each "voice" in the triad (lowest, middle, or highest pitch) moves up to the next higher note. The C (root) on the 3rd string moves to E (M3), E moves to G (p5), and G moves to C (root). CEG &rarr; EGC. The same thing going from first to second inversion: EGC &rarr; GCE. And again when repeating the next higher root inversion (at frets 15-17 if you can reach): GCE &rarr; CEG.
 
-These three shapes allow you to play **any** major chord! If you move these three shapes two frets higher, they form D Major (the notes D, F&sharp;, and A).
+These three shapes allow you to play **any** major chord! If you move any of these three shapes two frets higher, it forms D Major (the notes D, F&sharp;, and A).
 
-It's very important to remember where the root note is in each of these shapes. In practice, you'll often find yourself forming these shapes around a given note. If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the shape appropriate for the root on that string.
+It's very important to remember where the root note is in each of these shapes. While accompanying other musicians, you'll often find yourself only thinking about the root notes of each new chord. You'll then find the closest location for that note and form the rest of the shape around it.
+
+If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the shape appropriate for the root on that string.
 
 <br/>
 {{% details "Exercise 1: Major Triads on G/B/E" %}}
 <div class="bg-info">
 <p>
-  We are going to find and play all 12 Major triads on the top three strings, in every inversion, by moving through the cycle of fourths.
+  We are going to find and play all 12 Major triads on the top three strings, in every inversion, by moving through the cycle of fourths. This is *not* a single session exercise!
 </p>
 <p>
   First find and play the B Major root position triad with the root at fret 6. Then play the 1st inversion B Major with the root at fret 7, then 2nd inversion with the root at fret 12. Continue up the neck as high as you can reach comfortably, e.g. the root position triad at frets 16-18 if you can reach.
