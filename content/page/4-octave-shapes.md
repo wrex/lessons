@@ -75,16 +75,16 @@ This first octave shape is particularly advantageous if you follow the recommend
 
 If you place your first finger on any note on the fifth or sixth strings, the same note can be found under your third finger two frets higher (or vice versa).
 
-<p></p>
-{{% details "Exercise 14: Octave shapes for notes on strings 4 and 3" %}}
+<br/>
+{{% details "Exercise 14: Octave shapes for notes on D and G strings" %}}
 <div class="bg-info">
-  <p>Using the notes you already <strong>KNOW</strong> on string 6, go through the mostly-fourths sequence and use octave shape 1 to find all the natural notes on string 3. Repeat using triad notes (thirds).</p>
+  <p>Using the notes you already <strong>KNOW</strong> on string 6, go through the mostly-fourths sequence and use octave shape 1 to find all the natural notes on the D string. Repeat using natural note triads (thirds).</p>
 
-  <p>Using the notes you already <strong>KNOW</strong> on string 1, go through the cycle of fourths and use octave shape 1a to find all the natural notes on string 3. Repeat using triad notes (thirds).
+  <p>Using the notes you already <strong>KNOW</strong> on string 1, go through the cycle of fourths and use octave shape 1a to find all the natural notes on the G string. Repeat using natural note triads (thirds).
   </p>
-
 </div>
 {{% /details %}}
+<br/>
 
 ### Octave shape 2
 
@@ -101,6 +101,22 @@ The "2a" shapes are shown in grey this time. Because we are skipping two strings
 Again, whenever you cross the boundary between the 2nd and 3rd strings, you need to adjust by one fret. If you're going up the strings (toward the thinner strings) you raise the higher note. So moving from the C at the 3rd fret of the A string, you only go down two frets and find the C on the 1st fret of the B string.
 
 Going the other way from the C on the 8th fret of the high E, you find C on the D string at the 10th fret (going *up* two frets).
+
+Most of the time when playing live, your natural inclination is to move your hand up the neck to play higher and down the neck to play lower. It's thus more common to use octave shapes 1 most of the time. When you "run out of neck," though, it can be useful to continue ascending or descending by skipping another string. (As we'll later, octave shape 2 is particularly useful for [studying triads]({{< ref "/page/triads-2-dropstrings.md" >}}).)
+
+<br/>
+{{% details "Exercise 15: Octave shape 2" %}}
+<div class="bg-info">
+  <p>Pick a random note and find it on the high E string. Then use octave shape 3 to find the same note one octave lower on the D string.
+  </p>
+  <p>
+    Find the same note on the low E string, and use octave shape 3a to find it an octave higher on the G string.
+  </p>
+  <p>
+    Repeat with other random notes, or use a sequence like the cycle of fourths or the natural note triads (cycle of thirds).
+  </p>
+</div>
+{{% /details %}}
 
 ### Other "octave" shapes
 
@@ -120,16 +136,26 @@ Here's the C notes everywhere on the fretboard again.
 
 You can see that C on the next higher string is always five frets lower (except, of course, between the G and B strings where it's four frets lower).
 
-That's far enough away that it can be hard to visualize. The easiest way to use this one is to play the lower note with your pinky finger. Your first finger will naturally hover three frets lower. Simply move it down another whole step (two frets) and play the note on the next lower string. It's exactly the same note.
+That's far enough away that it can be hard to visualize. The easiest way to use this one is to play the lower note with your pinky. Your first finger will naturally hover three frets lower. Simply move it down another whole step (two frets) and play the note on the next lower string. It's exactly the same note in the same octave.
+
+This last shape can be useful when you "run out of neck" on one of the middle strings. Just reposition your hand to an adjacent string and keep on rocking.
+
+### Finding all locations of a given notes
+
+This next exercise is something you should practice regularly. It is an excellent drill for hammering home note locations.
 
 <p></p>
-{{% details "Exercise 15: Connecting octave shapes to find all notes" %}}
+{{% details "Exercise 16: Connecting octave shapes to find a note everywhere on the fretboard" %}}
 <div class="bg-info">
   <p>
-    Play an open E on the 6th string. Now find and play the E one octave higher on the 4th string. The use shape 1 to find and play the E on the 2nd string. Refer to the first diagram on this page if you need to.
+    Play an open E on the 6th string. Use octave shape 1 to find and play the E one octave higher on the 4th string. Next use shape 1 again to find and play the E on the 2nd string. Refer to the first diagram on this page if you need to.
   </p>
 
-  <p>Next, use octave shape 2 to find and play the E on the 5th string (moving lower down the strings).</p>
+  <p>
+    As always, be sure to say (or sing!) each note name out loud as you progress.
+  </p>
+
+  <p>Next, use octave shape **2** to find and play the E on the 5th string (moving lower down the strings).</p>
 
   <p>Now back to shape 1 to find the E's on strings 3 and 1. You should now be playing the note on the 12th fret of the high E string.</p>
 
