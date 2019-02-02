@@ -138,7 +138,9 @@ Diminished triads are also useful when playing over dominant seventh chords.  Th
 </p>
 {{% /details %}}
 
-Next up are the oddest triads of all: augmented triads. Because augmented triads are formed of two stacked M3 intervals, they are completely symmetric. C+ (or "Caug") for example comprises the notes C, E, and G&sharp;. The interval between any pair of notes (C/E, E/G&sharp;, or G&sharp;/C) is a major third. This creates a surprising result when you look at it on the fretboard:
+Next up are the oddest of all: augmented triads.
+
+Because augmented triads are formed of two stacked M3 intervals, they are completely symmetric. C+ (or "Caug") for example comprises the notes C, E, and G&sharp;. The interval between any pair of notes (C/E, E/G&sharp;, or G&sharp;/C) is a major third. This creates a surprising result when you look at it on the fretboard:
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/C-aug-Inversions.png" title="C augmented triads, all close-voiced inversions on G/B/E" >}}
@@ -154,7 +156,7 @@ This means that although there are technically only four different augmented tri
 
 * G&sharp;+ (1st inversion)
 
-Which one you call it depends on the current context.
+Which one you call it depends on the current context. There is only one shape to learn on each set of three strings. If you move the shape up or down four frets, you are forming a different inversion of the same chord (skipping over the three different chords on the intervening frets).
 
 <br/>
 {{% details "Exercise 3: Augmented Triads on G/B/E" %}}
