@@ -15,9 +15,11 @@ This page is about practicing notes on the 6th string using actual songs. This p
 5. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
 6. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
 
-You can make a surprising amount of actual music with just the notes in that last diagram. In addition to simple melodies on the high E string, you can also play **chords** that have the root on the 6th string.
+Everything on this page is completely optional. Feel free to skip ahead to [the next lesson in the series]({{< ref "/page/3-fret5-string5.md" >}}) if you just want to continue learning the notes. Using real songs is a fun way to practice, however.
 
-The simplest of all chords are so-called "power chords" or 5-chords. Here's an A5 power chord, for example, that has the root on the 6th string (the hollow dot is optional, you can also mute that string if you want):
+You can make a surprising amount of actual music with just the notes on the E strings. In addition to playing simple melodies with notes on the high E string, you can also play **chords** that have the root on the 6th string.
+
+The simplest of all chords are so-called "power chords" or 5-chords. Here's the shape for an A5 power chord, for example, with the root on the 6th string (the hollow dot is optional &mdash; it's up to you whether to mute or play that note):
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/a-powerchord.png" title="A5 Power Chord" width="33%" >}}
