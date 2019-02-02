@@ -8,7 +8,7 @@ draft: false
 
 This is the fifth and final lesson on learning the notes of the fretboard::
 
-This part 2 of 6 about learning the notes on the fretboard:
+This is part 2 of 6 about learning the notes on the fretboard:
 
 1. [Just 12 notes. (Background material)]({{< ref "/page/1-just-12-notes.md" >}})
 2. [Open and E strings]({{< ref "/page/2-open-and-e.md" >}})

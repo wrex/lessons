@@ -9,10 +9,10 @@ draft: false
 
 This document presents a number of exercises to learn the names of all the natural notes on the fretboard.
 
-This part 2 of 6 about learning the notes on the fretboard:
+This is part 2 of 6 about learning the notes on the fretboard:
 
 1. [Just 12 notes. (Background material)]({{< ref "/page/1-just-12-notes.md" >}})
-2. [Open and E strings]({{< ref "/page/2-open-and-e.md" >}})
+2. Open and E strings (this page)
 3. [Practicing with actual songs]({{< ref "/page/2a-song-practice.md" >}})
 4. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
 5. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
