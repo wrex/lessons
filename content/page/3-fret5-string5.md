@@ -8,13 +8,15 @@ draft: false
 
 Let's get a few more notes under our fingers and into our brains.
 
-This is part 3 of 5:
+This part 2 of 6 about learning the notes on the fretboard:
 
 1. [Just 12 notes. (Background material)]({{< ref "/page/1-just-12-notes.md" >}})
 2. [Open and E strings]({{< ref "/page/2-open-and-e.md" >}})
-3. Fret 5 and String 5 (this page)
-4. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
-5. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
+3. [Practicing with actual songs]({{< ref "/page/2a-song-practice.md" >}})
+4. Fret 5 and String 5 (this page)
+5. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
+6. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
+
 
 
 As we described previously, if we **KNOW** the notes of the open strings and at the 12th fret, it's handy to also **KNOW** the notes at the 5th fret because it's almost half way between. By learning just four more notes, we can pretty much ensure that no matter where we place our hand, we can find at least one **KNOWN** location for any given note without reaching too far.

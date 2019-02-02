@@ -6,13 +6,15 @@ subtitle: "Background material for learning the fretboard"
 tags: [fretboard,theory]
 draft: false
 ---
-This is part 1 of a 5 page tutorial on how to learn the notes on the fretboard:
+This part 2 of 6 about learning the notes on the fretboard:
 
-1. Just 12 notes. (Background material — this page)
+1. Just 12 notes. (Background material &mdash; this page)
 2. [Open and E strings]({{< ref "/page/2-open-and-e.md" >}})
-3. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
-4. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
-5. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
+3. [Practicing with actual songs]({{< ref "/page/2a-song-practice.md" >}})
+4. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
+5. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
+6. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
+
 
 This section is purely background and doesn't contain any exercises.
 

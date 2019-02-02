@@ -8,11 +8,15 @@ draft: false
 
 This is the fifth and final lesson on learning the notes of the fretboard::
 
+This part 2 of 6 about learning the notes on the fretboard:
+
 1. [Just 12 notes. (Background material)]({{< ref "/page/1-just-12-notes.md" >}})
 2. [Open and E strings]({{< ref "/page/2-open-and-e.md" >}})
-3. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
-4. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
-5. Whole Fretboard (this page)
+3. [Practicing with actual songs]({{< ref "/page/2a-song-practice.md" >}})
+4. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
+5. [Octave Shapes]({{< ref "/page/4-octave-shapes.md" >}})
+6. Whole Fretboard (this page)
+
 
 This diagram of all the natural notes should look considerably less intimidating now:
 
@@ -27,7 +31,7 @@ Following our philosophy of always doing the hardest thing first, let's first fo
 Exactly as we did with string 5, we first perform a set of focused exercises just on just the 2nd string:
 
 <p></p>
-{{% details "Exercise 16: B string focused drills" %}}
+{{% details "Exercise 17: B string focused drills" %}}
 <div class="bg-info">
   <p>Start with the notes that are only one degree away from notes we already <strong>KNOW</strong>. Since we already know B and E, those notes are C, D, F and A.</p>
 
@@ -77,7 +81,7 @@ These are by far the most critical landmarks. Spend a lot of time with the next 
 The sooner you really and truly **KNOW** these eighteen notes (the sooner you can pilot to these landmarks effortlessly) the sooner you'll be able to find *any* note on the fretboard. Navigating via dead reckoning in just one scale step up or down from a known landmark can be pretty quick and easy. If you **KNOW** these landmark notes, that's the hardest you'll ever have to work to find a note.
 
 <p></p>
-{{% details "Exercise 17: Landmark note drills" %}}
+{{% details "Exercise 18: Landmark note drills" %}}
 <div class="bg-info">
   <p>
     Use a metronome for both of these drills. Set it to a low tempo, say 60 BPM and play each note for four beats (whole notes). When four beats becomes easy, start changing notes every two beats. When you can successfully play and name every landmark note on every beat, you can be confident you have it down.
@@ -131,7 +135,7 @@ Be **sure** you truly **KNOW** all the landmark notes above before attempting an
 You can quit practicing these exercises when you "**KNOW** the fretboard" as well and completely as you know the colors and of flavors of various fruits, as well as you know your family's faces, and as well as the denominations of the coins in your pocket.
 
 <p></p>
-{{% details "Exercise 18: Mostly-fourths across the whole neck" %}}
+{{% details "Exercise 19: Mostly-fourths across the whole neck" %}}
 <div class="bg-info">
   <p>
     By now you should know this drill well: First find the note B on each string, then the note E, and so on. Play each note in as many places on each string as you can reach.
@@ -146,7 +150,7 @@ You can quit practicing these exercises when you "**KNOW** the fretboard" as wel
 {{% /details %}}
 
 <p></p>
-{{% details "Exercise 19: Natural triads across the whole neck" %}}
+{{% details "Exercise 20: Natural triads across the whole neck" %}}
 <div class="bg-info">
   <p>
     This one should be familiar as well. This time the sequence of notes we'll look for is CEG, BDF, ACE, GBD, FAC, EGB, DFA (then repeat). First find all the C's, then all the E's, etc.
@@ -164,7 +168,7 @@ You can quit practicing these exercises when you "**KNOW** the fretboard" as wel
 {{% /details %}}
 
 <p></p>
-{{% details "Exercise 20: One octave C Major scales: 2 adjacent strings" %}}
+{{% details "Exercise 21: One octave C Major scales: 2 adjacent strings" %}}
 <div class="bg-info">
   <p>
     Since we've already learned all the natural note locations on each string, it's trivial to play the C Major scale along any given string: just play each natural note in order. You'll hear the major scale quality (do re mi fa so la ti do) most clearly if you start and end on the note C.
@@ -191,7 +195,7 @@ You can quit practicing these exercises when you "**KNOW** the fretboard" as wel
 {{% /details %}}
 
 <p></p>
-{{% details "Exercise 21: C Major scales: 3+ adjacent strings" %}}
+{{% details "Exercise 22: C Major scales: 3+ adjacent strings" %}}
 <div class="bg-info">
   <p>
     This is just a riff on exercise 20. Instead of just shifting between strings once, we are going to play the Major scale over three or more strings (you can continue for more than one octave).

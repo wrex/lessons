@@ -8,11 +8,14 @@ draft: False
 
 This is part 4 of 5 pages dedicated to learning the notes on the fretboard:
 
+This part 2 of 6 about learning the notes on the fretboard:
+
 1. [Just 12 notes. (Background material)]({{< ref "/page/1-just-12-notes.md" >}})
 2. [Open and E strings]({{< ref "/page/2-open-and-e.md" >}})
-3. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
-4. Octave Shapes (this page)
-5. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
+3. [Practicing with actual songs]({{< ref "/page/2a-song-practice.md" >}})
+4. [Fret 5 and String 5]({{< ref "/page/3-fret5-string5.md" >}})
+5. Octave Shapes (this page)
+6. [Whole Fretboard]({{< ref "/page/5-whole-fretboard.md" >}})
 
 
 Here's the complete diagram of the fretboard again:
