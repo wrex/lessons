@@ -1,5 +1,5 @@
 ---
-title: "Triads on G/B/E"
+title: "Triads"
 author: "Rex Walters"
 date: 2019-01-25T16:48:14-08:00
 subtitle: "Three note chords"
@@ -9,12 +9,14 @@ draft: false
 
 This is part 1 of a multipart series on triads:
 
-1. Triad introduction and triads on G/B/E (this page)
+1. Triad introduction and close-voiced triads on G/B/E (this page)
 2. [Triads on other strings using octave drops]({{< ref "/page/triads-2-dropstrings.md" >}})
 
-Chords are just multiple notes played simultaneously. Technically, you can have two-note chords (AKA [dyads](https://en.wikipedia.org/wiki/Dyad_(music))) but most people consider three-note chords (called "triads") to be the simplest possible place to start making real chord harmonies. The four triad types form the "atoms" of western harmony.
+Chords are just any number of notes played simultaneously. Technically, you could have two-note chords (AKA [dyads](https://en.wikipedia.org/wiki/Dyad_(music))) but most people consider three-note chords (called "triads") to be the simplest possible place to start making useful chords. The four triad types form the "atoms" of western harmony.
 
-Triads are formed by "stacking" intervals of a 3rd (major or minor) on top of each other. Since there are two internal intervals between three notes, and because each interval can be either major or minor, there are logically four types of triads:
+*Any* song can be reduced to combinations of simple triads. Even extended or altered chords with many more than just three notes can be thought of as a combination of two or more triads played simultaneously. If you played a G major triad at the same time someone else played a B diminished triad, for example, together you would make the sound of a G7 chord.
+
+Triads are formed by "stacking" two intervals of a 3rd (major or minor) on top of each other. Since there are two intervals, and each interval can be either major or minor, there are logically four types of triads:
 
 1. Major: root + M3 + p5 (a major 3rd between the first two notes, and a minor 3rd interval between the next two)
 
@@ -40,25 +42,25 @@ Here is how to play the C Major and C minor triads on the top three strings:
 {{< figure src="/img/neck-diagrams/c-minor-GBE-root.png" title="C minor triad, root inversion" width="33%" >}}
 </div>
 
-When the root note is the lowest pitch like this (ordered root, 3rd, 5th from lowest pitch to highest) we call the form of the triad the "root position" or "root inversion".
+As you can see, simply moving the 3rd (the middle note) down a half step changes the quality of the chord from major to minor.
 
-There are other ways of playing the three notes that comprise a C Major besides the root inversion.
+When the notes are in order like this (ordered root, 3rd, 5th from lowest pitch to highest) we call the form of the triad the "root position" or "root inversion".
 
-There are, of course, six permutations of the three notes in the C Major triad: CEG, EGC, GCE, CGE, ECG, and GEC.
+There are other orderings of the three notes besides the root inversion, of course. The six permutations of the three notes in the C Major triad are: CEG, EGC, GCE, CGE, ECG, and GEC.
 
-The first three are called "close voicings" because the notes are as close together as possible. The others are called "spread voicings" or "drop chord voicings" because one of the notes (voices) is moved to a different octave and is no longer as close as possible to the others.
+The first three of these groupings are called "close voicings" because the notes are as close together as possible. The others are called "spread voicings" or "drop chord voicings" because one of the notes (voices) is moved to a different octave and is no longer as close as possible to the others.
 
 ECG is a spread voicing, for example, because there is another G in between E and C that is skipped over (the G in the chord is in a higher octave than the E). The E that was previously between the C and G in root position was "dropped" an octave. On the fretboard, you can only play a spread voicing by skipping at least one string. Only close voicings are playable on three adjacent strings.
 
-We will limit ourselves to close voicings for the remainder of this page.
+We will limit ourselves to close voicings for the remainder of these pages. Spread voicings are a more advanced topic that you should explore on your own.
 
 The three close voicings for C Major are:
 
-* CEG (root inversion)
+* CEG (root inversion, with the root in the bass)
 
-* EGC (1st inversion)
+* EGC (1st inversion, with the 3rd in the bass)
 
-* GCE (2nd inversion)
+* GCE (2nd inversion, with the 5th in the bass)
 
 On the top three strings of the fretboard, they look like this:
 
@@ -70,7 +72,7 @@ Notice that when moving up the neck to the next inversion, each "voice" in the t
 
 These three shapes allow you to play **any** major chord! If you move any of these three shapes two frets higher, it forms D Major (the notes D, F&sharp;, and A).
 
-It's very important to remember where the root note is in each of these shapes. While accompanying other musicians, you'll often find yourself only thinking about the root notes of each new chord. You'll then find the closest location for that note and form the rest of the shape around it.
+**It's very important to remember where the root note is** in each of these shapes. While accompanying other musicians, you'll often find yourself only thinking about the root notes of each new chord. You'll then find the closest location for that note and form the rest of the shape around it.
 
 If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the shape appropriate for the root on that string.
 
@@ -78,10 +80,14 @@ If you want to play G major, for example, you can choose between the G at the 12
 {{% details "Exercise 1: Major Triads on G/B/E" %}}
 <div class="bg-info">
 <p>
-  We are going to find and play all 12 Major triads on the top three strings, in every inversion, by moving through the cycle of fourths. This is *not* a single session exercise!
+  We are going to find and play all 12 Major triads on the top three strings, in every inversion, by moving through the cycle of fourths.
+</p>
+
+<p>
+  You'll likely find this exercise quite difficult at first. Don't even attempt it until you are confident that you <a href="{{< ref "/page/1-just-12-notes.md" >}}"><strong>KNOW</strong> the notes on the fretboard.</a> It's sufficiently difficult that you'll probably want to avoid performing this exercise with a metronome for quite a while. Wait until you are quite confident you can find all the triads quickly before even attempting to use a metronome.
 </p>
 <p>
-  First find and play the B Major root position triad with the root at fret 6. Then play the 1st inversion B Major with the root at fret 7, then 2nd inversion with the root at fret 12. Continue up the neck as high as you can reach comfortably, e.g. the root position triad at frets 16-18 if you can reach.
+  First find and play the B Major root position triad with the root at fret 4 on the G string. Then play the 1st inversion B Major with the root at fret 7, then 2nd inversion with the root at fret 12. Continue up the neck as high as you can reach comfortably, e.g. the root position triad at frets 16-18 if you can reach.
 </p>
 <p>
   Next find all the close-voiced E Major triads on the top three strings. Then all the A Major triads.
@@ -94,9 +100,6 @@ If you want to play G major, for example, you can choose between the G at the 12
 </p>
 <p>
   Trying to find the lowest triad may seem difficult at first. Just remember the open strings are G, B, and E. Whatever note you're looking for is going to be within a few frets of one of those notes. Sometimes the inversion you first consider needs (imaginary) notes below the open strings. Since you can't play imaginary notes, visualize the next inversion higher than the one you imagined first, and play that.
-</p>
-<p>
-  You'll likely find this exercise quite difficult at first. Don't even attempt it until you are confident that you <a href="{{< ref "/page/1-just-12-notes.md" >}}"><strong>KNOW</strong> the notes on the fretboard.</a> It's sufficiently difficult that you'll probably want to avoid performing this exercise with a metronome for quite a while. Wait until you are quite confident you can find all the triads quickly before even attempting to use a metronome.
 </p>
 <p>
   You can be <em>very</em> confident that you know the top three strings of the fretboard well if you can perform this exercise with a metronome, playing whole notes at, say, 60 BPM.
