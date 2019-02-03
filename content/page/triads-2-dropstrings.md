@@ -1,5 +1,5 @@
 ---
-title: "Triads on different strings"
+title: "Major Triads on Different Strings"
 author: "Rex Walters"
 date: 2019-01-25T19:48:05-08:00
 subtitle: "Creating inversions by dropping octaves"
@@ -10,9 +10,9 @@ draft: false
 This is part 2 of a multipart series on triads:
 
 1. [Triad introduction and triads on G/B/E]({{< ref "/page/1-triads.md" >}})
-2. Triads on other strings using octave drops (this page)
+2. Major triads on other strings using octave drops (this page)
 
-Triads exist on more than just the top three strings, of course. The shapes change slightly on each different set of three strings because of the way the guitar is tuned.
+Triads exist on more than just the top three strings, of course. The shapes change slightly on each different set of three strings because of how the guitar is tuned.
 
 An excellent way to learn these additional shapes is using what Josh at [Fretboard Anatomy](https://fretboard-anatomy.com) calls "Octave Drop Chord Building." Basically, we use [familiar octave shapes]({{< ref "/page/4-octave-shapes.md" >}}) to drop the highest pitched note in a triad shape we already know one octave (and three strings) lower.
 
@@ -79,14 +79,14 @@ The arpeggio [sounds like this](/audio/cmaj-1-6strings.mp3).
 {{% details "Exercise 4: 6-string arpeggio 1" %}}
 <div class="bg-info">
   <p>
-    Play arpeggio 1 above several times, with a metronome, until you are 100% confident in the shapes. Repeat for other chords as required (ideally working through the entire circle of fourths).
+    Play the C Major arpeggio shape 1 above several times, <em>with a metronome</em>, until you are 100% confident in the three-note shapes and how they interconnect. Repeat with as many other major chords as required by repositioning to different frets (ideally working through the entire circle of fourths).
   </p>
 </div>
 {{% /details %}}
 
-We can use the exact same "octave drop" technique for any triad type (major, minor, diminished, or augmented) and any inversion. Before we explore minor/dim/aug triads, though, let's look at the next two inversions of a minor triad.
+We can (and will!) use the exact same "octave drop" technique for every triad type (major, minor, diminished, or augmented) and any inversion. Indeed, you can use this with any chord, melody, or scale fragment! Before we explore the other triad types, however, let's complete the octave drop technique with the remaining two inversions of a major triad.
 
-The root position dropped all the way down to the note C at the 8th fret of the low E string. The 1st inversion of C Major on the top strings is also at the 8th fret. Let's drop it across the strings:
+The root position dropped all the way down to the note C at the 8th fret of the low E string. The 1st inversion of C Major on the top strings is also at the 8th fret. So move the C over onto the same fret of the high E and start dropping the 1st inversion shape down the strings:
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/c-major-DGB-root.png" title="C Major triad, root inversion, D/G/B" width="33%" >}}
@@ -101,37 +101,7 @@ The root position dropped all the way down to the note C at the 8th fret of the 
 {{< figure src="/img/neck-diagrams/c-major-EAD-1st.png" title="C Major triad, 1st inversion, E/A/D" width="33%" >}}
 </div>
 
-<br/>
-{{% details "Exercise 5: Octave drop shapes 2, descending" %}}
-<div class="bg-info">
-  <p>
-    Work through the circle of fourths, finding all major chords on all sets of three adjacent strings.
-  </p>
-  <p>
-    Start with B Major 1st inversion on the the G/B/E strings. Then drop an octave onto D/G/B, then A/D/G, then E/A/D.
-  </p>
-  <p>
-    Next proceed through E Major, A Major, D Major, ..., all the way through G&flat; Major.
-  </p>
-  <p>
-    Play each triad as a chord (all voices sounding simultaneously) and as an arpeggio (one note sounded after another, lowest pitch to highest).
-  </p>
-  <p>
-    Next, repeat the exercise, but this time start from the lowest course of three strings to the highest. Root position triad on E/A/D, then 1st inversion on A/D/G, then 2nd inversion on D/G/B, and finally, root inversion on G/B/E.
-  </p>
-</div>
-{{% /details %}}
-
-<br/>
-{{% details "Exercise 6: 6-string arpeggio 2" %}}
-<div class="bg-info">
-  <p>
-    Play the same arpeggio pattern as exercise 4, but using the second set of shapes. Use a metronome and repeat until you are 100% confident in the shapes. Repeat for other chords as required (ideally working through the entire circle of fourths).
-  </p>
-</div>
-{{% /details %}}
-
-Now let's finish the Major triad shapes by moving the E we dropped to the 6th string over to the 1st string, and starting with the 2nd inversion shape:
+Now that we've "run out of strings" by dropping the 1st inversion, let's continue with the last inversion of C major. First, move the E we dropped to the 6th string over to the same fret on the high E string, and then start dropping the 2nd inversion shape:
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/c-major-DGB-1st.png" title="C Major triad, 1st inversion, D/G/B" width="33%" >}}
@@ -144,3 +114,54 @@ Now let's finish the Major triad shapes by moving the E we dropped to the 6th st
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/c-major-EAD-2nd.png" title="C Major triad, 2nd inversion, E/A/D" width="33%" >}}
 </div>
+
+By dropping each triad inversion in this way, we've re-created the following C Major arpeggio shapes:
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/C-Major-Arpeggios.png" title="C Major Arpeggios" >}}
+</div>
+
+Notice how the note on the low E string of one shape moves to the high E string of the next shape indefinitely.
+
+I've labeled these shapes the "A/G arpeggio," the "E arpeggio," and the "D/C arpeggio" because of similarity to open chord shapes. The top four strings of the A/G shape, for example, are the same shape as an A Major chord in open position. Similarly, the *bottom* four strings look like the shape of an open position G chord. The E shape has the top five strings shaped like an open E. Lastly, the D/C arpeggio uses the open D shape on the top 3 strings, and the C shape on the top 5.
+
+The names are just a trick that I and others find helpful for remembering the shapes. Eventually, we will explore the CAGED system for navigating the fretboard, but that's a whole separate discussion I don't want to get into right now.
+
+The way my mind works, though, is to see that clump of three notes at fret 5 in that last diagram as "the A shape" that the rest of the notes in the arpeggio hang off of. If I position that shape at the fifth fret I can play a C major arpeggio. At the 10th fret, it's an F major arpeggio, and so on.
+
+Similarly, I "see" an E-shaped, three-note cluster at the 9th and 10th frets of the middle arpeggio (the notes G, C, and E starting on the 5th string in the diagram above). You are probably familiar with the E shaped barre chord with the root on the 6th string. In this case, the C on the lowest string isn't part of the middle drop-octave arpeggio shape, but it *is* part of the barre chord, and we'll soon get to other arpeggio shapes that include it.
+
+For now, use the following exercise to become intimately familiar with these three major arpeggio shapes and how they interconnect.
+
+<br/>
+{{% details "Exercise 5: major arpeggio shapes" %}}
+<div class="bg-info">
+  <p>
+    We are going to work through the cycle of fourths again, but this time instead of starting with B major (which can't be played in open position) let's start with C.
+  </p>
+  <p>
+    Hopefully, the open position C Major chord is extremely familiar to you. As we discussed, this is part of the "D/C Arpeggio" shape above. So instead of playing that arpeggio beginning at the 12th fret, we'll start with open high E.
+  </p>
+  <p>
+    Play the open E, then the C on the B string, then the open G string, and so on, working through the D/C arpeggio shape until you end up at the G on the low E string.
+  </p>
+  <p>
+    Next, move the G over to the same fret on the high E string, and continue with the next arpeggio shape (the A/G arpeggio shape).
+  </p>
+  <p>
+    Then continue with the E arpeggio shape by moving the lowest note up to the high E string again.
+  </p>
+  <p>
+    Continue in this fashion playing the notes in C major as high up the neck as you can reach comfortably.
+  </p>
+  <p>
+    When you run out of neck, move onto the next chord in the circle of fourths. Find the lowest major triad shape on the G/B/E strings. In this case, we're looking for F Major (the notes F, A, and C) so the "E shape" arpeggio (and regular old F barre chord) is where you start. Play the F on the high E string and continue threading the arpeggio shapes together as high up the neck as you can comfortably reach.
+  </p>
+  <p>
+    After F comes B&flat; (or just B if you want to use the "mostly fourths" sequence and ignore sharps and flats for a while). Either way, you'll start with the "A/G" shape arpeggio and the root position triad on the top three strings this time.
+  </p>
+  <p>
+    Continue this way until you've worked through the complete cycle. Always start with the lowest triad you can find on the top three strings for each new chord (as we practiced in exercise 1).
+  </p>
+</div>
+{{% /details %}}
