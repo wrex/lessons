@@ -121,13 +121,19 @@ By dropping each triad inversion in this way, we've re-created the following C M
 {{< figure src="/img/neck-diagrams/C-Major-Arpeggios.png" title="C Major Arpeggios" >}}
 </div>
 
-Notice how the note on the low E string of one shape moves to the high E string of the next shape indefinitely.
+Notice how the last note on the low E string of one shape moves to the first note on the high E string of the next shape. The three shapes interconnect indefinitely this way.
 
-I've labeled these shapes the "A/G arpeggio," the "E arpeggio," and the "D/C arpeggio" because of similarity to open chord shapes. The top four strings of the A/G shape, for example, are the same shape as an A Major chord in open position. Similarly, the *bottom* four strings look like the shape of an open position G chord. The E shape has the top five strings shaped like an open E. Lastly, the D/C arpeggio uses the open D shape on the top 3 strings, and the C shape on the top 5.
+I've labeled these shapes the "A/G arpeggio," the "E arpeggio," and the "D/C arpeggio" because of similarity to familiar open chord shapes. Despite the shape names, however, please understand that all three shapes are arpeggios for the **C Major** chord.
 
-The names are just a trick that I and others find helpful for remembering the shapes. Eventually, we will explore the CAGED system for navigating the fretboard, but that's a whole separate discussion I don't want to get into right now.
+The top four strings of the A/G shape, for example, are the same shape as an A Major chord in open position. Similarly, the *bottom* four strings look like the shape of an open position G chord.
 
-The way my mind works, though, is to see that clump of three notes at fret 5 in that last diagram as "the A shape" that the rest of the notes in the arpeggio hang off of. If I position that shape at the fifth fret I can play a C major arpeggio. At the 10th fret, it's an F major arpeggio, and so on.
+The E shape has the top five strings shaped like an open E (or an F chord at the first fret).
+
+Lastly, the D/C arpeggio uses the open D shape on the top 3 strings, and the C shape on the top 5.
+
+The shape names are just a trick that I and others find helpful for remembering them. Eventually, we will explore the CAGED system for navigating the fretboard, but CAGED is a whole separate discussion we will save for another lesson.
+
+The way my mind works, though, is to see that clump of three notes at fret 5 in that last diagram as "the A shape" that the rest of the notes in the arpeggio hang off of. If I position that three-note shape at the fifth fret I can play a C major arpeggio. At the 10th fret, it's an F major arpeggio, and so on.
 
 Similarly, I "see" an E-shaped, three-note cluster at the 9th and 10th frets of the middle arpeggio (the notes G, C, and E starting on the 5th string in the diagram above). You are probably familiar with the E shaped barre chord with the root on the 6th string. In this case, the C on the lowest string isn't part of the middle drop-octave arpeggio shape, but it *is* part of the barre chord, and we'll soon get to other arpeggio shapes that include it.
 
@@ -163,5 +169,26 @@ For now, use the following exercise to become intimately familiar with these thr
   <p>
     Continue this way until you've worked through the complete cycle. Always start with the lowest triad you can find on the top three strings for each new chord (as we practiced in exercise 1).
   </p>
+  <p>
+    {{< youtube 3YNSThc-0wQ  >}}
+  </p>
+</div>
+{{% /details %}}
+
+The process is exactly the same for minor, diminished, and augmented arpeggios.
+
+Here are the minor arpeggio shapes:
+
+<div class="text-center">
+{{< figure src="/img/neck-diagrams/C-minor-Arpeggios.png" title="C Minor Arpeggios" >}}
+</div>
+
+<br/>
+{{% details "Exercise 6: minor arpeggio shapes" %}}
+<div class="bg-info">
+  <p>
+    Repeat exercise five, but this time using minor arpeggio shapes. Once you get the hang of it, and see how the shapes connect, start using a metronome. Whole notes, then half notes, and finally quarter notes.
+  </p>
+  {{< youtube FJ_6h6fLW1w >}}
 </div>
 {{% /details %}}
