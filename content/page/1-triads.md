@@ -103,6 +103,10 @@ If you want to play G major, for example, you can choose between the G at the 12
 </p>
 <p>
   You can be <em>very</em> confident that you know the top three strings of the fretboard well if you can perform this exercise with a metronome, playing whole notes at, say, 60 BPM.
+</p>
+<p>
+  {{< youtube NrKWJGIx4yw  >}}
+</p>
 </div>
 {{% /details %}}
 
@@ -117,6 +121,9 @@ Next up are minor triads. As we discussed, minor triads are formed by flattening
 <div class="bg-info">
 <p>
   Repeat Exercise 1, but this time use minor triads instead of Major triads.
+</p>
+<p>
+  {{< youtube s31vypqTAmQ  >}}
 </p>
 {{% /details %}}
 
