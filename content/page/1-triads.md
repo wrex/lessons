@@ -72,6 +72,10 @@ Notice that when moving up the neck to the next inversion, each "voice" in the t
 
 These three shapes allow you to play **any** major chord! If you move any of these three shapes two frets higher, it forms D Major (the notes D, F&sharp;, and A).
 
+I recorded this video a while ago. Nothing in it that isn't explained above, but in case it's easier to follow on an actual guitar:
+
+{{< youtube mMzE5nxo4mY  >}}
+
 **It's very important to remember where the root note is** in each of these shapes. While accompanying other musicians, you'll often find yourself only thinking about the root notes of each new chord. You'll then find the closest location for that note and form the rest of the shape around it.
 
 If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the shape appropriate for the root on that string.
