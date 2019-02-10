@@ -43,7 +43,9 @@ Here is one way to play the harmonized C Major scale on the top three strings:
 {{< figure src="/img/neck-diagrams/C-harmonized-GBE.png" title="Harmonizing C Major" >}}
 </div>
 
-This diagram starts with the 2nd inversion C major triad (labeled "1" in the diagram). Then comes a Dm triad, the Em, F, G, Am, Bdim, and finally back to C.
+This diagram starts with the 2nd inversion C major triad (labeled "1" in the diagram). Then comes a Dm triad in green, then Em (blue), F, G, Am, Bdim, and finally back to C.
+
+There are, of course, two more ways to harmonize the scale on these strings. Simply start with one of the other inversions of the C Major triad.
 
 Any or all of those chords can be used to play songs in the key of C Major.
 
