@@ -192,3 +192,166 @@ Here are the minor arpeggio shapes:
   {{< youtube FJ_6h6fLW1w >}}
 </div>
 {{% /details %}}
+
+As stated previously, major and minor triads are by far the most commonly played. Many players go their entire lives without playing diminished or augmented triads (at least not knowingly: diminished and augmented triads show up inside of extended and altered chords with four or more notes).
+
+Here are a few more exercises to help you get the major and minor shapes under your fingers.
+
+It isn't necessary to complete all of these before moving on, but be sure you are at least reasonably familiar with the major and minor triad shapes before continuing to the next lesson about [harmonized scales]({{< ref "triads-3-harmonized-scale.md" >}})
+
+Come back to these exercises often until you can complete all of them to a metronome. You don't need to work through them in order. It's okay to pick and choose the ones that interest you most, or where you think you need the most work. Be sure to work through all of them eventually, however.
+
+<br/>
+{{% details "Exercise 7: E/A/D major triads along the strings" %}}
+<div class="bg-info">
+  <p>
+    Using the full or partial cycle of fourths, play each major triad inversion on the low E/A/D strings. Start with the inversion as low on the neck as possible.
+  </p>
+  <p>
+    Play B Major 2nd inversion (with the root on the A string) for example. Then play the root inversion with the B on the E string. Then the 1st inversion at the 11th fret. Continue up the neck as far as you can reach comfortably.
+  </p>
+  <p>
+    Repeat for E, then A, then D, etc. until you've worked through the full cycle of fourths.
+  </p>
+  <p>
+    Have I mentioned that it's important to know the cycle backwards as well as forwards? Backward (F C G D A E B G&flat; D&flat; A&flat; E&flat; B&flat;) it becomes the cycle of <em>fifths</em> because the inverse of a fourth is a fifth. Practice working through the cycle of fifths at least as often as you work through the cycle of fourths.
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 8: E/A/D minor triads along the strings" %}}
+<div class="bg-info">
+  <p>
+    Using the full or partial cycle of fourths/fifths, play each minor triad inversion on the low E/A/D strings. Start with the inversion as low on the neck as possible.
+  </p>
+  <p>
+    Play B minor 2nd inversion (with the root on the A string) for example. Then play the root inversion with the B on the E string. Then the 1st inversion at the 10th fret. Continue up the neck as far as you can reach comfortably.
+  </p>
+  <p>
+    Repeat for E, then A, then D, etc. until you've worked through the full cycle of fourths (or backwards through the cycle of fifths).
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 9: (Advanced) E/A/D major triads in position" %}}
+<div class="bg-info">
+  <p>
+    Choose a position on the fretboard, say frets 1-5. Using the full or partial cycle of fourths/fifths, try to play each major triad in position, choosing inversions that require you to move your hand as little as possible.
+  </p>
+  <p>
+    For example, play B Major 2nd inversion (with the root on the A string). Then play the E Major 1st inversion with the root on the D string (shifting your hand up one fret). Then A root inversion. Then D 2nd inversion, shifting your hand back down a fret and using the open strings.
+  </p>
+  <p>
+    Continue in this fashion through the entire cycle (or at least the natural notes). Then pick a new position on the neck and repeat the process.
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 10: (Advanced) E/A/D minor triads in position" %}}
+<div class="bg-info">
+  <p>
+    Choose a position on the fretboard, say frets 1-5. Using the full or partial cycle of fourths/fifths, try to play each minor triad in position, choosing inversions that require you to move your hand as little as possible.
+  </p>
+  <p>
+    For example, play B Major 2nd inversion (with the root on the A string). Then play the E Major 1st inversion with the root on the D string (shifting your hand up one fret). Then A root inversion. Then D 2nd inversion, shifting your hand back down a fret and using the open strings.
+  </p>
+  <p>
+    Continue in this fashion through the entire cycle (or at least the natural notes). Then pick a new position on the neck and repeat the process.
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 11: A/D/G major triads along the strings" %}}
+<div class="bg-info">
+  <p>
+    Using the full or partial cycle of fourths, play each major triad inversion on the A/D/G strings. Start with the inversion as low on the neck as possible.
+  </p>
+  <p>
+    Play B Major 1st inversion (with the root on the G string) for example. Then play the 2nd inversion with the B on the D string. Then the root inversion at the 14th fret. Continue up the neck as far as you can reach comfortably.
+  </p>
+  <p>
+    Repeat for E, then A, then D, etc. until you've worked through the full cycle.
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 12: A/D/G minor triads along the strings" %}}
+<div class="bg-info">
+  <p>
+    Using the full or partial cycle of fourths/fifths, play each minor triad inversion on the A/D/G strings. Start with the inversion as low on the neck as possible.
+  </p>
+  <p>
+    Play B minor 1st inversion (with the root on the G string) for example. Then play the 2nd inversion with the B on the D string. Then the root inversion at the 14th fret. Continue up the neck as far as you can reach comfortably.
+  </p>
+  <p>
+    Repeat for E, then A, then D, etc. until you've worked through the full cycle of fourths (or backwards through the cycle of fifths).
+  </p>
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 13: (Advanced) A/D/G major triads in position" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 14: (Advanced) A/D/G minor triads in position" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 15: D/G/B major triads along the strings" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 16: D/G/B minor triads along the strings" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 17: (Advanced) D/G/B major triads in position" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 18: (Advanced) D/G/B minor triads in position" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 19: G/B/E major triads along the strings" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 20: G/B/E minor triads along the strings" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 21: (Advanced) G/B/E major triads in position" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+<br/>
+{{% details "Exercise 22: (Advanced) G/B/E minor triads in position" %}}
+<div class="bg-info">
+</div>
+{{% /details %}}
+
+Next up: [how to use triads to harmonize the major scale]({{< ref "/page/triads-3-harmonized-scale.md" >}})
