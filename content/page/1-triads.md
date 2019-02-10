@@ -11,6 +11,7 @@ This is part 1 of a multipart series on triads:
 
 1. Triad introduction and close-voiced triads on G/B/E (this page)
 2. [Triads on other strings using octave drops]({{< ref "/page/triads-2-dropstrings.md" >}})
+3. [Harmonizing scales with triads]({{< ref "/page/triads-3-harmonized-scale.md" >}})
 
 Chords are just any number of notes played simultaneously. Technically, you could have two-note chords (AKA [dyads](https://en.wikipedia.org/wiki/Dyad_(music))) but most people consider three-note chords (called "triads") to be the simplest possible place to start making useful chords. The four triad types form the "atoms" of western harmony.
 

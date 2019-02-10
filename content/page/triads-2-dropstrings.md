@@ -11,6 +11,7 @@ This is part 2 of a multipart series on triads:
 
 1. [Triad introduction and triads on G/B/E]({{< ref "/page/1-triads.md" >}})
 2. Major triads on other strings using octave drops (this page)
+3. [Harmonizing scales with triads]({{< ref "/page/triads-3-harmonized-scale.md" >}})
 
 Triads exist on more than just the top three strings, of course. The shapes change slightly on each different set of three strings because of how the guitar is tuned.
 
