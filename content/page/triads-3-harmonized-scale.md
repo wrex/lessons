@@ -93,16 +93,51 @@ Now let's practice playing harmonized scales on the top three strings.
     Let's start with the key of C. Play the 2nd inversion C Major triad on G/B/E. Then move the root note up two frets to D and form the corresponding triad (Dm). Move up two more frets and play Em. Then one fret to F, two to G, two to Am, two more to the B <em>diminished</em> shape, and finally back to the C Major triad at the 13th fret. Refer to the diagram above if necessary.
   </p>
   <p>
+    Be sure to practice <em>descending</em> as well as ascend the scale. Play the C up at the 13th fret and work your way back down to the one in open position.
+  </p>
+  <p>
     Now let's try a different inversion. Play the root inversion C Major triad with the C on the G string at the 5th fret. Move the C up two frets and play Dm. Then Em, F, G, Am, Bdim, and C.
   </p>
   <p>
-    Whenever you move two far up the neck to play comfortably, shift the shape one octave (twelve frets) lower and continue from there.
+    Whenever you move too far up the neck to play comfortably, shift the shape one octave (twelve frets) lower and continue from there.
   </p>
   <p>
     Repeat with the 1st inversion C Major triad at the 8th fret.
   </p>
   <p>
     Next, pick another key and play that harmonized scale using all three inversions. You can just pick a key at random or proceed through the cycle of fourths/fifths.
+  </p>
+</div>
+{{% /details %}}
+
+In addition to simply playing the harmonized scale in order (which doesn't sound particularly musical) you can, of course, play the diatonic triads in any given order. One particularly useful ordering is progressing through the scale in *sixths*. Here's an awesome [YouTube video of David Becker explaining the sequence](https://youtu.be/iQCT9B_JTeA?&t=3m22s) (the exercise itself starts at 3'22" but I highly recommend watching the whole thing).
+
+Sixths are interesting because each pair of triads differs by only one note. You either raise the 5th of the triad up to the next scale degree, or lower the root.
+
+C major is the notes CEG. Raising the G to an A gives you CEA (Am, 2nd inversion). Lowering the root gives you BEG (Em, 1st inversion). The process works with every diatonic triad: raising the fifth or lowering the root gives you another diatonic triad a sixth away.
+
+I'm still unpacking all the ideas in that video myself. It's a bit of a mental struggle the first few times, but the more I work on it, the more convinced I become that this exercise is *money*.
+
+<br/>
+{{% details "Exercise 24: Harmonizing the C major scale in 6ths on G/B/E" %}}
+<div class="bg-info">
+  <p>
+    Play the lowest C major triad on G/B/E (second inversion in open position). Raise the 5th to play Am. Now raise the 5th of the Am and play F. Then Dm, Bdim, G, Em, and then root position C.
+  </p>
+  <p>
+    You are simply raising the 5th to the next scale degree each time. We are in the key of C, so the scale degrees are just the natural notes (which you already <strong>KNOW</strong>, right?).
+  </p>
+  <p>
+    Now continue up the neck. Raise the G on the 1st string to an A and play Am (1st inversion) at the 5th fret. Then comes F, Dm, Bdim, G, Em, and once again you end on C at the 8th fret (1st inversion).
+  </p>
+  <p>
+    Continuing, raise the G on the 2nd string this time to A, and play the Am triad. Then continue raising 5ths to play F, Dm, Bdim, G, Em, and finally end on the 2nd inversion C again at the 13th fret.
+  </p>
+  <p>
+    This will be difficult at first. Notice the pattern, though: first the note on the 1st string is raised, then the 2nd string, then the 3rd. 1-2-3, 1-2-3, 1-2-3 indefinitely.
+  </p>
+  <p>
+    Now <em>descend</em> through the sequence, this time lowering the root each time.
   </p>
 </div>
 {{% /details %}}
