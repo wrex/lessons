@@ -171,7 +171,7 @@ This means that although there are technically only four different augmented tri
 Which one you call it depends on the current context. There is only one shape to learn on each set of three strings. If you move the shape up or down four frets, you are forming a different inversion of the same chord (skipping over the three different chords on the intervening frets).
 
 <br/>
-{{% details "Exercise 3: Augmented Triads on G/B/E" %}}
+{{% details "Exercise 4: Augmented Triads on G/B/E" %}}
 <div class="bg-info">
 <p>
   Repeat Exercise 1, but this time use augmented triads instead of Major triads. Because the shape never changes, only the position, you should find this one relatively easy.

@@ -6,6 +6,7 @@ subtitle: "Background material for learning the fretboard"
 tags: [fretboard,theory]
 draft: false
 ---
+
 This is part 1 of 6 about learning the notes on the fretboard:
 
 1. Just 12 notes. (Background material &mdash; this page)

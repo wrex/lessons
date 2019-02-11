@@ -61,10 +61,9 @@ From low to high (6th to 1st strings) the strings are tuned to the notes E, A, D
   {{< figure src="/img/neck-diagrams/open-strings.png" title="Open String Notes" width="33%">}}
 </div>
 
-<p></p>
+<br/>
 {{% details "Exercise 1: Open Strings (click to expand)" %}}
 <div class="bg-info">
-<h4>Exercise 1: Open strings</h4>
 
 <p>Pluck each string in order, 6, then 5, ..., up to the 1st string, saying the corresponding note name for each string <strong>out loud</strong>. Repeat this multiple times until you are completely confident you've got it memorized. It's important to say the note name out loud, it truly helps your brain to make the connection. This may seem foolishly easy, but things will get much harder quickly &mdash; every second spent ensuring the easy stuff is truly effortless is invaluable.</p>
 

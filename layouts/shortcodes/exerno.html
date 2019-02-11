@@ -1,0 +1,5 @@
+{{ if .Get "lastno" }}
+  {{ .Page.Scratch.Set "exerno" (int (.Get "lastno")) }}
+{{ end }}
+{{ .Page.Scratch.Add "exerno" 1 }}
+{{ .Page.Scratch.Get "exerno" }}
