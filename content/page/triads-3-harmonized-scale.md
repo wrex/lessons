@@ -76,7 +76,7 @@ The key of G Major contains the notes G A B C D E F&sharp;. Only one note (F&sha
 | Em | vi | E G B
 | F&sharp;dim | vii°| F&sharp; A C
 
-With just that one change, though, things change profoundly. The B chord is now Bm instead of Bdim. D is now major, not minor. And we play F&sharp;dim instead of F major!
+Even with only one note changed, the chords change significantly. The B chord is now Bm instead of Bdim. D is now major, not minor. And we play F&sharp;dim instead of F major!
 
 **But**, notice that the I, IV, and V chords are still major. The ii, iii, and vi chord still minor, and the vii° chord is still diminished. This remains true for **any** major scale, no matter how many sharps and flats.
 
@@ -85,3 +85,24 @@ The key of G&flat; is the notes G&flat;, A&flat;, B&flat;, C&flat;, D&flat;, E, 
 The chords in G&flat; are G&flat;, A&flat; minor, B&flat; minor, C&flat;, D&flat;, Em, and F&flat;dim.
 
 Now let's practice playing harmonized scales on the top three strings.
+
+<br/>
+{{% details "Exercise 23: Harmonizing major scales on G/B/E" %}}
+<div class="bg-info">
+  <p>
+    Let's start with the key of C. Play the 2nd inversion C Major triad on G/B/E. Then move the root note up two frets to D and form the corresponding triad (Dm). Move up two more frets and play Em. Then one fret to F, two to G, two to Am, two more to the B <em>diminished</em> shape, and finally back to the C Major triad at the 13th fret. Refer to the diagram above if necessary.
+  </p>
+  <p>
+    Now let's try a different inversion. Play the root inversion C Major triad with the C on the G string at the 5th fret. Move the C up two frets and play Dm. Then Em, F, G, Am, Bdim, and C.
+  </p>
+  <p>
+    Whenever you move two far up the neck to play comfortably, shift the shape one octave (twelve frets) lower and continue from there.
+  </p>
+  <p>
+    Repeat with the 1st inversion C Major triad at the 8th fret.
+  </p>
+  <p>
+    Next, pick another key and play that harmonized scale using all three inversions. You can just pick a key at random or proceed through the cycle of fourths/fifths.
+  </p>
+</div>
+{{% /details %}}
