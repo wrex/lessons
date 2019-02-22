@@ -86,7 +86,7 @@ Even with only one note changed, the chords change significantly. The B chord is
 
 **But**, notice that the I, IV, and V chords are still major. The ii, iii, and vi chord still minor, and the vii° chord is still diminished. This remains true for **any** major scale, no matter how many sharps and flats.
 
-The key of G&flat; is the notes G&flat;, A&flat;, B&flat;, C&flat;, D&flat;, E, and F&flat;. (Yes, we call it "C&flat;" here even though it's really the same pitch and same note as plain old B).
+The key of G&flat; Major, for example, contains the notes G&flat;, A&flat;, B&flat;, C&flat;, D&flat;, E, and F&flat;. (Yes, we call it "C&flat;" here even though it's really the same pitch and same note as plain old B).
 
 The chords in G&flat; are G&flat;, A&flat; minor, B&flat; minor, C&flat;, D&flat;, Em, and F&flat;dim.
 
