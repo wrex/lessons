@@ -110,16 +110,16 @@ Now let's practice playing harmonized scales on the top three strings.
   <p>
     Repeat with the 1st inversion C Major triad at the 8th fret.
   </p>
-  <p>
-    Next, pick another key and play that harmonized scale using all three inversions. You can just pick a key at random or proceed through the cycle of fourths/fifths.
-  </p>
 
   <p>
-    Once you have worked harmonized the scale with all three inversions, try to visualize how the different shapes overlap. Pick two chords, say C and F. first play them with the same inversion by shifting up and down the neck. Then play the same C shape, but this time try to find a different inversion of F nearby, without having to move your hand along the neck. Repeat for the other two C shapes.
+    Once you have harmonized the scale with all three inversions, try to visualize how the different shapes overlap. Pick two chords, say C and F. first play them with the same inversion by shifting up and down the neck. Then play the same C shape, but this time try to find a different inversion of F nearby, without having to move your hand along the neck. Repeat for the other two C shapes.
   </p>
 
   <p>
     Now do it with C and G. Millions of songs use I-IV-V chord progressions (C-F-G in the key of G). Knowing how to find nearby IV and V chords will prove incredibly helpful the more you play.
+  </p>
+  <p>
+    After you become comfortable with the key of C, pick another key and play that harmonized scale using all three inversions. You can just pick a key at random or proceed through the cycle of fourths/fifths (it isn't necessary to practice all keys on every string-set, but it won't hurt!).
   </p>
 
   <p>
