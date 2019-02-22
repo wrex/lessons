@@ -46,7 +46,7 @@ Then we find the root inversion in the same way on the low-E, A, and D strings:
 Note that we have a root inversion on both the lowest set of three strings and the highest set of three strings.
 
 <br/>
-{{% details "Exercise 3: Octave drop shapes 1, descending" %}}
+{{% details "Exercise 5: Octave drop shapes 1, descending" %}}
 <div class="bg-info">
   <p>
     Work through the circle of fourths, finding all major chords on all sets of three adjacent strings.
@@ -63,25 +63,7 @@ Note that we have a root inversion on both the lowest set of three strings and t
   <p>
     Next, repeat the exercise, but this time start from the lowest course of three strings to the highest. Root position triad on E/A/D, then 1st inversion on A/D/G, then 2nd inversion on D/G/B, and finally, root inversion on G/B/E.
   </p>
-</div>
-{{% /details %}}
 
-In addition to practicing octave drops, we also want to be able to visualize all four of these triad shapes (on each adjacent set of three strings) as a single entity. There are four different triad shapes, but we want to visualize how they all connect.
-
-One way to accomplish this is by playing a six string arpeggio that connects all four shapes:
-
-<div class="text-center">
-{{< figure src="/img/cmaj-1-6strings.png" title="C Major Arpeggio 1">}}
-</div>
-
-The arpeggio [sounds like this](/audio/cmaj-1-6strings.mp3).
-
-<br/>
-{{% details "Exercise 4: 6-string arpeggio 1" %}}
-<div class="bg-info">
-  <p>
-    Play the C Major arpeggio shape 1 above several times, <em>with a metronome</em>, until you are 100% confident in the three-note shapes and how they interconnect. Repeat with as many other major chords as required by repositioning to different frets (ideally working through the entire circle of fourths).
-  </p>
 </div>
 {{% /details %}}
 
@@ -141,7 +123,7 @@ Similarly, I "see" an E-shaped, three-note cluster at the 9th and 10th frets of 
 For now, use the following exercise to become intimately familiar with these three major arpeggio shapes and how they interconnect.
 
 <br/>
-{{% details "Exercise 5: major arpeggio shapes" %}}
+{{% details "Exercise 6: major arpeggio shapes" %}}
 <div class="bg-info">
   <p>
     We are going to work through the cycle of fourths again, but this time instead of starting with B major (which can't be played in open position) let's start with C.
@@ -185,7 +167,7 @@ Here are the minor arpeggio shapes:
 </div>
 
 <br/>
-{{% details "Exercise 6: minor arpeggio shapes" %}}
+{{% details "Exercise 7: minor arpeggio shapes" %}}
 <div class="bg-info">
   <p>
     Repeat exercise five, but this time using minor arpeggio shapes. Once you get the hang of it, and see how the shapes connect, start using a metronome. Whole notes, then half notes, and finally quarter notes.
@@ -203,7 +185,7 @@ It isn't necessary to complete all of these before moving on, but be sure you ar
 Come back to these exercises often until you can complete all of them to a metronome. You don't need to work through them in order. It's okay to pick and choose the ones that interest you most, or where you think you need the most work. Be sure to work through all of them eventually, however.
 
 <br/>
-{{% details "Exercise 7: E/A/D major triads along the strings" %}}
+{{% details "Exercise 8: E/A/D major triads along the strings" %}}
 <div class="bg-info">
   <p>
     Using the full or partial cycle of fourths, play each major triad inversion on the low E/A/D strings. Start with the inversion as low on the neck as possible.
@@ -221,7 +203,7 @@ Come back to these exercises often until you can complete all of them to a metro
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 8: E/A/D minor triads along the strings" %}}
+{{% details "Exercise 9: E/A/D minor triads along the strings" %}}
 <div class="bg-info">
   <p>
     Using the full or partial cycle of fourths/fifths, play each minor triad inversion on the low E/A/D strings. Start with the inversion as low on the neck as possible.
@@ -236,7 +218,7 @@ Come back to these exercises often until you can complete all of them to a metro
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 9: (Advanced) E/A/D major triads in position" %}}
+{{% details "Exercise 10: (Advanced) E/A/D major triads in position" %}}
 <div class="bg-info">
   <p>
     Choose a position on the fretboard, say frets 1-5. Using the full or partial cycle of fourths/fifths, try to play each major triad in position, choosing inversions that require you to move your hand as little as possible.
@@ -251,7 +233,7 @@ Come back to these exercises often until you can complete all of them to a metro
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 10: (Advanced) E/A/D minor triads in position" %}}
+{{% details "Exercise 11: (Advanced) E/A/D minor triads in position" %}}
 <div class="bg-info">
   <p>
     Choose a position on the fretboard, say frets 1-5. Using the full or partial cycle of fourths/fifths, try to play each minor triad in position, choosing inversions that require you to move your hand as little as possible.
@@ -266,7 +248,7 @@ Come back to these exercises often until you can complete all of them to a metro
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 11: A/D/G major triads along the strings" %}}
+{{% details "Exercise 12: A/D/G major triads along the strings" %}}
 <div class="bg-info">
   <p>
     Using the full or partial cycle of fourths, play each major triad inversion on the A/D/G strings. Start with the inversion as low on the neck as possible.
@@ -281,7 +263,7 @@ Come back to these exercises often until you can complete all of them to a metro
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 12: A/D/G minor triads along the strings" %}}
+{{% details "Exercise 13: A/D/G minor triads along the strings" %}}
 <div class="bg-info">
   <p>
     Using the full or partial cycle of fourths/fifths, play each minor triad inversion on the A/D/G strings. Start with the inversion as low on the neck as possible.
@@ -296,61 +278,61 @@ Come back to these exercises often until you can complete all of them to a metro
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 13: (Advanced) A/D/G major triads in position" %}}
+{{% details "Exercise 14: (Advanced) A/D/G major triads in position" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 14: (Advanced) A/D/G minor triads in position" %}}
+{{% details "Exercise 15: (Advanced) A/D/G minor triads in position" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 15: D/G/B major triads along the strings" %}}
+{{% details "Exercise 16: D/G/B major triads along the strings" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 16: D/G/B minor triads along the strings" %}}
+{{% details "Exercise 17: D/G/B minor triads along the strings" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 17: (Advanced) D/G/B major triads in position" %}}
+{{% details "Exercise 18: (Advanced) D/G/B major triads in position" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 18: (Advanced) D/G/B minor triads in position" %}}
+{{% details "Exercise 19: (Advanced) D/G/B minor triads in position" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 19: G/B/E major triads along the strings" %}}
+{{% details "Exercise 20: G/B/E major triads along the strings" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 20: G/B/E minor triads along the strings" %}}
+{{% details "Exercise 21: G/B/E minor triads along the strings" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 21: (Advanced) G/B/E major triads in position" %}}
+{{% details "Exercise 22: (Advanced) G/B/E major triads in position" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}
 
 <br/>
-{{% details "Exercise 22: (Advanced) G/B/E minor triads in position" %}}
+{{% details "Exercise 23: (Advanced) G/B/E minor triads in position" %}}
 <div class="bg-info">
 </div>
 {{% /details %}}

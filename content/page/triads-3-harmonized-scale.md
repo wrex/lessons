@@ -19,33 +19,37 @@ Before moving onto the next session of practicing (and *applying*) triads across
 
 As we discussed in [just twelve notes]({{< ref "/page/1-just-12-notes.md" >}}), the major scale (AKA Ionian Mode) comprises just the seven natural notes C, D, E, F, G, A, and B.
 
-We can create a triad for each of these notes by "stacking thirds" (playing every other note in the scale). We create a C triad from the notes C, E, and G (skipping over D and F). The next triad starts on D, and takes the notes D, F, and A, forming D minor triad. The process repeats for all seven notes in the scale.
+We can create a triad for each of these notes by "stacking thirds" (playing every other note in the scale). We create a C triad from the notes C, E, and G (skipping over D and F). The next triad starts on D, and takes the notes D, F, and A, forming the D minor triad. The process repeats for all seven notes in the scale.
 
 Here's the table of these triads (chords) again:
 
-| Chord name | Roman or "Nashville" notation | Notes
-| --- | --- | ---
-| C | I | C E G
-| Dm | ii | D F A
-| Em | iii | E G B
-| F | IV | F A C
-| G | V | G B D
-| Am | vi | A C E
-| Bdim | vii° | B D F
+<br/>
+
+| Scale degree | Chord | Roman or "Nashville" notation | Notes/spelling
+| --- | --- | --- | ---
+| 1 | C | I | C E G
+| 2 | Dm | ii | D F A
+| 3 | Em | iii | E G B
+| 4 | F | IV | F A C
+| 5 | G | V | G B D
+| 6 | Am | vi | A C E
+| 7 | Bdim | vii° | B D F
+
+<br/>
 
 Notice that the I, IV, and V chords are major, and the ii, iii, and vi chords are minor. The only oddball is the triad formed by starting on the seventh degree of the scale (B diminished).
 
-To "harmonize" a scale just means to play each of these chords in order. The harmonized C Major scale is the chords C, Dm, Em, F, G, Am, Bdim played in order.
+To "harmonize" a scale just means to play the corresponding chord for each note in the scale (each scale degree). The harmonized C Major scale is the chords C, Dm, Em, F, G, Am, and Bdim.
 
-Here is one way to play the harmonized C Major scale on the top three strings:
+Here is the harmonized C Major scale on the top three strings using 2nd inversion triad shapes (with the 3rd in the bass):
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/C-harmonized-GBE.png" title="Harmonizing C Major" >}}
 </div>
 
-This diagram starts with the 2nd inversion C major triad (labeled "1" in the diagram). Then comes a Dm triad in green, then Em (blue), F, G, Am, Bdim, and finally back to C.
+This diagram starts with C Major (the black notes labeled "1" in the diagram). Then comes a Dm triad in green, then Em (blue), F, G, Am, Bdim, and finally back to C.
 
-There are, of course, two more ways to harmonize the scale on these strings. Simply start with one of the other inversions of the C Major triad.
+There are, of course, two more ways to harmonize the scale on this string-set, simply by starting with one of the other inversions of the C Major triad.
 
 Any or all of those chords can be used to play songs in the key of C Major.
 
@@ -53,14 +57,16 @@ Any or all of those chords can be used to play songs in the key of C Major.
 
 You can harmonize melodies within a key using the harmonized triads. The song "Happy birthday to you" is usually played in the key of C. The first line of the melody is the notes C, C, D, C, F, E. You *could* harmonize this simply by playing the chords C, C, Dm, C, F, Em.
 
-It might sound better, though, to keep the melody in the top "voice" and use different inversions of various chords within the key. Perhaps:
+It might sound better, though, to keep the melody in the top "voice" and use different inversions of various chords within the key. You might play it this way, for example:
 
-C (1st inversion with C on top)
-C (1st inversion with C on top)
-Dm (2nd inversion with D on top)
-F (root inversion with C on top)
-F (2nd inversion with F on top)
-C (2nd inversion with E on top)
+C (1st inversion with C on top) <br/>
+C (1st inversion with C on top) <br/>
+Dm (2nd inversion with D on top) <br/>
+F (root inversion with C on top) <br/>
+F (2nd inversion with F on top) <br/>
+C (2nd inversion with E on top) <br/>
+
+{{< youtube ayWX2kOqwUQ  >}}
 
 ### Other keys
 
@@ -107,6 +113,18 @@ Now let's practice playing harmonized scales on the top three strings.
   <p>
     Next, pick another key and play that harmonized scale using all three inversions. You can just pick a key at random or proceed through the cycle of fourths/fifths.
   </p>
+
+  <p>
+    Once you have worked harmonized the scale with all three inversions, try to visualize how the different shapes overlap. Pick two chords, say C and F. first play them with the same inversion by shifting up and down the neck. Then play the same C shape, but this time try to find a different inversion of F nearby, without having to move your hand along the neck. Repeat for the other two C shapes.
+  </p>
+
+  <p>
+    Now do it with C and G. Millions of songs use I-IV-V chord progressions (C-F-G in the key of G). Knowing how to find nearby IV and V chords will prove incredibly helpful the more you play.
+  </p>
+
+  <p>
+    {{< youtube 5QSyRBiUjZU  >}}
+  </p>
 </div>
 {{% /details %}}
 
@@ -119,7 +137,7 @@ C major is the notes CEG. Raising the G to an A gives you CEA (Am, 2nd inversion
 I'm still unpacking all the ideas in that video myself. It's a bit of a mental struggle the first few times, but the more I work on it, the more convinced I become that this exercise is *money*.
 
 <br/>
-{{% details "Exercise 24: Harmonizing the C major scale in 6ths on G/B/E" %}}
+{{% details "Exercise 24: Becker triads. Harmonizing in 6ths" %}}
 <div class="bg-info">
   <p>
     Play the lowest C major triad on G/B/E (second inversion in open position). Raise the 5th to play Am. Now raise the 5th of the Am and play F. Then Dm, Bdim, G, Em, and then root position C.
@@ -139,5 +157,22 @@ I'm still unpacking all the ideas in that video myself. It's a bit of a mental s
   <p>
     Now <em>descend</em> through the sequence, this time lowering the root each time.
   </p>
+  <p>
+    {{< youtube soB7dNbXwg4  >}}
+  </p>
 </div>
 {{% /details %}}
+
+The nice thing about the Becker exercise is that it forces you to see how the shapes connect, and which chords are "closest" in terms of shared notes. I suspect this is particularly helpful for "voice leading" (finding chord inversions).
+
+It led me to a bit of an epiphany regarding chord function (tonic/dominant/sub-dominant). I always knew that Am was the "relative minor" of C, and that the key of Am shared all the same notes as C Major, so it made sense to me that both C and Am (the I and vi degrees of the scale) were in the "tonic" family. Both sound like "home."
+
+I never understood why Em (the iii chord) was also considered in the tonic family, though. Now I know. Both Em and Am are very closely related to C. You only need to change one note to get to either triad.
+
+I recently came across [this terrific article about chord function](https://www.jazzadvice.com/chord-function/). That article coupled with the Becker Triad exercise really helped me learn something that I only vaguely understood before.
+
+C to G is an interval of a fifth. The G triad functions as a dominant (C is the tonic, of course). F to C is also an interval of a fifth (C to F is a fourth) which is why it's called the *sub*-dominant. Both share a note with the C triad. Playing a cadence of G to C, or F to C gives a strong sense of resolution.
+
+G is closely related to Bdim (only one note changes). Similarly, F is closely related to Dm (again, just one note differs). Both Bdim and Dm are utterly dissimilar to C. They share no common notes. C is spelled CEG, Bdim is BDF, and Dm is DFA. Bdim and Dm are as far from the tonic as you can get. Both G and Bdim perform the dominant function, and both F and Dm are sub-dominants. Eureka!
+
+{{< youtube DXTpacWl6iA  >}}
