@@ -128,6 +128,8 @@ Now let's practice playing harmonized scales on the top three strings.
 </div>
 {{% /details %}}
 
+### Other Progressions (Becker Triad Exercise)
+
 In addition to simply playing the harmonized scale in order (which doesn't sound particularly musical) you can, of course, play the diatonic triads in any given order. One particularly useful ordering is progressing through the scale in *sixths*. Here's an awesome [YouTube video of David Becker explaining the sequence](https://youtu.be/iQCT9B_JTeA?&t=3m22s) (the exercise itself starts at 3'22" but I highly recommend watching the whole thing).
 
 Sixths are interesting because each pair of triads differs by only one note. You either raise the 5th of the triad up to the next scale degree, or lower the root.
@@ -163,16 +165,28 @@ I'm still unpacking all the ideas in that video myself. It's a bit of a mental s
 </div>
 {{% /details %}}
 
+### Chord function
+
 The nice thing about the Becker exercise is that it forces you to see how the shapes connect, and which chords are "closest" in terms of shared notes. I suspect this is particularly helpful for "voice leading" (finding chord inversions).
 
-It led me to a bit of an epiphany regarding chord function (tonic/dominant/sub-dominant). I always knew that Am was the "relative minor" of C, and that the key of Am shared all the same notes as C Major, so it made sense to me that both C and Am (the I and vi degrees of the scale) were in the "tonic" family. Both sound like "home."
+It led me to a bit of an epiphany regarding chord function (tonic/dominant/sub-dominant). I always knew that Am was the "relative minor" of C, and that the key of Am shared all the same notes as C Major, so it made sense to me that both C and Am (the I and vi chords) were in the "tonic" family. Both sound like "home."
 
 I never understood why Em (the iii chord) was also considered in the tonic family, though. Now I know. Both Em and Am are very closely related to C. You only need to change one note to get to either triad.
 
 I recently came across [this terrific article about chord function](https://www.jazzadvice.com/chord-function/). That article coupled with the Becker Triad exercise really helped me learn something that I only vaguely understood before.
 
-C to G is an interval of a fifth. The G triad functions as a dominant (C is the tonic, of course). F to C is also an interval of a fifth (C to F is a fourth) which is why it's called the *sub*-dominant. Both share a note with the C triad. Playing a cadence of G to C, or F to C gives a strong sense of resolution.
+C to G is an interval of a fifth. The G triad functions as a dominant (C is the tonic, of course). F to C is also an interval of a fifth (C to F is a fourth) which is why it's called the *sub*-dominant. Both share a note with the C triad. Playing a cadence of G Major to C Major gives a strong sense of resolution. Playing F Major to C Major also resolves, but not quite as strongly.
 
-G is closely related to Bdim (only one note changes). Similarly, F is closely related to Dm (again, just one note differs). Both Bdim and Dm are utterly dissimilar to C. They share no common notes. C is spelled CEG, Bdim is BDF, and Dm is DFA. Bdim and Dm are as far from the tonic as you can get. Both G and Bdim perform the dominant function, and both F and Dm are sub-dominants. Eureka!
+G is closely related to Bdim (only one note changes). Similarly, F is closely related to Dm (again, just one note differs). Both Bdim and Dm are utterly dissimilar to C. They share no common notes. C is spelled CEG, Bdim is BDF, and Dm is DFA. Bdim and Dm are as far from the tonic as you can get. Both G and Bdim perform the dominant function, and both F and Dm are sub-dominants.
+
+To summarize:
+
+| Function/Family | Chords | comments
+| --- | --- | ---
+| Tonic  | I, iii, vi | iii and vi share two notes with the I
+| Dominant  | V, vii° | V & vii° share two notes, both share 0 or 1 note with the I
+| Sub-dominant  | IV, ii | IV & ii share two notes, both share 0 or 1 note with the I
+
+<br/>
 
 {{< youtube DXTpacWl6iA  >}}
