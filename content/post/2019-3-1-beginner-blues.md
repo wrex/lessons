@@ -53,6 +53,8 @@ Before studying anything else with the blues, it's important to practice actuall
 
 {{< youtube 7cPSRdpq8iQ  >}}
 
+Modern blues tends to emphasize the backbeats. In slower tempos, the backbeats are the "ands" (or "a's") rather than the downbeats. At faster tempos, it's beats two and four. Simply emphasizing the backbeat can dramatically improve the overall sound of the progression.
+
 ### Not losing your place within 12 bars
 
 Even though the basic 12-bar blues has a simple structure, and the chords almost always come in the same place, that doesn't mean it isn't easy to get lost.
