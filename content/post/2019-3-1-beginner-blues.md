@@ -7,7 +7,7 @@ tags: [blues,repertoire]
 draft: false
 ---
 
-Contrary to what I thought when I first started, the blues are far from simple! Sure, the blues just uses three chords but the reasons behind them all being dom7 chords, for example are pretty complex. And things really get interesting when people like <a href="https://flypaper.soundfly.com/features/understanding-advanced-blues-harmony/" target="_blank">Brian Wilson or Ornette Coleman</a>.
+Contrary to what I thought when I first started, the blues are far from simple! Even though the blues uses just three chords, the reasons behind them all being dom7 chords, for example are pretty complex. Things really get interesting when people like <a href="https://flypaper.soundfly.com/features/understanding-advanced-blues-harmony/" target="_blank">Brian Wilson or Ornette Coleman</a> get involved.
 
 Still, a 12-bar blues almost always follows roughly the same chord changes. It usually moves to the IV chord in bar 4, for example, then back to the I in bar 6, and has some sort of turnaround in the last four bars.
 
