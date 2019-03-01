@@ -13,7 +13,7 @@ It's true that the basic structure of the 12-bar blues form is pretty straightfo
 
 (Theorists would say weird things like: "Because the I7 is the V7 of the IV" and "The b3 and b7 notes can also be considered borrowed from the parallel minor scales." Blues musicians would say "because it sounds good.")
 
-In hindsight, I wish that, like my father, I had really been into simple 3-chord hillbilly songs. About the only thing I got right about the blues being "simple" was that the chord changes are generally pretty consistent and predictable (unless you happen to like, say, <a href="https://flypaper.soundfly.com/features/understanding-advanced-blues-harmony/">Brian Wilson or Ornette Coleman</a>.
+In hindsight, I wish that, like my father, I had really been into simple 3-chord hillbilly songs. About the only thing I got right about the blues being "simple" was that the chord changes are generally pretty consistent and predictable (unless you happen to like, say, <a href="https://flypaper.soundfly.com/features/understanding-advanced-blues-harmony/" target="_blank">Brian Wilson or Ornette Coleman</a>.
 
 From the start, I wanted to be able to solo and vamp freely over what other musicians were playing. I wanted to be able to play "what I feel". I (correctly) thought that this would be easier if I knew what chord changes were coming and when. Since the 12-bar blues form has a fairly standard structure, what better place to start?
 
