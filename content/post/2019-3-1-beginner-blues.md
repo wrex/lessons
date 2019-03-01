@@ -13,7 +13,7 @@ It's true that the basic structure of the 12-bar blues form is pretty straightfo
 
 (Theorists would say weird things like: "Because the I7 is the V7 of the IV" and "The b3 and b7 notes can also be considered borrowed from the parallel minor scales." Blues musicians would say "because it sounds good.")
 
-In hindsight, I wish that, like my father, I had really been into simple 3-chord hillbilly songs. About the only thing I got right about the blues being "simple" was that the chord changes are generally pretty consistent and predictable (unless you happen to like, say, [Brian Wilson or Ornette Coleman](https://flypaper.soundfly.com/features/understanding-advanced-blues-harmony/)).
+In hindsight, I wish that, like my father, I had really been into simple 3-chord hillbilly songs. About the only thing I got right about the blues being "simple" was that the chord changes are generally pretty consistent and predictable (unless you happen to like, say, <a href="https://flypaper.soundfly.com/features/understanding-advanced-blues-harmony/">Brian Wilson or Ornette Coleman</a>.
 
 From the start, I wanted to be able to solo and vamp freely over what other musicians were playing. I wanted to be able to play "what I feel". I (correctly) thought that this would be easier if I knew what chord changes were coming and when. Since the 12-bar blues form has a fairly standard structure, what better place to start?
 
@@ -27,7 +27,7 @@ Nail the **fundamentals** before moving onto more complex studies.
 
 The first and most important fundamental for **any** music (not just blues, IMHO) is *rhythm*.
 
-You can get away with murder with muffled or wrong notes and chords, as long as you've nailed the rhythm. The opposite is definitely not, true, however: even absolute perfect melody/harmony/articulation sounds *awful* if the rhythm is off.
+You can get away with murder with muffled or wrong notes and chords, as long as you've nailed the rhythm. The opposite is definitely not true, however: even absolute perfect melody/harmony/articulation sounds *awful* if the rhythm is off.
 
 The fundamental rhythmic groove of the blues is based on triplets and swung eighths.
 
@@ -63,7 +63,7 @@ Personally, I found it incredibly easy to get lost while I was playing. I was us
 
 When you lose your place in a band situation, it's almost always best to just **take your hands off the guitar** and wait a few measures until you are certain where you are before picking up again. Silence will invariably sound better than something flat wrong.
 
-The only way to avoid getting lost at all is to practice the progression so many times that it becomes subconscious. It's also important to eliminate any uneccessary complexity and just focus on the progression until you hear it in your sleep.
+The only way to avoid getting lost at all is to practice the progression so many times that it becomes subconscious. It's also important to eliminate any unnecessary complexity and just focus on the progression until you hear it in your sleep.
 
 {{< youtube of4Fjme32eQ  >}}
 
