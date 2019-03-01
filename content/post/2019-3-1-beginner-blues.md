@@ -35,19 +35,19 @@ The fundamental rhythmic groove of the blues is based on triplets and swung eigh
 
 **One**-and **two**-and **three**-and **four**-and
 
-with equal spacing between each pulse (downbeat or "and"). A blues progression with a fast straight eighths groove immediately sounds rock-and-roll (tap along to [Johnny B. Goode by Chuck Berry](https://youtu.be/ZFo8-JqzSCM), for example).
+with equal spacing between each pulse (downbeat or "and"). A blues progression with a fast straight eighths groove immediately sounds rock-and-roll (tap along to <a href="https://youtu.be/ZFo8-JqzSCM" target="_blank">Johnny B. Goode by Chuck Berry</a>, for example).
 
 **Triplets** have three pulses per beat:
 
 **One**-and-a **two**-and-a **three**-and-a **four**-and-a
 
-Again, equal spacing between each of the pulses (downbeat, "and," or "a") but triplets come in groups of three rather than two. An example of the triplet feel is [Blueberry Hill by Fats Domino](https://youtu.be/bQQCPrwKzdo) (listen to the drummer playing the hi-hat &mdash; those are triplets).
+Again, equal spacing between each of the pulses (downbeat, "and," or "a") but triplets come in groups of three rather than two. An example of the triplet feel is <a href="https://youtu.be/bQQCPrwKzdo" target="_blank">Blueberry Hill by Fats Domino</a> (listen to the drummer playing the hi-hat &mdash; those are triplets).
 
 "**Swung eighths**" are kind of like triplets, but without the middle pulse:
 
 **one**-...-a   **two**-...-a   **three**-...-a   **four**-...-a
 
-The spacing is unequal. There is a longer pause between the downbeat and the upbeat. [Matt Smith describes the sound as the "clip-clop" of horses in old western movies](https://youtu.be/ejr2S7bN0V8?&t=3'm22s). Some people also call it the "flat tire" rhythm because of the uneven sound of a punctured tire rolling around the rim. A classic example of the swung eighth groove is [Jimi Hendrix playing Red House](https://youtu.be/INniLPDgQRU) (again, pay particular attention to the drums to hear the rhythm &mdash; a mix of triplets and swung eighths).
+The spacing is unequal. There is a longer pause between the downbeat and the upbeat. <a href="https://youtu.be/ejr2S7bN0V8?&t=3m22s" target="_blank">Matt Smith describes the sound as the "clip-clop" of horses in old western movies</a>. Some people also call it the "flat tire" rhythm because of the uneven sound of a punctured tire rolling around the rim. A classic example of the swung eighth groove is <a href="https://youtu.be/INniLPDgQRU" target="_blank">Jimi Hendrix playing Red House</a> (again, pay particular attention to the drums to hear the rhythm &mdash; a mix of triplets and swung eighths).
 
 Before studying anything else with the blues, it's important to practice actually playing swung eighths *with a metronome*. I'd recommend spending at least a few **hours** if not days just practicing this rhythm until it is completely ingrained and automatic.
 
