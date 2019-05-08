@@ -62,9 +62,9 @@ And finally, E7, the V chord:
 {{< figure src="/img/neck-diagrams/E7-arpeggio.png" title="E7 arpeggio" width="50%">}}
 </div>
 
-If you put on a blues in A backing track and play the A7 arpeggio notes over A7, D7 over D7, and E7 over E7 it will sound perfect (if a little dull since there is no "spice" from other notes).
+If you put on a blues in A backing track and play the A7 arpeggio notes over A7, D7 over D7, and E7 over E7 it will sound perfect (if a little dull since there is no "spice" from notes not in the underlying chord).
 
-[VIDEO DEMONSTRATION COMING]
+[VIDEO DEMONSTRATION COMING 1]
 
 But that's twelve different notes to remember (if only a single shape). We can make it even easier.
 
@@ -116,6 +116,12 @@ Once you are comfortable doing this on one pair of strings, start introducing tr
 
 Next, start mixing in notes from the pentatonic scale, and/or the full arpeggios. Try to anticipate the sound of each note before you play it (I'm told that singing or humming the notes as you play them helps).
 
-It's easy to get lost and confuse yourself. One thing that helps me is to visualize where the closest root is for whatever chord I'm on (this is why it's so important to memorize the fretboard). If I know where the root is, I can find the &flat;7 by moving down two frets, or the 3rd by moving up a string and down one fret. Once I find either of those notes, I can form the tritone by making the diagonal shape.
+It's easy to get lost and confuse yourself. One thing that helps me is to visualize where the closest root is for whatever chord I'm on (this is why it's so important to memorize the fretboard).
 
-[DEMONSTRATION VIDEO COMING]
+If I know where the root is, I can find the &flat;7 by moving down two frets, or the 3rd by moving up a string and one fret. If I can find either of those notes, my fingers just make the diagonal tritone shape around it.
+
+To demonstrate the exercise, here's a rather pitiful video of me trying to solo. I sounded better until I started recording! (Laugh.) 
+
+Hopefully, it won't scare you off the idea entirely. I'm keeping the video for posterity so I can see my improvement.
+
+{{< youtube ajgnNFVkplA >}}
