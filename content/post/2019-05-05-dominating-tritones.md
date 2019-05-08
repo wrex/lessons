@@ -64,7 +64,7 @@ And finally, E7, the V chord:
 
 If you put on a blues in A backing track and play the A7 arpeggio notes over A7, D7 over D7, and E7 over E7 it will sound perfect (if a little dull since there is no "spice" from notes not in the underlying chord).
 
-[VIDEO DEMONSTRATION COMING 1]
+{{< youtube BQLFxfDFohQ  >}}
 
 But that's twelve different notes to remember (if only a single shape). We can make it even easier.
 
@@ -96,13 +96,11 @@ Let's use octave shapes to move all of the notes onto the same pair of strings:
 
 Woah. This means you can "comp" to an entire 12-bar blues using just two fingers on your left hand! You move your hand lower by one fret when playing the IV chord, and higher by one fret when playing the V!
 
-{{< youtube BQLFxfDFohQ  >}}
-
 ## Tritones for soloing
 
 Tritones aren't only useful for rhythm, they are just as useful for playing lead.
 
-I'm far from the world's greatest guitarist, but here's a video of me soloing over the 12-bar blues. All I'm thinking about is using notes from the Am pentatonic scale, with some tritones sprinkled for the chord I'm currently playing over. It sounds particularly sweet if you highlight one or both of the tritone notes at the exact moment the chords change:
+I'm far from the world's greatest guitarist, but here's a video of me using tritones to comp a 12-bar blues. It sounds particularly sweet if you highlight one or both of the tritone notes at the exact moment the chords change:
 
 {{< youtube PE3uo6ja2aQ >}}
 
@@ -122,6 +120,6 @@ If I know where the root is, I can find the &flat;7 by moving down two frets, or
 
 To demonstrate the exercise, here's a rather pitiful video of me trying to solo. I sounded better until I started recording! (Laugh.)
 
-Hopefully, it won't scare you off the idea entirely. I'm keeping the video for posterity so I can see my improvement.
+Hopefully, it won't scare you off the idea entirely. I'm keeping the video for posterity so I can see my improvement. 
 
 {{< youtube ajgnNFVkplA >}}
