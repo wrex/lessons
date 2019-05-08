@@ -96,15 +96,11 @@ Let's use octave shapes to move all of the notes onto the same pair of strings:
 
 Woah. This means you can "comp" to an entire 12-bar blues using just two fingers on your left hand! You move your hand lower by one fret when playing the IV chord, and higher by one fret when playing the V!
 
-## Tritones for soloing
-
-Tritones aren't only useful for rhythm, they are just as useful for playing lead.
-
 I'm far from the world's greatest guitarist, but here's a video of me using tritones to comp a 12-bar blues. It sounds particularly sweet if you highlight one or both of the tritone notes at the exact moment the chords change:
 
 {{< youtube PE3uo6ja2aQ >}}
 
-## Practicing
+## Soloing and practice
 
 I find it much easier to practice this sort of thing with [iReal Pro](https://irealpro.com/) than anything else I've tried. It's **hard** to even hear the chord changes when you are a beginner, much less time things to hit the changes on the beat. iReal Pro gives you a fighting chance because it gives you a **visual** cue of what chord is currently playing, what's coming up, and where you are within the song.
 
@@ -120,6 +116,6 @@ If I know where the root is, I can find the &flat;7 by moving down two frets, or
 
 To demonstrate the exercise, here's a rather pitiful video of me trying to solo. I sounded better until I started recording! (Laugh.)
 
-Hopefully, it won't scare you off the idea entirely. I'm keeping the video for posterity so I can see my improvement. 
+Hopefully, it won't scare you off the idea entirely. I'm keeping the video for posterity so I can see my improvement.
 
 {{< youtube ajgnNFVkplA >}}
