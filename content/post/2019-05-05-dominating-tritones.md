@@ -104,7 +104,7 @@ Tritones aren't only useful for rhythm, they are just as useful for playing lead
 
 I'm far from the world's greatest guitarist, but here's a video of me soloing over the 12-bar blues. All I'm thinking about is using notes from the Am pentatonic scale, with some tritones sprinkled for the chord I'm currently playing over. It sounds particularly sweet if you highlight one or both of the tritone notes at the exact moment the chords change:
 
-[DEMONSTRATION VIDEO COMING]
+{{< youtube PE3uo6ja2aQ >}}
 
 ## Practicing
 
@@ -120,7 +120,7 @@ It's easy to get lost and confuse yourself. One thing that helps me is to visual
 
 If I know where the root is, I can find the &flat;7 by moving down two frets, or the 3rd by moving up a string and one fret. If I can find either of those notes, my fingers just make the diagonal tritone shape around it.
 
-To demonstrate the exercise, here's a rather pitiful video of me trying to solo. I sounded better until I started recording! (Laugh.) 
+To demonstrate the exercise, here's a rather pitiful video of me trying to solo. I sounded better until I started recording! (Laugh.)
 
 Hopefully, it won't scare you off the idea entirely. I'm keeping the video for posterity so I can see my improvement.
 
