@@ -96,7 +96,7 @@ Let's use octave shapes to move all of the notes onto the same pair of strings:
 
 Woah. This means you can "comp" to an entire 12-bar blues using just two fingers on your left hand! You move your hand lower by one fret when playing the IV chord, and higher by one fret when playing the V!
 
-[DEMONSTRATION VIDEO COMING]
+{{< youtube BQLFxfDFohQ  >}}
 
 ## Tritones for soloing
 
