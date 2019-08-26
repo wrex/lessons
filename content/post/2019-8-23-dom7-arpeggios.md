@@ -58,6 +58,8 @@ Repeat ascending and descending as many times as you can stand, but always start
 
 Initially, don't worry about a metronome. Just play rubato (out of time) to get the shape under your fingers. Repeat until you don't have to think about where to put your fingers for the next note.
 
+{{< youtube xahog71t8zE >}}
+
 ### Drill 1 (with a metronome)
 
 Once you think you've got the shape down, prove it to yourself by playing with a metronome. (There's nothing quite as humbling as a metronome.)
@@ -66,17 +68,23 @@ Start at a nice slow tempo like quarter notes at 60 bpm. Then start building up 
 
 Once you can play quarter notes with the metronome at 200 BPM, slow it back down to 60 and play 8th notes. Then triplets. Then 16th notes.
 
+{{< youtube MADmrGA2Xh4 >}}
+
 ### Drill 2 (starting on different notes and changing start direction)
 
 Once you can play it straight up and down at a fairly quick tempo, try starting on the **highest** note in the shape (the C# on the 1st string) and descend from there at the beginning of each iteration. Your brain knows you've already practiced descending from there when you turned around a the highest note, but it may surprise you how much your fingers struggle to **start** at a different place in the pattern!
 
 Push yourself by placing a finger on **any** note in the shape on any string, then ascending or descending from there.
 
+{{< youtube dXl412zX6es >}}
+
 ### Drill 3 (pattern drills)
 
 Next, use the same techniques we've discussed to learn scales: play patterns. First try strings-of-three-notes, then strings-of-four-notes. Then try every-other-note. The goal is to have the shape completely in your muscle memory as well as instantly "visible" in your mind's eye on the fretboard.
 
 These drills should sound quite musical, by the way, which means they are particularly excellent practice. You play what you practice, and pieces of these drills make great licks for real solos.
+
+{{< youtube -mamP6vdh8E >}}
 
 ### Drill 4 (different chords &mdash; "magic fingers do your stuff")
 
@@ -90,6 +98,8 @@ Then play E7 at the 12th fret. Same shape, but because the frets get closer toge
 
 A7, D7, and E7 are the I7, IV7, and V7 for a blues in A. Let's use this to play a blues!
 
+[DRILL 4 VIDEO FORTHCOMING]
+
 ### Drill 5 (12-bar blues, ascending from the root of each change)
 
 One very good drill is to keep looping through all 12 bars of an A blues (with a quick-change and turnaround) using just this one shape:
@@ -98,13 +108,15 @@ A7 D7 A7 A7 <br>
 D7 D7 A7 A7 <br>
 E7 D7 A7 E7
 
-Play each 4/4 bar with swung eighth notes [like this](#) (eight picked notes for each bar). You'll struggle at first to play in time and keep track of where you are. Once you get better at it, try playing the drill over a backing track.
+Play each with eighth notes (eight picked notes for each 4/4 bar). You'll struggle at first to play in time and keep track of where you are. Once you get better at it, try playing the drill over a backing track.
 
 You'll have the shape down when you can play all 12 bars ascending from the root on each chord change.
 
 Once you get good at that, make it more difficult. Instead of ascending from the lowest root, start each new chord by **descending** from the highest note &mdash; **in time and with a metronome**.
 
-It should sound like [this when ascending](#) and [this when descending](#).
+{{< youtube 1R6J9MLSjRM >}}
+
+{{< youtube IdsKP3_ThpA >}}
 
 ## Shape 5M
 
@@ -216,6 +228,8 @@ Next start with the A on the 5th string at the 12th fret: first starting with 5M
 
 Lastly use the A at the 7th fret of the 4th string. First using shape 4I, but then remember that you can also use shape 6M (4R) for this root.
 
+[PRACTICING IN POSITION VIDEO COMING]
+
 Now start practicing in other keys. Remember to just use the "L" shapes to find your way around. I'd stick to "guitar" keys like E, A, D, G, and C for quite  while, but it's worth putting in time in every key.
 
 ## Know the scale degrees and add some spice with chromatics and scales
@@ -234,11 +248,15 @@ The first and most important spice in a blues context is to hammer, slide, or be
 
 Identify the major 3rds in each of the 5 shapes, then practice hammering-on, sliding, and bending up to those notes from one fret lower.
 
+{{< youtube z_Dx3tmLjd8 >}}
+
 ### Spice #2 (the M7)
 
 In general, 3rds and 7ths are the key notes. They are what create the quality of the sound. The root and fifth are much less important and surprisingly can frequently be omitted altogether! The &flat;7 is always two frets lower than the root (or two strings higher).
 
 The next thing to try is playing the chromatic note between the &flat;7 and the root (the major 7th *AKA* M7 *AKA* &triangle;7). Playing it by itself or ending a phrase with it won't sound good at all, but try using it as a passing note as you move between the &flat;7 and root (or vice versa).
+
+{{< youtube -KyAlact0Ic  >}}
 
 ### Spice #3 (scale notes)
 
@@ -267,6 +285,8 @@ Now go through each of the arpeggio shapes, and find a familiar major pentatonic
 
 Try switching between playing the arpeggio and major pentatonic licks. This can be a bit of a brain buster, but eventually you should be able to visualize the major pentatonic scale overlayed on top of the arpeggio. You should be able to quickly "see" both.
 
+{{< youtube QAkhU6iK-As  >}}
+
 ### Spice #4 (chromatic approach notes)
 
 It turns out that used the right way and at the right time, literally **any** of the twelve notes can sound good.
@@ -279,6 +299,8 @@ Try it. Put on a backing track and play dom7 arpeggios as you've been practicing
 
 Now try it from a fret above. Try it on and off the beat and with every note in the chord.
 
+{{< youtube McVEpeDDN0A  >}}
+
 ### Spice #5 (enclosures)
 
 Next up is *enclosures*: you first play a higher note, then a lower note, before finally hitting the target note ("enclosing" the target note with notes both higher and lower on the neck). They are particularly popular with jazz players, especially bebop.
@@ -286,5 +308,7 @@ Next up is *enclosures*: you first play a higher note, then a lower note, before
 I'm not 100% sure about this, but I think enclosures always use the chromatic note exactly a half step below. The higher note, though, is usually the higher scale degree (but I think it can also sometimes just be a half step above, not necessarily the next scale degree).
 
 Try playing the 4-&flat;3-M3 enclosure, for example, instead of just playing the M3 (enclosing the M3 a half-step above and a half-step below). Or the R-6-&flat;7, enclosing the &flat;7 a whole step above and a half-step below.
+
+{{< youtube sJQatiCGRqY >}}
 
 Experiment. Have fun!
