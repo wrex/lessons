@@ -98,7 +98,7 @@ Then play E7 at the 12th fret. Same shape, but because the frets get closer toge
 
 A7, D7, and E7 are the I7, IV7, and V7 for a blues in A. Let's use this to play a blues!
 
-[DRILL 4 VIDEO FORTHCOMING]
+{{< youtube M1Ew_j_HFOc >}}
 
 ### Drill 5 (12-bar blues, ascending from the root of each change)
 
@@ -226,9 +226,9 @@ I recommend sticking with one key, say A, for a few weeks. First go through the 
 
 Next start with the A on the 5th string at the 12th fret: first starting with 5M, then starting with 5P.
 
-Lastly use the A at the 7th fret of the 4th string. First using shape 4I, but then remember that you can also use shape 6M (4R) for this root.
+{{< youtube YiD6z4HyCd8 >}}
 
-[PRACTICING IN POSITION VIDEO COMING]
+Lastly use the A at the 7th fret of the 4th string. First using shape 4I, but then remember that you can also use shape 6M (4R) for this root.
 
 Now start practicing in other keys. Remember to just use the "L" shapes to find your way around. I'd stick to "guitar" keys like E, A, D, G, and C for quite  while, but it's worth putting in time in every key.
 
