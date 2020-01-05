@@ -38,7 +38,7 @@ Scale and chord names depend on context. The C Major and A minor scales contain 
 
 I don't like talking about shapes or positions for this very reason &mdash; it's just too confusing to have two names for the same thing.
 
-Instead, I like to think of scale patters "hanging off of" chord shapes, either higher or lower on the neck. Once you learned (truly **KNOW**) the triad shapes and the five pentatonic shapes, your brain will see how they interconnect and you will never get lost.
+Instead, I like to think of scale patterns "hanging off of" chord shapes, either higher or lower on the neck. Once you learned (truly **KNOW**) the triad shapes and the five pentatonic shapes, your brain will see how they interconnect and you will never get lost.
 
 No matter where your left hand is currently on the neck, your mind's eye should "see" the major on minor or chord you're looking for nearby, and you should also "see" the pentatonic shapes both lower and higher on the neck from this chord.
 
