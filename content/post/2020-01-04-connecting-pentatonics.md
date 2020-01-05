@@ -16,7 +16,7 @@ Chords and scales are intimately connected. Consider these three (inter-connecte
 {{< figure src="/img/neck-diagrams/Am-5-1-2.png" title="Am Pentatonic shapes 5, 1, and 2" >}}
 </div>
 
-The root notes (A) of the scale are shown in red. The remaining notes in the two Am chord shapes on the top four strings are also shown in salmon. (Note that these chord shapes are just triads on the top three strings, with the highest note doubled on the 4th string in a lower octave.)
+The root notes (A) of the scale are shown in red. The remaining notes in the two Am chord shapes on the top four strings are also shown in salmon. (Note that these chord shapes are just triads on the top three strings, with the highest note doubled on the 4th string in a lower octave.) The "blue notes" are shown with a triangle.
 
 This post is about **connecting** these shapes in your mind. When you play or even *think about* the Am shape on the top three strings at the 5th fret, your mind should immediately fill in the rest of *both* Am pentatonic shapes on either side of the chord (shapes 5 and 1). You should practice these shapes until the connection in your mind between the chord shape and the adjacent pentatonic shapes is automatic.
 
