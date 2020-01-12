@@ -72,9 +72,7 @@ If chord you play over is Am, and/or the phrases you create with those five note
 
 If your play over C Major or the phrases end on and emphasize C, the melody will sound sweet and happy ("major").
 
-Enough talk!
-
-Let's first look at the five notes in Am pentatonic all over the neck:
+Let's first look at these five notes in an Am context all over the neck:
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-wholeneck.png" title="Am Pentatonic, whole neck" >}}
@@ -82,11 +80,11 @@ Let's first look at the five notes in Am pentatonic all over the neck:
 
 This diagram for is intractably complex and way too much to keep in our memory in one chunk. We need to break it down into smaller, more tractable pieces.
 
-Notice first that if we start on any A, we can find a C either three frets higher on the same string, or two frets **lower** on the next string (remember the fret shift when moving between string 3 and string 2, however).
+#### Above and Below Concept
 
-#### Step 3a: Two one-octave shapes
+Before we do so, however, I'd like you to notice something important:
 
-We can use this fact to first memorize two simple one-octave shapes (similar to what I called the "frying pan" shapes in [another set of posts]({{< ref "/post/2018-12-18-the-frying-pan.md" >}})):
+If we start on any A, we can find a C either three frets higher on the same string, or two frets **lower** on the next string (remember the fret shift when moving between string 3 and string 2, however).
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/two-one-octave-Am-1.png" title="One octave Am Pentatonic, shape 1" width="33%">}}
@@ -96,15 +94,19 @@ We can use this fact to first memorize two simple one-octave shapes (similar to 
 {{< figure src="/img/neck-diagrams/two-one-octave-Am-2.png" title="One octave Am Pentatonic, shape 2" width="33%">}}
 </div>
 
-You want to program your fingers to play these shapes without conscious effort.
-
 Note that shape 1 starts with your *first* finger on the root note, and the remaining notes on the same or *higher* frets.
 
 Shape 2 has your *pinky* on the root note, and the remaining notes *lower* on the neck.
 
 You can use this fact to great advantage: The note you're looking for is almost guaranteed to be close to one of those two fingers. You shouldn't need to move your left hand very far up or down the neck to get one of those two fingers in position.
 
-Watch the pros and notice how efficiently they move their hands. Their hands always seem to be in the right place for the notes they want to play.
+Let's just think about the A on the sixth string as shown. If my left hand was anywhere around the middle of the neck (say with my first finger around frets 4, 5, or 6) I could play the single octave shape 1 without moving my hand even a fret.
+
+If my hand was lower on the neck, I'd choose octave shape 2.
+
+If it was even higher on the neck, I could use shape 1 starting with my index finger on the A on the D string, or shape 2 with my pinky on the A at the 12th fret of the A string.
+
+Watch the pros and notice how efficiently they move their hands. Their hands always seem to be in the right place for the notes they want to play. Choosing shapes that hang higher or lower off their current position is what allows this.
 
 {{% details "Exercise 2: One-octave shape 1 drills" %}}
 <div class="bg-info">
