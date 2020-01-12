@@ -108,39 +108,8 @@ If it was even higher on the neck, I could use shape 1 starting with my index fi
 
 Watch the pros and notice how efficiently they move their hands. Their hands always seem to be in the right place for the notes they want to play. Choosing shapes that hang higher or lower off their current position is what allows this.
 
-{{% details "Exercise 2: One-octave shape 1 drills" %}}
-<div class="bg-info">
-  <p>
-    First play the Am pentatonic scale using the one octave shape 1, starting on the A on the sixth string as shown above. Play it straight up and down until your fingers automatically know where to go. Thinking in terms of fingers, the pattern is 1-4, 1-3, 1-(3). You can either end on the root note in the higher octave, or just go back down the scale. Practice it ascending and descending. <strong>SEE</strong> the pattern in your mind's eye.
-  </p>
-  <p>
-    Next, start with your first finger on an A on different strings (e.g. the A on the 12th fret of the 5th string). Remember to shift the pattern by a fret when moving between the 3rd and 2nd strings.
-  </p>
-  <p>
-    Finally, play the pentatonic shape in other keys by starting on notes other than an A. For example, go through the circle of fourths: first find all the one-octave B pentatonic shapes (shape 1), then all the E's, then A, D, G, C, F. This should be easy, but that doesn't mean you should skip the exercise. You are programming your brain and finger connections: think "Bm pentatonic" and your pointer finger on your left hand should **automatically** move to a nearby B note and start that pattern.
-  </p>
-  <p>
-    Perform these exercises over a backing track (just a looped minor chord suffices) to get the sound of the scale in your ear.
-  </p>
-</div>
-{{% /details %}}
 
-{{% details "Exercise 3: One-octave drills, shapes 1 and 2" %}}
-<div class="bg-info">
-  <p>
-    First play the Am pentatonic scale on string six as we did in exercise 1, but this time use shape 2 instead. Again, play it straight up and down until your fingers automatically know where to go. Thinking in terms of fingers, the pattern is 4, 2-3, 1-4, (1). You can either end on the root note in the higher octave, or just go back down the scale. Practice it ascending and descending. **SEE** the pattern in your mind's eye.
-  </p>
-  <p>
-    Again, try different strings (e.g. the A on the 12th fret of the 5th string). Remember to shift the pattern by a fret when moving between the 3rd and 2nd strings. Also practice with different keys (different starting notes other than A). Be sure you know what minor key you are playing each time!
-  </p>
-  <p>
-    Finally, practice finding a note on any string and playing both patterns, starting with your index finger or pinky as appropriate. Notice how little your hand needs to move when you have the option of starting with either finger!
-  </p>
-  <p>
-    Again, practice as much as possible with a looper or backing track to internalize the sound of the scale in a harmonic context.
-  </p>
-</div>
-{{% /details %}}
+### Multi-octave "box" shapes
 
 Now take a look at "pattern 1" of the Am pentatonic again (repeated here for convenience):
 
@@ -152,7 +121,6 @@ Notice that this multi-octave pattern has both one octave shapes within it. It s
 
 **All** of the pentatonic shapes work the same way. They are all just combinations of the one-octave shapes!
 
-### Multi-octave shapes
 
 Learning the two one octave pentatonic patterns (AKA [the frying pan]({{< ref "/post/2018-12-18-the-frying-pan.md" >}})) is pretty easy and fun, and shouldn't take you more than a single practice session to learn.
 
