@@ -12,11 +12,19 @@ This is a follow-on to my last post about connecting pentatonic shapes, and part
 
 As always, the goal is to play music (sounds) not memorize shapes or terminology.  Specifically, we want to be able to play the five notes of the pentatonic scale, instantly and effortlessly.
 
-It's all too easy to get so wrapped up in theory and names and shapes and the mental aspects of music that you lose sight of the goal (believe me, I have this problem in spades).
+It's all too easy to get so wrapped up in theory and names and the **analytical, verbal, mentally straining** aspects of music that you lose sight of the goal (believe me, I have this problem in spades).
 
-The goal is sounds, but you need visual landmarks (looking at the fretboard) and feeling (eye-ear-hand coordination) to get there. Theory and terminology is useful for organizing your thoughts and communicating with others, but thinking about names and theory gets in the way of actually playing music.
+Ideally, you only want to think in terms of sounds while playing music. You want your fingers to automatically know where to go when you think of the sound you want to make. You'll get there sooner than you might think if you keep practicing, and it's a *very* cool feeling when your fingers just seem to automagically know where to go.
 
-What follows is the practice regimen for learning the pentatonic scale that I'm currently following myself.
+In the interim, though, its better to use *visual* and tactile cues (shapes) rather than linguistic/analytical cues (names and terminology from music theory). Using visual shapes and tactile grips to pull things out of your memory is much easier than using more verbal/analytical things like "box 4 of the minor pentatonic scale".
+
+Visual/tactile cues are easier on your brain. It's why we often describe music with terms like colors and textures.
+
+Theory and terminology are useful for preparation, organizing your thoughts, learning, exploring, and communicating with others, but thinking about theory and names just gets in the way while actually *playing* music.
+
+Specifically, this post is about using chord shapes to recall entire pentatonic scale shapes, rather than the abstract names for the patterns. The term "box 4," for example, has no musical meaning so using that name to recall the shape isn't as useful to me as "seeing" the minor chord shape within the pattern as my index into the shape when dredging it up from memory.
+
+What follows is a visual, shape-based practice regimen for learning the pentatonic scale that I'm currently following myself. I've found it has improved my playing dramatically.
 
 ### Prerequisites to **KNOWING** the pentatonic scale
 
@@ -42,7 +50,7 @@ Regardless, you should be able to easily play major and minor triads for any nat
   Let's say you're on the note B. You first need to find the note B as low on the neck as possible. The open B string doesn't work, because the remainder of the B minor triad (the note B D F&sharp;) with the root on the second string needs notes below the nut. So the lowest place to find a triad on the neck is the root inversion with the B on the G string at the 4th fret. Now double the F&sharp; on the E string an octave lower on the D string at the 4th fret. Play and memorize this four string shape while saying "B minor".
 </p>
 <p>
-  Next find the next Bm inversion up higher on the neck and repeat the process. Continue finding inversions as high up on the neck as you can comfortably reach. There are only three unique 4-string triad shapes for each note, but you should be able to reach at least four different positions on the neck (on an electric guitar).
+  Next find the next Bm inversion up higher on the neck and repeat the process. Continue finding inversions as high up on the neck as you can comfortably reach. There are only three unique 4-string triad shapes for each root note, but you should be able to reach at least four different positions on the neck (on an electric guitar).
 </p>
 <p>
   Once you've found all three shapes in different places on the neck, practice moving between them quickly, jumping around at random. Try to "see" the root notes in each position and use them to navigate.
@@ -56,27 +64,29 @@ Regardless, you should be able to easily play major and minor triads for any nat
 
 ### Learning the pentatonic shapes
 
-Step 3 is to learn the five pentatonic shapes: how they connect and how to find and visualize them.
+Note that I call these "the" pentatonic shapes, with no distinction between major and minor shapes. There are only five shapes, and each one can be either major or minor depending how you use them.
 
-To review: the notes in Am pentatonic are A, C, D, E, and G. These are the *same* notes as C Major pentatonic (C, D, E, G, and A) but each note sounds and functions differently depending on which note you consider the root.
+The notes in Am pentatonic are A, C, D, E, and G. These are the *same* notes as C Major pentatonic (C, D, E, G, and A) but each note sounds and functions differently depending on the harmonic context. "Harmonic context" just means what chords are playing in the background, or which note "feels" like the root note (home base).
 
-If the phrases you create with those five notes end on and emphasize the note A, the melody will sound wistful and sad (or "minor").
+If chord you play over is Am, and/or the phrases you create with those five notes end on and emphasize the note A, the melody will sound wistful and sad (or "minor").
 
-If the phrases end on and emphasize C, the melody will sound sweet and happy ("major").
+If your play over C Major or the phrases end on and emphasize C, the melody will sound sweet and happy ("major").
 
-Here are those five pentatonic notes all over the entire neck, considered in an Am context:
+Enough talk!
+
+Let's first look at the five notes in Am pentatonic all over the neck:
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-wholeneck.png" title="Am Pentatonic, whole neck" >}}
 </div>
 
-The whole neck diagram for Am pentatonic is intractably complex. It's too much to absorb.
+This diagram for is intractably complex and way too much to keep in our memory in one chunk. We need to break it down into smaller, more tractable pieces.
 
-Notice that if we start on any A, though, we can find a C either three frets higher on the same string, or two frets **lower** on the next string (remember the fret shift when moving between string 3 and string 2, however).
+Notice first that if we start on any A, we can find a C either three frets higher on the same string, or two frets **lower** on the next string (remember the fret shift when moving between string 3 and string 2, however).
 
 #### Step 3a: Two one-octave shapes
 
-We can use this fact to first memorize two simple one-octave shapes:
+We can use this fact to first memorize two simple one-octave shapes (similar to what I called the "frying pan" shapes in [another set of posts]({{< ref "/post/2018-12-18-the-frying-pan.md" >}})):
 
 <div class="text-center">
 {{< figure src="/img/neck-diagrams/two-one-octave-Am-1.png" title="One octave Am Pentatonic, shape 1" width="33%">}}
@@ -88,11 +98,15 @@ We can use this fact to first memorize two simple one-octave shapes:
 
 You want to program your fingers to play these shapes without conscious effort.
 
-Note that shape 1 starts with your first finger on the root note, and the remaining notes on the same or higher frets. Shape 2 has your *pinky* on the root note, and the remaining notes *lower* on the neck. You can use this fact to great advantage: The note you're looking for is almost guaranteed to be close to one of those two fingers.
+Note that shape 1 starts with your *first* finger on the root note, and the remaining notes on the same or *higher* frets.
+
+Shape 2 has your *pinky* on the root note, and the remaining notes *lower* on the neck.
+
+You can use this fact to great advantage: The note you're looking for is almost guaranteed to be close to one of those two fingers. You shouldn't need to move your left hand very far up or down the neck to get one of those two fingers in position.
 
 Watch the pros and notice how efficiently they move their hands. Their hands always seem to be in the right place for the notes they want to play.
 
-{{% details "Exercise 1: One-octave shape 1 drills" %}}
+{{% details "Exercise 2: One-octave shape 1 drills" %}}
 <div class="bg-info">
   <p>
     First play the Am pentatonic scale using the one octave shape 1, starting on the A on the sixth string as shown above. Play it straight up and down until your fingers automatically know where to go. Thinking in terms of fingers, the pattern is 1-4, 1-3, 1-(3). You can either end on the root note in the higher octave, or just go back down the scale. Practice it ascending and descending. <strong>SEE</strong> the pattern in your mind's eye.
@@ -109,7 +123,7 @@ Watch the pros and notice how efficiently they move their hands. Their hands alw
 </div>
 {{% /details %}}
 
-{{% details "Exercise 2: One-octave drills, shapes 1 and 2" %}}
+{{% details "Exercise 3: One-octave drills, shapes 1 and 2" %}}
 <div class="bg-info">
   <p>
     First play the Am pentatonic scale on string six as we did in exercise 1, but this time use shape 2 instead. Again, play it straight up and down until your fingers automatically know where to go. Thinking in terms of fingers, the pattern is 4, 2-3, 1-4, (1). You can either end on the root note in the higher octave, or just go back down the scale. Practice it ascending and descending. **SEE** the pattern in your mind's eye.
