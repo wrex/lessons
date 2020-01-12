@@ -16,32 +16,6 @@ It's all too easy to get so wrapped up in theory and names and shapes and the me
 
 The goal is sounds, but you need visual landmarks (looking at the fretboard) and feeling (eye-ear-hand coordination) to get there. Theory and terminology is useful for organizing your thoughts and communicating with others, but thinking about names and theory gets in the way of actually playing music.
 
-### Inside the mind of a soloist
-
-Soloing is all about playing notes that relate to the underlying chords (playing now or coming right up). The solo (melody) reacts to, and *anticipates* the underlying chords (harmony). And vice-versa.
-
-Eventually, your brain will use the sounds you *hear* to trigger the sounds you want to make (almost unconsciously). You'll actually learn to *anticipate* chord changes and melody lines to play music that leads the listener. To get to that point, you first have to use visual queues and pattern recognition (shapes).
-
-Music theory gives you hints, but you simply don't have time to engage the verbal/analytical side of your brain while improvising a solo! You can use theory to devise a plan of attack before you get started, but once the beat starts you want to **play music** "from the soul" (without analytical thought).
-
-Say, for example, you want to solo over the chords Am, Dm, and E7. You know, or at least suspect, that these chords are in the key of Am, so before you start your solo you decide to use the good old Am pentatonic scale (the notes A, C, D, E, and G). [As an aside, this is definitely **not** your only scale choice to solo over those chords!]
-
-Since the root note of the scale is A, you glance at the fretboard and find an A somewhere in an appropriate register to use as "home base" for the start of your solo. [An "appropriate" register is usually one that doesn't overlap other instruments in the band.]
-
-You immediately "see" Am shapes in your mind's eye close to where your left hand currently resides. Once you "see" one of these shapes, you instantly and effortlessly "see" the pentatonic notes both lower and higher on the neck that contain this chord shape. Your mind almost lights up those notes on the fretboard.
-
-Those notes become the ingredients of your soup (the solo).
-
-The A's (root notes) light up brightest. Ever so slightly dimmer, the remaining notes in the Am chord (A, C and E) appear in your mind's eye connected to the A as one entity, perhaps all in the same color. Your solo will tend to emphasize those chord tones in various ways (often ending phrases on them, playing them louder, with vibrato, etc.).
-
-You visualize the 4 (D) and the &flat;7 (G) yet differently again. Those notes, and indeed the other seven notes outside the scale tones become "spices" for your soup. None of them sound quite resonant or peaceful, they all sound a little off. But without them, the solo would become extremely bland. Learning to use these "passing tones" and "outside notes" effectively is the very heart of jazz.
-
-Then you just stop thinking and start combining these notes using different rhythms, articulations, and emphasis based on what feels right.
-
-This whole process of finding and "seeing" the pentatonic notes involves almost no analytical or verbal thinking. It's much more of an auditory and visual process. You hear or think "A" and your hand goes to that note on the fretboard where your mind immediately "sees" Am chord shapes, which in turn help you recall the entire pentatonic (or other) scale shapes containing those notes.
-
-It's impossible to get to this point without repeated, thorough, methodical practice.
-
 What follows is the practice regimen for learning the pentatonic scale that I'm currently following myself.
 
 ### Prerequisites to **KNOWING** the pentatonic scale
