@@ -126,9 +126,7 @@ Notice that this multi-octave pattern has *both* one octave shapes within it. It
 
 Learning the two one octave pentatonic patterns (AKA [the frying pan]({{< ref "/post/2018-12-18-the-frying-pan.md" >}})) is pretty easy and fun, and shouldn't take you more than a single practice session to learn.
 
-Unfortunately, there are **five** different multi-octave shapes, each starting on a different note on the lowest string. Memorizing all five multi-octave shapes takes a bit more effort. Expect to spend about a week or two of daily practice just to memorize all five basic shapes.
-
-Mastery will take months at least, but simple memorization of the patterns shouldn't take more than a week or two.
+Unfortunately, there are **five** different multi-octave shapes, each starting on a different note on the lowest string. Memorizing all five multi-octave shapes takes a bit more effort. Expect to spend about a week or two of daily practice just to remember the basic shapes, but real mastery will take many, many months.
 
 We don't want to think too much about names, but it's worth  pointing out that the most common naming (numnbering) strategy is based on the lowest note in the shape.
 
@@ -183,44 +181,12 @@ The minor triad shapes in boxes 3 and 5 don't fall completely within the basic s
 
 To be completely pedantic, the major chord shape shown with box 3 isn't really playable as a chord for most people. In practice, you'll probably think of it as an arpeggio. You can play it as a power chord (5 chord) if you leave out the top string. (5 chords are neither minor nor major.)
 
-{{% details "Exercise 2: Memorize the individual multi-octave boxes" %}}
-<div class="bg-info">
-  <p>
-    I recommend starting in the key of Am or C Major so that you don't have to deal with sharps or flats. The only notes you will use are A, C, D, E, and G.
-  </p>
-  <p>
-    First play the "box 1" shape at the fifth fret straight up and down, from the lowest note to the highest, and then back down in order. The blue notes are optional. Repeat until you're confident you've got the position of every note memorized. Refer to the diagram as necessary, but try to get the shape into muscle memory as quickly as possible.
-  </p>
-  <p>
-    At this point, these are just notes without context. Because so many solos use the minor pentatonic sound (SO ... MANY ... SOLOS!) you are probably hearing a minor sound, but let's really hammer home a minor context.
-  </p>
-  <p>
-    Play the minor triad for box 1 shown above at the fifth fret (an Am). Keep strumming until you've got the sound of the chord in your head. Now slowly play some "lines" or "licks" with the box 1 shape, going up and down but starting on different notes, varying the rhythm, and occasionally skipping notes in the scale.
-  </p>
-  <p>
-    Close your eyes as you alternate between playing the Am chord and the notes of the scale. You should notice that your head and ears want to linger on ("resolve to") the A notes (the red notes in the diagram). If you really pay attention, you'll notice that the p5 note (E) gives almost as much a sense of resolution as the root, but although the &flat;3 and &flat;7 notes sound like they belong, they aren't quite as resolved.
-  </p>
-  <p>
-    The blue note should sound particularly spicy &mdash; you'll not want to end a phrase on the blue note. The blue note wants to go somewhere else, usually a half step lower or higher, but phrases using the blue note as a brief passing note will sound exquisite!
-  </p>
-  <p>
-    Okay, now let's cleanse the palate and move our ears to an A Major (not C Major!) context. First strum the major triad indicated in the Box 1 diagram at the <strong>2nd</strong> fret (this is an A <strong>Major</strong> chord). You may recognize this as the G shape from the CAGED system. (If you played the shape at the fifth fret you would be playing a C Major chord. For now we want to keep the same root note, and just change the quality of the harmony from minor to major.)
-  </p>
-  <p>
-    Again, switch between playing the chord and slowly progressing through notes within the shape. Do you hear how different things sound now? The same shape (in a different position on the neck) now sounds ... sweeter, happier. You should still find yourself wanting to resolve to the A notes again, but now they are in different locations and sound major.
-  </p>
-  <p>
-    To have some real fun, record a loop of yourself just strumming simple A5 power chords with any rhythm you like. Put it on as a backing track, and practice switching between using the box 1 shape at the 5th fret for a minor sound, and at the 2nd fret for a major sound. Notice how you want to emphasize different notes!
-  </p>
-  <p>
-    Remember the the "above and below" concept and notice that with your index finger on the root note on the thinnest string you are playing a minor pentatonic scale. If you shift your hand lower and put your pinky on that root note, you're playing the major pentatonic scale. "See" the minor and major chord shapes as you play the scale, and try to emphasize those chord tones in your improvisation to really sell the major or minor sound.
-  </p>
-  <p>
-    Now repeat this exercise for each of the remaining four box shapes.
-  </p>
-</div>
-{{% /details %}}
+### Memorization drills
 
-#### Step 3c: Practice connecting four groups of three
+This post is already far, far too long. Believe it or not, I've already removed *several* interesting but ultimately peripheral topics in the interest of brevity.
 
-#### Step 3d: Practice seeing the minor/major chord shapes within
+Rather than include further drills here, I think I'll leave them to future blog posts.
+
+Here is a rather meandering video to give you some idea of how to actually make headway with all this stuff, though.
+
+{{< youtube "o1XkFdY2hiw" >}}
