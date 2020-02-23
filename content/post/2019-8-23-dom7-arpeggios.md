@@ -46,9 +46,8 @@ It's a real accomplishment to get all of this down!
 
 The first arpeggio shape you should learn has the root on the 6th string. I'm going to call this shape 6M (6th string root, starting with the middle finger):
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/A7-6M-arpeggio.png" title="Shape '6M' of an A7 arpeggio" width="33%" >}}
-</div>
+
+{{< figure src="/img/neck-diagrams/A7-6M-arpeggio.png" title="Shape '6M' of an A7 arpeggio" width="33%" >}}
 
 ### Drill 0 (memorizing the shape)
 
@@ -102,13 +101,13 @@ A7, D7, and E7 are the I7, IV7, and V7 for a blues in A. Let's use this to play 
 
 ### Drill 5 (12-bar blues, ascending from the root of each change)
 
-One very good drill is to keep looping through all 12 bars of an A blues (with a quick-change and turnaround) using just this one shape:
+One very good drill is to keep looping through all 12 bars of an A blues (with a quick-change and turnaround) using just this one shape. Here are the changes for a 12 bar blues:
 
-A7 D7 A7 A7 <br>
-D7 D7 A7 A7 <br>
-E7 D7 A7 E7
+    A7 D7 A7 A7
+    D7 D7 A7 A7
+    E7 D7 A7 E7
 
-Play each with eighth notes (eight picked notes for each 4/4 bar). You'll struggle at first to play in time and keep track of where you are. Once you get better at it, try playing the drill over a backing track.
+Play each bar with eighth notes (eight picked notes for each 4/4 bar). You'll struggle at first to play in time and keep track of where you are. Once you get better at it, try playing the drill over a backing track.
 
 You'll have the shape down when you can play all 12 bars ascending from the root on each chord change.
 
@@ -122,9 +121,9 @@ Once you get good at that, make it more difficult. Instead of ascending from the
 
 As we saw, the IV7 chord in an A blues is D7 (comprised of D, F&sharp; A, and C). There is a D right there at the fifth fret just one string over (on the 5th string) so the next arpeggio we will learn is D7 in what I'm going to call the 5M shape:
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/D7-5M-arpeggio.png" title="Shape '5M' of an D7 arpeggio" width="33%" >}}
-</div>
+
+{{< figure src="/img/neck-diagrams/D7-5M-arpeggio.png" title="Shape '5M' of an D7 arpeggio" width="33%" >}}
+
 
 Practice getting this shape under your fingers in exactly the same way you did the 6M shape. Start with the lowest root, this time the D on the 5th string. Then play the F&sharp; on the 4th string, etc.
 
@@ -132,9 +131,8 @@ Notice how the first five notes in this shape are **exactly** the same as the 6M
 
 Now realize that you can play the V7 arpeggio simply by sliding this shape up two frets (same shape, but starting at the 7th fret:.
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/E7-5M-arpeggio.png" title="Shape '5M' of an D7 arpeggio" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/E7-5M-arpeggio.png" title="Shape '5M' of an D7 arpeggio" width="33%" >}}
+
 
 You can now play the entire 12-bar blues quite a bit more efficiently. Instead of jumping way up to the 10th fret with shape 6A, you can leave your hand at the 5th fret and just move over one more string to play D7. Then shift up two more frets to play E7.
 
@@ -144,9 +142,7 @@ Practice this!
 
 With one more shape, we can make things even more efficient and avoid moving up the neck at all. The V7 in A is E7, which is the notes E, G&sharp;, B, and D. Shape 5P uses your pinky to play the root instead of your middle finger:
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/E7-5P-arpeggio.png" title="Shape '5P' of an E7 arpeggio" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/E7-5P-arpeggio.png" title="Shape '5P' of an E7 arpeggio" width="33%" >}}
 
 Once you've got the shape down with drills 0-4, practice playing through the changes of a 12-bar blues using all three of these arpeggio shapes (6M, 5M, and 5P):
 
@@ -158,17 +154,13 @@ Remember the interval relationships on the fretboard with standard tuning: you c
 
 If you look at the root notes for the I, IV, and V chords in the key of A (the notes A, D, and E) you'll see they make a sort of inverted and backward L shape on the fretboard.
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/inverted-L.png" title="1/4/5 (A/D/E) 'Inverted L' shape" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/inverted-L.png" title="1/4/5 (A/D/E) 'Inverted L' shape" width="33%" >}}
 
 That pattern is incredibly helpful when navigating through a blues in any key. If you can find the root of the I chord on the 6th string, you can instantly find the roots for the IV and V chords just with that inverted L shape.
 
 There is also a normal L shape you can use when starting with the root on the 5th string.
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/regular-L.png" title="1/4/5 (A/D/E) 'Regular L' shape" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/regular-L.png" title="1/4/5 (A/D/E) 'Regular L' shape" width="33%" >}}
 
 Try playing an A blues using the 5M form of A7 at the 12th fret, then D7 at the 10th fret using shape 6M, and E7 using 6M at the 12th fret. Try alternating between the root on the 6th string and the root on the 5th string.
 
@@ -180,9 +172,7 @@ We learned two arpeggio shapes on the 5th string, one starting with the middle f
 
 As you may have guessed, there is also another way to play an A7 with the root on the sixth string but starting with your pinky:
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/A7-6P-arpeggio.png" title="Shape '6P' of an A7 arpeggio" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/A7-6P-arpeggio.png" title="Shape '6P' of an A7 arpeggio" width="33%" >}}
 
 Practice this shape the same way as all the others. To play efficiently **anywhere** on the neck though, you'll need to learn one more shape.
 
@@ -194,9 +184,7 @@ If you're playing an A7 using 5M at the 12th fret, the closest D is one string o
 
 We already learned how to play one shape with the root on the 4th string. Remember that these are **two** octave arpeggio shapes. The 6M shape can also be thought of as a "4R" shape (4th string ring finger).
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/D7-6M-AKA-4R-arpeggio.png" title="Shape '4R' (really 6M) of a D7 arpeggio" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/D7-6M-AKA-4R-arpeggio.png" title="Shape '4R' (really 6M) of a D7 arpeggio" width="33%" >}}
 
 But that requires a position shift with your left hand if you're already up around the 12th fret.
 
@@ -206,9 +194,7 @@ Since 6M is also sort of 4R, we've already got a shape where most of the notes a
 
 Enter shape 4I, the final dom7 arpeggio shape to learn:
 
-<div class="text-center">
-  {{< figure src="/img/neck-diagrams/D7-4I-arpeggio.png" title="Shape '4I' of a D7 arpeggio" width="33%" >}}
-</div>
+{{< figure src="/img/neck-diagrams/D7-4I-arpeggio.png" title="Shape '4I' of a D7 arpeggio" width="33%" >}}
 
 Go about learning this shape in exactly the same way (drills 0 through 5).
 
@@ -268,14 +254,12 @@ Remember that dom7 chords are **major** chords with a **major** third. It will a
 
 The major pentatonic scale is particularly useful, especially when you are playing over the I7 chord.
 
-<br>
 
 | Mixolydian mode        | 1   | M2  | M3  | P4  | P5  | M6   | &flat;7
 | ---                    | --- | --- | --- | --- | --- | --- | ---
 | Dom7 Arpeggio          | 1   |     | M3  |     | P5  |     | &flat;7
 | Major pentatonic scale | 1   | M2  | M3  |     | P5  | M6  |
 
-<br>
 
 Any of the notes from the Mixolydian mode will sound good over a dominant chord (especially the I7 chord in the blues).
 
