@@ -113,7 +113,7 @@ Learning the two one octave pentatonic patterns (AKA [the frying pan]({{< ref "/
 
 Unfortunately, there are **five** different multi-octave shapes, each starting on a different note on the lowest string. Memorizing all five multi-octave shapes takes a bit more effort. Expect to spend about a week or two of daily practice just to remember the basic shapes, but real mastery will take many, many months.
 
-We don't want to think too much about names, but it's worth  pointing out that the most common naming (numnbering) strategy is based on the lowest note in the shape.
+We don't want to think too much about names, but it's worth  pointing out that the most common naming (numbering) strategy is based on the lowest note in the shape.
 
 For example, the  diagram above is labeled "pattern 1" since the lowest note in the shape is the root or first note in the scale. The next shape higher on the neck would be called "pattern 2" since it starts with the note C, the 2nd note in the scale.
 
@@ -153,9 +153,9 @@ The leftmost diagram in each set is the basic shape of the box, with the "blue n
 
 {{< figure src="/img/neck-diagrams/box5.png" title="" >}}
 
-Note that I've **not** indicated the root note in the basic shape diagrams, because the root note depends on whether you are using the shape in a minor or major context!
+Note that I've **not** indicated the root note in the basic shape diagrams (the leftmost diagram in each row) because the root note depends on whether you are using the shape in a minor or major context!
 
-The second and third diagrams show where minor and major triads appear on the top four strings nearby or within the scale shape. Notice that each box shape contains *both* major and minor triads! The same box can be major or minor depending on which notes are emphasized.
+The second and third diagrams show where minor and major triads appear on the top four strings nearby or within the scale shape. Notice that each box shape contains *both* major and minor triads! Again, the same box can be major or minor depending on which notes are emphasized.
 
 The minor triad shapes in boxes 3 and 5 don't fall completely within the basic scale shapes. As we'll see, this is actually a good thing since we'll eventually start connecting these boxes together.
 
