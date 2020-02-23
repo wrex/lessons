@@ -12,9 +12,8 @@ Chords and scales are intimately connected. Consider these three (inter-connecte
 
 <!--more-->
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-5-1-2.png" title="Am Pentatonic shapes 5, 1, and 2" >}}
-</div>
+
 
 The root notes (A) of the scale are shown in red. The remaining notes in the two Am chord shapes on the top four strings are also shown in salmon. (Note that these chord shapes are just triads on the top three strings, with the highest note doubled on the 4th string in a lower octave.) The "blue notes" are shown with a triangle.
 
@@ -24,9 +23,7 @@ We've already learned that the five pentatonic shapes can be either major or min
 
 Here are **the exact same shapes on the fretboard again,** only now we are thinking "C Major" rather than "A minor":
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/C-4-5-1.png" title="C Pentatonic shapes 4, 5, and 1" >}}
-</div>
 
 Do you see how the same pentatonic scale shapes contain **both** the Am and C (major) chords? If you lower the A notes in each shape a whole step to G, you convert an Am chord (A-C-E) to a C Major chord (C-E-G).
 
