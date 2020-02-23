@@ -40,28 +40,21 @@ CAGED also focuses primarily on major chord shapes. Minor chords are possibly ev
 
 Regardless, you should be able to easily play major and minor triads for any natural root note (ABCDEFG) on the top four strings (DGBE) before continuing.
 
-{{% details "Exercise 1: Triad finding drill" %}}
-<div class="bg-info">
-<p>
-  Even though we'll be using the top four strings to form chords below, it's not as important to know the note on the D string as it is on the top three strings. This is because the chord shapes we use double the same note on the lowest (D) and highest (E) strings. Therefore we only need to practice finding notes on the top three strings.
-</p>
-<p>
-   Start with minor chords. Work through the short cycle-of-fourths (BEADGCF) in order. For each note, find the minor triad inversion on the GBE strings as low on the neck as possible. Then find the note from the E string an octave lower on the D string, then play and memorize that 4-string shape.
-</p>
-<p>
-  Let's say you're on the note B. You first need to find the note B as low on the neck as possible. The open B string doesn't work, because the remainder of the B minor triad (the note B D F&sharp;) with the root on the second string needs notes below the nut. So the lowest place to find a triad on the neck is the root inversion with the B on the G string at the 4th fret. Now double the F&sharp; on the E string an octave lower on the D string at the 4th fret. Play and memorize this four string shape while saying "B minor".
-</p>
-<p>
-  Next find the next Bm inversion up higher on the neck and repeat the process. Continue finding inversions as high up on the neck as you can comfortably reach. There are only three unique 4-string triad shapes for each root note, but you should be able to reach at least four different positions on the neck (on an electric guitar).
-</p>
-<p>
-  Once you've found all three shapes in different places on the neck, practice moving between them quickly, jumping around at random. Try to "see" the root notes in each position and use them to navigate.
-</p>
-<p>
-  Now repeat the process with the rest of the natural notes, proceeding through the cycle of fourths.
-</p>
-</div>
-{{% /details %}}
+### Exercise 1: Triad finding drill
+
+
+Even though we'll be using the top four strings to form chords below, it's not as important to know the note on the D string as it is on the top three strings. This is because the chord shapes we use double the same note on the lowest (D) and highest (E) strings. Therefore we only need to practice finding notes on the top three strings.
+
+Start with minor chords. Work through the short cycle-of-fourths (BEADGCF) in order. For each note, find the minor triad inversion on the GBE strings as low on the neck as possible. Then find the note from the E string an octave lower on the D string, then play and memorize that 4-string shape.
+
+Let's say you're on the note B. You first need to find the note B as low on the neck as possible. The open B string doesn't work, because the remainder of the B minor triad (the note B D F&sharp;) with the root on the second string needs notes below the nut. So the lowest place to find a triad on the neck is the root inversion with the B on the G string at the 4th fret. Now double the F&sharp; on the E string an octave lower on the D string at the 4th fret. Play and memorize this four string shape while saying "B minor".
+
+Next find the next Bm inversion up higher on the neck and repeat the process. Continue finding inversions as high up on the neck as you can comfortably reach. There are only three unique 4-string triad shapes for each root note, but you should be able to reach at least four different positions on the neck (on an electric guitar).
+
+Once you've found all three shapes in different places on the neck, practice moving between them quickly, jumping around at random. Try to "see" the root notes in each position and use them to navigate.
+
+Now repeat the process with the rest of the natural notes, proceeding through the cycle of fourths.
+
 
 {{< youtube "kcugYI4JjXQ" >}}
 
@@ -78,9 +71,7 @@ If your play over C Major or the phrases end on and emphasize C, the melody will
 
 Let's first look at these five notes in an Am context all over the neck:
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-wholeneck.png" title="Am Pentatonic, whole neck" >}}
-</div>
 
 This diagram is intractably complex and way too much to keep in our memory in one chunk. We need to break it down into smaller, more tractable pieces.
 
@@ -90,13 +81,9 @@ Before we do so, however, I'd like you to notice something important:
 
 If we start on any A, we can find a C either three frets higher on the same string, or two frets **lower** on the next string (remember the fret shift when moving between string 3 and string 2, however).
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/two-one-octave-Am-1.png" title="One octave Am Pentatonic, shape 1" width="33%">}}
-</div>
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/two-one-octave-Am-2.png" title="One octave Am Pentatonic, shape 2" width="33%">}}
-</div>
 
 Note that shape 1 starts with your *first* finger on the root note, and the remaining notes on the same or *higher* frets.
 
@@ -116,9 +103,7 @@ Watch the pros and notice how efficiently they move their hands. Their hands alw
 
 Now take a look at "pattern 1" or "box 1" of the Am pentatonic again (repeated here for convenience):
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-position1-degree1.png" title="Am Pentatonic, pattern 1" >}}
-</div>
 
 Notice that this multi-octave pattern has *both* one octave shapes within it. It starts with the one-octave shape 1 pattern, then continues with shape 2 (again with a one fret shift on the second string). Then it starts over again with shape 1 on the first string, then we run out of strings.
 
@@ -157,21 +142,16 @@ Below are the five individual multi-octave boxes or patterns of the pentatonic s
 The leftmost diagram in each set is the basic shape of the box, with the "blue note" indicated as a blue triangle. Note that the blue note is the &flat;5 in a minor context, but the &flat;3 in a major context. Either way, the location of the blue note is the same in either context! You can safely ignore the blue note when first memorizing the patterns, but eventually you'll cherish the extra spice those notes provide.
 
 
-<div class="text-center">
+
 {{< figure src="/img/neck-diagrams/box1.png" title="" >}}
-</div>
-<div class="text-center">
+
 {{< figure src="/img/neck-diagrams/box2.png" title="" >}}
-</div>
-<div class="text-center">
+
 {{< figure src="/img/neck-diagrams/box3.png" title="" >}}
-</div>
-<div class="text-center">
+
 {{< figure src="/img/neck-diagrams/box4.png" title="" >}}
-</div>
-<div class="text-center">
+
 {{< figure src="/img/neck-diagrams/box5.png" title="" >}}
-</div>
 
 Note that I've **not** indicated the root note in the basic shape diagrams, because the root note depends on whether you are using the shape in a minor or major context!
 
