@@ -65,9 +65,9 @@ Note that I call these "the" pentatonic shapes, with no distinction between majo
 
 The notes in Am pentatonic are A, C, D, E, and G. These are the *same* notes as C Major pentatonic (C, D, E, G, and A) but each note sounds and functions differently depending on the harmonic context. "Harmonic context" just means what chords are playing in the background, or which note "feels" like the root note (home base).
 
-If chord you play over is Am, and/or the phrases you create with those five notes end on and emphasize the note A, the melody will sound wistful and sad (or "minor").
+If the chord you play over is Am, and/or the phrases you create with those five notes end on and emphasize the note A, the melody will sound wistful and sad (or "minor").
 
-If your play over C Major or the phrases end on and emphasize C, the melody will sound sweet and happy ("major").
+If you play over C Major or the phrases end on and emphasize C, the melody will sound sweet and happy ("major").
 
 Let's first look at these five notes in an Am context all over the neck:
 
