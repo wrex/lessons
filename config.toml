@@ -13,6 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [Params]
   homeTitle = "An Operator's Manual for Guitar" # Set a different text for the header on the home page
   #subtitle = "AKA my struggles in learning the instrument"

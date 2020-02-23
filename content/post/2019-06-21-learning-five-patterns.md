@@ -48,15 +48,12 @@ The example system in this post is for learning the pentatonic scale everywhere 
 
 As we [covered previously]({{< ref "/post/2019-05-02-soloing.md" >}}), the pentatonic scale for the key of Am looks like this:
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-wholeneck.png" title="The Am Pentatonic Scale" >}}
-</div>
+
 
 Obviously that's too much to absorb all at once, so almost everyone breaks it into five different shapes or positions like this one:
 
-<div class="text-center">
 {{< figure src="/img/neck-diagrams/Am-position1-degree1.png" title="Am Pentatonic: Position 1" >}}
-</div>
 
 There are a million resources all over the internet with diagrams for all five positions (I've included diagrams in the [REFERENCE section below](#reference)) . But these diagrams and tabs are just tools and background information. What we need is a **system**.
 
