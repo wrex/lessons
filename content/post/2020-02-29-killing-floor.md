@@ -47,3 +47,5 @@ Slight nuances you may want to take note of:
 * The last line really emphasizes the backbeat, the "ands" of the rhythm. The symbols that look like a greater-than sign indicate an accented note (the "ands" in the last bar).
 
 * This song is all about rhythm and groove. It's not necessary (or even desirable) to play it cleanly, but by God you want to feel the groove!
+
+* Hubert plays it almost entirely "straight," without swinging the eighth notes. That doesn't keep him from putting in the occasional triplets, though. Listen!
