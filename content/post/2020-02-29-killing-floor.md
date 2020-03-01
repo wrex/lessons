@@ -26,7 +26,7 @@ The record is in the key of A, but like Jeff I'm going to show it in the key of 
 
 The song starts with an intro section using the turnaround (D7/C7/G7/D7) before starting with bar 1.
 
-Before learning this, or any song, I *highly* recommend you just listen to it from beginning to end over and over and over. Try to count along with the beat as you tap your foot ("One and Two and Three and Four and, One ..."). Each time through, try to focus on different parts. Try to listen to the base line separately from the guitar parts.
+Before learning this, or any song, I *highly* recommend you just listen to it over and over and over. Try to count along with the beat as you tap your foot ("One and Two and Three and Four and, One ..."). Each time through, try to focus on different parts. Try to listen to the bass line separately from the guitar parts.
 
 Pay particular attention to the **rhythms** of the song. Tap your feat and don't be ashamed to boogie in your seat a bit as you start to feel the groove. Listen for the heavy backbeat emphasis Hubert places on the "ands" as well as the occasional triplet rhythms.
 
@@ -34,7 +34,7 @@ Let's start with the easiest part, the bass line:
 
 {{< youtube eZE-oIg70vQ  >}}
 
-Technically, the riff is a simple major arpeggio over each chord with a cool chromatic run and catchy rhythm (but I guarantee that Hubert just thought it sounded cool). The riff outlines each chord in the song with the root note, M3, and P5 notes of each chord, but ascends chromatically from the M3 to the P5.
+Technically, the riff is a simple major arpeggio over each chord, with a cool chromatic run and catchy rhythm (but I doubt that Hubert thought about it that way — he almost certainly just thought it sounded cool). The riff outlines each chord in the song with the root note, M3, and P5 notes of each chord, but ascends chromatically from the M3 to the P5.
 
 Here it is in tablature:
 
